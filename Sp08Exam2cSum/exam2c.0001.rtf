@@ -1,0 +1,72 @@
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fmodern\fcharset0 Courier New;}{\f1\fmodern Courier New;}}
+{\colortbl ;\red0\green128\blue0;\red0\green0\blue0;\red128\green128\blue128;\red0\green0\blue128;\red128\green0\blue128;\red0\green0\blue255;}
+\viewkind4\uc1\pard\cf1\f0\fs20 ; Kevin Gilbert
+\par ; Exam2C, EE319K Spring 2008
+\par ; Instructor: Bill Bard(created by Valvano)
+\par \cf2       \cf3 org\cf2   \cf4 $3800\cf1     ; Globals go in RAM
+\par ;****PUT YOUR GLOBAL VARIABLES HERE******* 
+\par \cf2 
+\par       \cf3 org\cf2  \cf4 $4000\cf1     ;object code goes in ROM
+\par \cf5 Data1\cf2  \cf3 fcb\cf2  \cf4 10\cf2 ,\cf4 30\cf2 ,\cf4 20\cf2 ,\cf4 0\cf1                  ; Size=3, Err=0,\lang1024 Sum\lang1033 =60
+\par \cf5 Data2\cf2  \cf3 fcb\cf2  \cf4 50\cf2 ,\cf4 10\cf2 ,\cf4 100\cf2 ,\cf4 10\cf2 ,\cf4 0\cf1       \tab  ; Size=4, Err=1,\lang1024 Sum\lang1033 =xx
+\par \cf5\lang1024 Data3\cf2  \cf3 fcb\cf2  \cf4 10\cf2 ,\cf4 -20\cf2 ,\cf4 30\cf2 ,\cf4 5\cf2 ,\cf4 -10\cf2 ,\cf4 0\cf1\lang1033           \lang1024 ; Size=5\lang1033 , Err=0,\lang1024 Sum\lang1033 =-15\lang1024 
+\par \cf5\lang1033 Data4\cf2  \cf3 fcb\cf2  \cf4 2\cf2 ,\cf4 3\cf2 ,\cf4 -40\cf2 ,\cf4 35\cf2 ,\cf4 -10\cf2 ,\cf4 -10\cf2 ,\cf4 -50\cf2 ,\cf4 0\cf1    ; Size=7, Err=1,\lang1024 Sum\lang1033 =xx
+\par \cf5 Data5\cf2  \cf3 fcb\cf2  \cf4 2\cf2 ,\cf4 3\cf2 ,\cf4 4\cf2 ,\cf4 5\cf2 ,\cf4 1\cf2 ,\cf4 2\cf2 ,\cf4 3\cf2 ,\cf4 -100\cf2 ,\cf4 1\cf2 ,\cf4 0\cf1      ; Size=9, Err=1,\lang1024 Sum\lang1033 =xx
+\par \cf5 Data6\cf2  \cf3 fcb\cf2  \cf4 0\cf1                           ; Size=0, Err=0,\lang1024 Sum\lang1033 =0
+\par ;Err=1 means any nonzero value
+\par ;Sum=xx means it doesn't matter
+\par \cf2 
+\par \cf1 ;****PUT YOUR SUBROUTINES HERE*******
+\par \cf2 
+\par \cf1 ;***************** Size****************************
+\par ; Determines the length of an array of data.  
+\par ; Input parameter: RegY points to the array of 8-bit signed numbers
+\par ; Output parameter: RegA equals the length
+\par ; Error conditions: none 
+\par \cf5 Size\cf2\tab 
+\par \tab\tab\cf6 clra\cf2 
+\par \cf5 SizeLoop\cf2\tab\cf6 ldab\cf2\tab\cf4 0\cf2 ,Y\cf1\tab ; Load first element into regB
+\par \cf2\tab\tab\cf6 iny\cf2 
+\par \tab\tab\cf6 beq\cf2\tab\cf4 SizeDone\cf1\tab ; Done if element is null character (0)
+\par \cf2\tab\tab\cf6 inca\cf2\tab 
+\par \tab\tab\cf6 bra\cf2\tab\cf4 SizeLoop\cf1 
+\par \cf2 
+\par \cf5 SizeDone\cf2 
+\par \tab\tab\cf6 rts\cf2 
+\par 
+\par \cf1 ;*********Sum********************************
+\par ;Find the sum of an array, counting each negative value twice
+\par ;Input parameter: A pointer to the array is passed into your program in RegY.
+\par ;Output parameter: The 8-bit sum is returned in RegB. 
+\par ;Error conditions: Return RegA nonzero on signed overflow, and RegA=0 if the sum is valid. 
+\par \cf5 Sum\cf2 
+\par 
+\par 
+\par       \cf6 rts\cf2 
+\par 
+\par \cf1 ;****DO NOT CHANGE BELOW THIS POINT*******
+\par \cf5 Main\cf2   
+\par   \cf3 fcb\cf2   \cf4 $CF\cf2 ,\cf4 $40\cf2 ,\cf4 $00\cf2 ,\cf4 $15\cf2 ,\cf4 $FA\cf2 ,\cf4 $01\cf2 ,\cf4 $58\cf2 ,\cf4 $86\cf2 ,\cf4 $0D\cf2 ,\cf4 $15\cf2 ,\cf4 $FA\cf2 ,\cf4 $01\cf2 ,\cf4 $5E\cf2 ,\cf4 $1B\cf2 ,\cf4 $9A\cf2 ,\cf4 $18\cf2 ,\cf4 $00\cf2 ,\cf4 $80\cf2 ,\cf4 $00\cf2 ,\cf4 $00\cf2 ,\cf4 $1A\cf2 ,\cf4 $FA\cf2 ,\cf4 $00\cf2 ,\cf4 $D8\cf2 ,\cf4 $15\cf2 ,\cf4 $FA\cf1 
+\par \cf2   \cf3 fcb\cf2   \cf4 $01\cf2 ,\cf4 $8A\cf2 ,\cf4 $19\cf2 ,\cf4 $FA\cf2 ,\cf4 $00\cf2 ,\cf4 $F3\cf2 ,\cf4 $6D\cf2 ,\cf4 $84\cf2 ,\cf4 $ED\cf2 ,\cf4 $F3\cf2 ,\cf4 $00\cf2 ,\cf4 $04\cf2 ,\cf4 $CC\cf2 ,\cf4 $66\cf2 ,\cf4 $55\cf2 ,\cf4 $8D\cf2 ,\cf4 $00\cf2 ,\cf4 $00\cf2 ,\cf4 $27\cf2 ,\cf4 $34\cf1 
+\par \cf2       \cf6 jsr\cf2   \cf4 Size\cf1       ; Calls your first function
+\par \cf2   \cf3 fcb\cf2   \cf4 $18\cf2 ,\cf4 $0E\cf2 ,\cf4 $87\cf2 ,\cf4 $6C\cf2 ,\cf4 $82\cf2 ,\cf4 $15\cf2 ,\cf4 $FA\cf1 
+\par \cf2   \cf3 fcb\cf2   \cf4 $01\cf2 ,\cf4 $38\cf2 ,\cf4 $ED\cf2 ,\cf4 $84\cf2 ,\cf4 $19\cf2 ,\cf4 $42\cf2 ,\cf4 $EC\cf2 ,\cf4 $71\cf2 ,\cf4 $AC\cf2 ,\cf4 $82\cf2 ,\cf4 $26\cf2 ,\cf4 $0E\cf2 ,\cf4 $86\cf2 ,\cf4 $59\cf2 ,\cf4 $15\cf2 ,\cf4 $FA\cf2 ,\cf4 $01\cf2 ,\cf4 $21\cf2 ,\cf4 $EC\cf2 ,\cf4 $80\cf2 ,\cf4 $E3\cf2 ,\cf4 $71\cf2 ,\cf4 $6C\cf2 ,\cf4 $80\cf2 ,\cf4 $20\cf2 ,\cf4 $08\cf2 ,\cf4 $86\cf2 ,\cf4 $4E\cf2 ,\cf4 $15\cf2 ,\cf4 $FA\cf1 
+\par \cf2   \cf3 fcb\cf2   \cf4 $01\cf2 ,\cf4 $13\cf2 ,\cf4 $19\cf2 ,\cf4 $42\cf2 ,\cf4 $6D\cf2 ,\cf4 $84\cf2 ,\cf4 $15\cf2 ,\cf4 $FA\cf2 ,\cf4 $00\cf2 ,\cf4 $7B\cf2 ,\cf4 $20\cf2 ,\cf4 $C0\cf2 ,\cf4 $1A\cf2 ,\cf4 $FA\cf2 ,\cf4 $00\cf2 ,\cf4 $93\cf2 ,\cf4 $15\cf2 ,\cf4 $FA\cf2 ,\cf4 $01\cf2 ,\cf4 $3C\cf2 ,\cf4 $19\cf2 ,\cf4 $FA\cf2 ,\cf4 $00\cf2 ,\cf4 $CB\cf2 ,\cf4 $6D\cf2 ,\cf4 $84\cf2 ,\cf4 $ED\cf2 ,\cf4 $F3\cf2 ,\cf4 $00\cf2 ,\cf4 $04\cf1 
+\par \cf2   \cf3 fcb\cf2   \cf4 $8D\cf2 ,\cf4 $00\cf2 ,\cf4 $00\cf2 ,\cf4 $27\cf2 ,\cf4 $4E\cf2 ,\cf4 $CC\cf2 ,\cf4 $00\cf2 ,\cf4 $4E\cf1 
+\par \cf2       \cf6 jsr\cf2   \cf4 Sum\cf1    ; Calls your second function
+\par \cf2   \cf3 fcb\cf2   \cf4 $97\cf2 ,\cf4 $27\cf2 ,\cf4 $15\cf2 ,\cf4 $1A\cf2 ,\cf4 $FA\cf2 ,\cf4 $00\cf2 ,\cf4 $84\cf2 ,\cf4 $15\cf2 ,\cf4 $FA\cf2 ,\cf4 $01\cf2 ,\cf4 $1C\cf2 ,\cf4 $ED\cf2 ,\cf4 $84\cf2 ,\cf4 $19\cf2 ,\cf4 $42\cf2 ,\cf4 $EC\cf2 ,\cf4 $71\cf2 ,\cf4 $8C\cf2 ,\cf4 $01\cf1 
+\par \cf2   \cf3 fcb\cf2   \cf4 $00\cf2 ,\cf4 $27\cf2 ,\cf4 $14\cf2 ,\cf4 $20\cf2 ,\cf4 $20\cf2 ,\cf4 $B7\cf2 ,\cf4 $14\cf2 ,\cf4 $6C\cf2 ,\cf4 $82\cf2 ,\cf4 $15\cf2 ,\cf4 $FA\cf2 ,\cf4 $00\cf2 ,\cf4 $D3\cf2 ,\cf4 $ED\cf2 ,\cf4 $84\cf2 ,\cf4 $19\cf2 ,\cf4 $42\cf2 ,\cf4 $EC\cf2 ,\cf4 $71\cf2 ,\cf4 $AC\cf2 ,\cf4 $82\cf2 ,\cf4 $26\cf2 ,\cf4 $0E\cf2 ,\cf4 $86\cf2 ,\cf4 $59\cf2 ,\cf4 $15\cf2 ,\cf4 $FA\cf2 ,\cf4 $00\cf2 ,\cf4 $BC\cf2 ,\cf4 $EC\cf1 
+\par \cf2   \cf3 fcb\cf2   \cf4 $80\cf2 ,\cf4 $E3\cf2 ,\cf4 $71\cf2 ,\cf4 $6C\cf2 ,\cf4 $80\cf2 ,\cf4 $20\cf2 ,\cf4 $08\cf2 ,\cf4 $86\cf2 ,\cf4 $4E\cf2 ,\cf4 $15\cf2 ,\cf4 $FA\cf2 ,\cf4 $00\cf2 ,\cf4 $AE\cf2 ,\cf4 $19\cf2 ,\cf4 $42\cf2 ,\cf4 $6D\cf2 ,\cf4 $84\cf2 ,\cf4 $15\cf2 ,\cf4 $FA\cf2 ,\cf4 $00\cf2 ,\cf4 $16\cf2 ,\cf4 $20\cf2 ,\cf4 $A9\cf2 ,\cf4 $1B\cf2 ,\cf4 $86\cf2 ,\cf4 $86\cf2 ,\cf4 $0D\cf2 ,\cf4 $15\cf2 ,\cf4 $FA\cf2 ,\cf4 $00\cf1 
+\par \cf2   \cf3 fcb\cf2   \cf4 $9C\cf2 ,\cf4 $86\cf2 ,\cf4 $0D\cf2 ,\cf4 $15\cf2 ,\cf4 $FA\cf2 ,\cf4 $00\cf2 ,\cf4 $96\cf2 ,\cf4 $18\cf2 ,\cf4 $3E\cf2 ,\cf4 $18\cf2 ,\cf4 $20\cf2 ,\cf4 $FF\cf2 ,\cf4 $25\cf2 ,\cf4 $1A\cf2 ,\cf4 $FA\cf2 ,\cf4 $00\cf2 ,\cf4 $23\cf2 ,\cf4 $15\cf2 ,\cf4 $FA\cf2 ,\cf4 $00\cf2 ,\cf4 $C3\cf2 ,\cf4 $EC\cf2 ,\cf4 $82\cf2 ,\cf4 $15\cf2 ,\cf4 $FA\cf2 ,\cf4 $00\cf2 ,\cf4 $89\cf2 ,\cf4 $86\cf2 ,\cf4 $0D\cf2 ,\cf4 $15\cf1 
+\par \cf2   \cf3 fcb\cf2   \cf4 $FA\cf2 ,\cf4 $00\cf2 ,\cf4 $7C\cf2 ,\cf4 $3D\cf2 ,\cf4 $50\cf2 ,\cf4 $61\cf2 ,\cf4 $72\cf2 ,\cf4 $74\cf2 ,\cf4 $20\cf2 ,\cf4 $61\cf2 ,\cf4 $29\cf2 ,\cf4 $0D\cf2 ,\cf4 $00\cf2 ,\cf4 $50\cf2 ,\cf4 $61\cf2 ,\cf4 $72\cf2 ,\cf4 $74\cf2 ,\cf4 $20\cf2 ,\cf4 $62\cf2 ,\cf4 $29\cf2 ,\cf4 $0D\cf2 ,\cf4 $00\cf2 ,\cf4 $20\cf2 ,\cf4 $53\cf2 ,\cf4 $63\cf2 ,\cf4 $6F\cf2 ,\cf4 $72\cf2 ,\cf4 $65\cf2 ,\cf4 $3D\cf2 ,\cf4 $00\cf1 
+\par \cf2   \cf3 fcb\cf2   \cf4 $4F\cf2 ,\cf4 $76\cf2 ,\cf4 $65\cf2 ,\cf4 $72\cf2 ,\cf4 $66\cf2 ,\cf4 $6C\cf2 ,\cf4 $6F\cf2 ,\cf4 $77\cf2 ,\cf4 $00\cf2 ,\cf4 $40\cf2 ,\cf4 $00\cf2 ,\cf4 $00\cf2 ,\cf4 $03\cf2 ,\cf4 $00\cf2 ,\cf4 $05\cf2 ,\cf4 $40\cf2 ,\cf4 $04\cf2 ,\cf4 $00\cf2 ,\cf4 $04\cf2 ,\cf4 $00\cf2 ,\cf4 $05\cf2 ,\cf4 $40\cf2 ,\cf4 $09\cf2 ,\cf4 $00\cf2 ,\cf4 $05\cf2 ,\cf4 $00\cf2 ,\cf4 $05\cf2 ,\cf4 $40\cf2 ,\cf4 $0F\cf2 ,\cf4 $00\cf1 
+\par \cf2   \cf3 fcb\cf2   \cf4 $07\cf2 ,\cf4 $00\cf2 ,\cf4 $05\cf2 ,\cf4 $40\cf2 ,\cf4 $17\cf2 ,\cf4 $00\cf2 ,\cf4 $09\cf2 ,\cf4 $00\cf2 ,\cf4 $05\cf2 ,\cf4 $40\cf2 ,\cf4 $21\cf2 ,\cf4 $00\cf2 ,\cf4 $00\cf2 ,\cf4 $00\cf2 ,\cf4 $05\cf2 ,\cf4 $00\cf2 ,\cf4 $00\cf2 ,\cf4 $40\cf2 ,\cf4 $00\cf2 ,\cf4 $00\cf2 ,\cf4 $3C\cf2 ,\cf4 $00\cf2 ,\cf4 $0A\cf2 ,\cf4 $40\cf2 ,\cf4 $04\cf2 ,\cf4 $01\cf2 ,\cf4 $00\cf2 ,\cf4 $00\cf2 ,\cf4 $0F\cf2 ,\cf4 $40\cf1 
+\par \cf2   \cf3 fcb\cf2   \cf4 $09\cf2 ,\cf4 $FF\cf2 ,\cf4 $F1\cf2 ,\cf4 $00\cf2 ,\cf4 $0F\cf2 ,\cf4 $40\cf2 ,\cf4 $0F\cf2 ,\cf4 $01\cf2 ,\cf4 $00\cf2 ,\cf4 $00\cf2 ,\cf4 $0F\cf2 ,\cf4 $40\cf2 ,\cf4 $17\cf2 ,\cf4 $01\cf2 ,\cf4 $00\cf2 ,\cf4 $00\cf2 ,\cf4 $0A\cf2 ,\cf4 $40\cf2 ,\cf4 $21\cf2 ,\cf4 $00\cf2 ,\cf4 $00\cf2 ,\cf4 $00\cf2 ,\cf4 $05\cf2 ,\cf4 $00\cf2 ,\cf4 $00\cf2 ,\cf4 $3B\cf2 ,\cf4 $86\cf2 ,\cf4 $0C\cf2 ,\cf4 $5A\cf2 ,\cf4 $CB\cf1 
+\par \cf2   \cf3 fcb\cf2   \cf4 $CC\cf2 ,\cf4 $00\cf2 ,\cf4 $01\cf2 ,\cf4 $5C\cf2 ,\cf4 $C8\cf2 ,\cf4 $3A\cf2 ,\cf4 $3D\cf2 ,\cf4 $4F\cf2 ,\cf4 $CC\cf2 ,\cf4 $80\cf2 ,\cf4 $FC\cf2 ,\cf4 $5A\cf2 ,\cf4 $CF\cf2 ,\cf4 $3D\cf2 ,\cf4 $36\cf2 ,\cf4 $37\cf2 ,\cf4 $34\cf2 ,\cf4 $35\cf2 ,\cf4 $8C\cf2 ,\cf4 $00\cf2 ,\cf4 $00\cf2 ,\cf4 $2A\cf2 ,\cf4 $0C\cf2 ,\cf4 $41\cf2 ,\cf4 $51\cf2 ,\cf4 $C3\cf2 ,\cf4 $00\cf2 ,\cf4 $01\cf2 ,\cf4 $3B\cf2 ,\cf4 $86\cf1 
+\par \cf2   \cf3 fcb\cf2   \cf4 $2D\cf2 ,\cf4 $15\cf2 ,\cf4 $F9\cf2 ,\cf4 $E5\cf2 ,\cf4 $3A\cf2 ,\cf4 $CD\cf2 ,\cf4 $00\cf2 ,\cf4 $00\cf2 ,\cf4 $CE\cf2 ,\cf4 $00\cf2 ,\cf4 $0A\cf2 ,\cf4 $18\cf2 ,\cf4 $10\cf2 ,\cf4 $37\cf2 ,\cf4 $02\cf2 ,\cf4 $B7\cf2 ,\cf4 $C5\cf2 ,\cf4 $8C\cf2 ,\cf4 $00\cf2 ,\cf4 $00\cf2 ,\cf4 $26\cf2 ,\cf4 $F2\cf2 ,\cf4 $32\cf2 ,\cf4 $8B\cf2 ,\cf4 $30\cf2 ,\cf4 $15\cf2 ,\cf4 $F9\cf2 ,\cf4 $CD\cf2 ,\cf4 $04\cf2 ,\cf4 $36\cf1 
+\par \cf2   \cf3 fcb\cf2   \cf4 $F7\cf2 ,\cf4 $31\cf2 ,\cf4 $30\cf2 ,\cf4 $33\cf2 ,\cf4 $32\cf2 ,\cf4 $3D\cf2 ,\cf4 $A6\cf2 ,\cf4 $30\cf2 ,\cf4 $27\cf2 ,\cf4 $05\cf2 ,\cf4 $15\cf2 ,\cf4 $F9\cf2 ,\cf4 $BE\cf2 ,\cf4 $20\cf2 ,\cf4 $F7\cf2 ,\cf4 $3D\cf1 
+\par \cf2\f1          \cf3\f0 org\cf2   \cf4 $FFFE\cf1 
+\par \cf2          \cf3 fdb\cf2   \cf4 Main\cf1      Start location after reset
+\par \cf2 
+\par }
+ 

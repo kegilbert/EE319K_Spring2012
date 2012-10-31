@@ -1,0 +1,81 @@
+*** EVALUATION ***
+ANSI-C/cC++ Compiler for HC12 V-5.0.41 Build 10203, Jul 23 2010
+
+    1:  // OC Interrupt file for Recierver
+    2:  #include "derivative.h"
+    3:  #include "ISRR.h"
+    4:  #include "FIFO.h"
+    5:  
+    6:  unsigned char flag = 0;
+    7:  unsigned short frames;        // Number of frames received
+    8:  unsigned short ErrorCounter;
+    9:  
+   10:  void OC1_InitR(void) {
+*** EVALUATION ***
+
+Function: OC1_InitR
+Source  : \\psf\Home\Desktop\Lab9_TRUE\Sources\ISRR.c
+Options : -Cc -CPUHCS12 -D_HCS12_SERIALMON -D__NO_FLOAT__ -Env"GENPATH=\\psf\Home\Desktop\Lab9_TRUE;\\psf\Home\Desktop\Lab9_TRUE\bin;\\psf\Home\Desktop\Lab9_TRUE\prm;\\psf\Home\Desktop\Lab9_TRUE\cmd;\\psf\Home\Desktop\Lab9_TRUE\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;\\psf\Home\Desktop\EE319K\Lab8(ACD)\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\Lab9_TRUE\bin -EnvTEXTPATH=\\psf\Home\Desktop\Lab9_TRUE\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\Lab9_TRUE\Lab8_Data\Standard\ObjectCode\ISRR.c.o -WmsgSd1106
+
+   11:      ErrorCounter = 0;
+  0000 c7           [1]     CLRB  
+  0001 87           [1]     CLRA  
+  0002 7c0000       [3]     STD   ErrorCounter
+   12:      TSCR1 = 0x80;
+  0005 c680         [1]     LDAB  #128
+  0007 5b00         [2]     STAB  _TSCR1
+   13:      TSCR2 = 0x07;  //PLL enabled, 24MHz, clockspeed = 5.33microseconds  
+  0009 c607         [1]     LDAB  #7
+  000b 5b00         [2]     STAB  _TSCR2
+   14:      TIOS |= 0x02;
+  000d 4c0002       [4]     BSET  _TIOS,#2
+   15:      TIE |= 0x02;  
+  0010 4c0002       [4]     BSET  _TIE,#2
+   16:      TFLG1 = 0x02;
+  0013 c602         [1]     LDAB  #2
+  0015 5b00         [2]     STAB  _TFLG1
+   17:      TC0 = TCNT + 100;  // Begin first interrupt in 533 microseconds
+  0017 de00         [3]     LDX   _TCNT
+  0019 1ae064       [2]     LEAX  100,X
+  001c 5e00         [2]     STX   _TC0
+   18:  }
+  001e 3d           [5]     RTS   
+   19:  
+   20:  
+   21:  interrupt 9 void OC1handler(void) { 
+*** EVALUATION ***
+
+Function: OC1handler
+Source  : \\psf\Home\Desktop\Lab9_TRUE\Sources\ISRR.c
+Options : -Cc -CPUHCS12 -D_HCS12_SERIALMON -D__NO_FLOAT__ -Env"GENPATH=\\psf\Home\Desktop\Lab9_TRUE;\\psf\Home\Desktop\Lab9_TRUE\bin;\\psf\Home\Desktop\Lab9_TRUE\prm;\\psf\Home\Desktop\Lab9_TRUE\cmd;\\psf\Home\Desktop\Lab9_TRUE\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;\\psf\Home\Desktop\EE319K\Lab8(ACD)\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\Lab9_TRUE\bin -EnvTEXTPATH=\\psf\Home\Desktop\Lab9_TRUE\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\Lab9_TRUE\Lab8_Data\Standard\ObjectCode\ISRR.c.o -WmsgSd1106
+
+   22:     TFLG1 |= 0x02;
+  0000 4c0002       [4]     BSET  _TFLG1,#2
+   23:     TC1 = TC1 + 37525;    // Set next interrupt (5Hz) 37525
+  0003 dc00         [3]     LDD   _TC1
+  0005 c39295       [2]     ADDD  #37525
+  0008 5c00         [2]     STD   _TC1
+   24:     PTP ^= 0x80;          // Heartbeat
+  000a f60000       [3]     LDAB  _PTP
+  000d c880         [1]     EORB  #128
+  000f 7b0000       [3]     STAB  _PTP
+   25:     flag = FIFO_Put(SCI1DRL);    // Store received data into buffer
+  0012 d600         [3]     LDAB  _SCI1DRL
+  0014 160000       [4]     JSR   FIFO_Put
+  0017 7b0000       [3]     STAB  flag
+   26:     if(flag == 0){        // Error
+  001a 2608         [3/1]   BNE   *+10 ;abs = 0024
+   27:        ErrorCounter++;
+  001c fe0000       [3]     LDX   ErrorCounter
+  001f 08           [1]     INX   
+  0020 7e0000       [3]     STX   ErrorCounter
+   28:        return;
+  0023 0b           [8]     RTI   
+   29:     }  
+   30:     frames++;
+  0024 fe0000       [3]     LDX   frames
+  0027 08           [1]     INX   
+  0028 7e0000       [3]     STX   frames
+   31:     return;   
+   32:  }
+  002b 0b           [8]     RTI   

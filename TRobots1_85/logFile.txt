@@ -1,0 +1,2275 @@
+******TRobots v1.82 by Jonathan Valvano******
+Life pack at (41 , 844 )
+Life pack at (953 , 538 )
+Life pack at (745 , 122 )
+Life pack at (455 , 455 )
+File B0.s19 loads 142 bytes
+File E0.s19 loads 1188 bytes
+File G0.s19 loads 1214 bytes
+File H0.s19 loads 853 bytes
+File J0.s19 loads 853 bytes
+File K0.s19 loads 698 bytes
+File L0.s19 loads 1096 bytes
+File S0.s19 loads 2764 bytes
+File A1.s19 loads 1096 bytes
+File E1.s19 loads 1188 bytes
+File G1.s19 loads 1214 bytes
+File H1.s19 loads 853 bytes
+File K1.s19 loads 698 bytes
+File L1.s19 loads 1096 bytes
+File Q1.s19 loads 1096 bytes
+File S1.s19 loads 2764 bytes
+File Z1.s19 loads 2764 bytes
+File E2.s19 loads 1188 bytes
+File G2.s19 loads 1214 bytes
+File H2.s19 loads 853 bytes
+File K2.s19 loads 698 bytes
+File L2.s19 loads 1096 bytes
+File M2.s19 loads 698 bytes
+File S2.s19 loads 2764 bytes
+File T2.s19 loads 1214 bytes
+File E3.s19 loads 1188 bytes
+File G3.s19 loads 1214 bytes
+File H3.s19 loads 853 bytes
+File K3.s19 loads 698 bytes
+File L3.s19 loads 1096 bytes
+File S3.s19 loads 2764 bytes
+File X3.s19 loads 2764 bytes
+File Y3.s19 loads 1188 bytes
+Tank G0 hits tank K3
+Tank K3 crashes into tank G0
+Tank G0 crashes into tank K3
+Tank L3 hits tank Q1
+Tank E2 hits tank S2
+Tank X3 hits tank M2
+Tank Q1 hits tank S2
+Tank Q1 hits tank L3
+Tank E3 hits tank L2
+Tank L3 hits tank Q1
+Tank G0 hits tank K3
+Tank X3 hits tank M2
+Tank H3 hits tank L0
+Tank K3 hits tank L3
+Tank L3 hits tank K3
+Tank Q1 hits tank K3
+Tank E3 hits tank L2
+Tank K3 crashes into tank L3
+Tank L3 crashes into tank K3
+Tank K0 hits tank G3
+Tank K1 hits tank G2
+Tank S2 hits tank L2
+Tank E2 hits tank S2
+Tank G0 hits tank K3
+Tank L3 hits tank K3
+Tank Q1 hits tank K3
+Tank E3 hits tank L2
+Tank L0 hits tank A1
+Tank G3 hits tank H0
+Tank S1 hits tank L2
+Tank S2 hits tank L2
+Tank S3 hits tank Q1
+Tank J0 hits tank E0
+Tank K0 hits tank H0
+Tank H3 hits tank L0
+Tank E1 hits tank K0
+Tank Q1 hits tank K3
+Tank L0 hits tank A1
+Tank T2 hits tank K2
+Tank G3 hits tank H0
+Tank S2 hits tank L2
+Tank A1 hits tank L0
+Tank Y3 hits tank B0
+Tank S3 hits tank K3
+Tank Q1 kills tank K3
+Tank K3 watches from the side
+Tank E3 hits tank L2
+Tank L0 hits tank S0
+Tank G1 hits tank S1
+Tank G3 crashes into tank E0
+Tank E0 crashes into tank G3
+Tank K2 hits tank T2
+Tank K3 hits tank G0
+Tank G3 hits tank E0
+Tank H0 hits tank E0
+Tank L2 hits tank S1
+Tank S2 hits tank L2
+Tank A1 hits tank L0
+Tank H3 hits tank L0
+Tank S3 hits tank Q1
+Tank K0 hits tank H0
+Tank E1 hits tank K0
+Tank E3 hits tank L2
+Tank L0 hits tank S0
+Tank G1 hits tank S1
+Tank K1 hits tank G2
+Tank Q1 hits tank G0
+Tank H0 hits tank G3
+Tank H3 hits tank L0
+Tank S1 hits tank G1
+Tank S0 hits tank H3
+Tank A1 hits tank L0
+Tank L3 hits tank G0
+Tank K0 hits tank H0
+Tank G3 hits tank E0
+Tank T2 hits tank K2
+Tank K2 hits tank T2
+Tank H3 hits tank L0
+Tank Q1 hits tank G0
+Tank H2 hits tank A1
+Tank Z1 hits tank H2
+Tank T2 crashes into tank K2
+Tank K2 hits tank T2
+Tank H3 hits tank L0
+Tank H3 crashes into tank L0
+Tank S3 hits tank Q1
+Tank L0 crashes into tank H3
+Tank H2 hits tank Z1
+Tank G1 hits tank S1
+Tank K0 hits tank G3
+Tank Z1 hits tank H2
+Tank H2 hits tank A1
+Tank G0 hits tank L3
+Tank E3 hits tank S2
+Tank X3 hits tank M2
+Tank A1 kills tank L0
+Tank L0 watches from the side
+Tank Q1 hits tank G0
+Tank S2 hits tank E2
+Tank S1 kills tank L2
+Tank L2 watches from the side
+Tank S3 hits tank G0
+Tank S0 hits tank H3
+Tank T2 hits tank K2
+Tank E0 hits tank G3
+Tank A1 hits tank E0
+Tank E3 hits tank S2
+Tank G1 hits tank S1
+Tank X3 hits tank M2
+Tank S3 hits tank G0
+Tank S2 hits tank E2
+Tank M2 hits tank H1
+Tank T2 captures a lifepack 
+Tank G3 hits tank H0
+Tank K0 hits tank H0
+Tank A1 hits tank E0
+Tank E0 hits tank A1
+Tank Z1 hits tank H2
+Tank M2 hits tank H1
+Tank K2 hits tank T2
+Tank G0 hits tank L3
+Tank S3 hits tank G0
+Tank Y3 hits tank G3
+Tank G1 hits tank S1
+Tank L3 hits tank S3
+Tank X3 hits tank M2
+Tank H1 hits tank M2
+Tank E2 hits tank S2
+Tank E3 hits tank S2
+Tank G3 hits tank H0
+Tank H2 hits tank E0
+Tank H0 hits tank Y3
+Tank S1 hits tank G1
+Tank A1 hits tank E0
+Tank G0 hits tank L3
+Tank E0 crashes into tank A1
+Tank A1 crashes into tank E0
+Tank L3 hits tank S3
+Tank Z1 hits tank H2
+Tank H2 hits tank E0
+Tank H0 hits tank Y3
+Tank A1 kills tank E0
+Tank G1 hits tank B0
+Tank Y3 hits tank H0
+Tank E0 watches from the side
+Tank S3 hits tank G0
+Tank L3 hits tank S3
+Tank H3 hits tank S0
+Tank L1 hits tank G2
+Tank S0 hits tank H3
+Tank H1 hits tank M2
+Tank Z1 hits tank H2
+Tank Y3 hits tank Z1
+Tank E1 hits tank K0
+Tank K0 hits tank G3
+Tank G1 hits tank B0
+Tank L3 hits tank S3
+Tank S2 hits tank E3
+Tank S3 hits tank L3
+Tank G0 hits tank S3
+Tank G0 crashes into tank S3
+Tank S3 crashes into tank G0
+Tank S1 hits tank K0
+Tank H1 hits tank M2
+Tank Y3 hits tank Z1
+Tank K2 hits tank T2
+Tank S2 hits tank E3
+Tank L1 hits tank G2
+Tank S0 hits tank H3
+Tank M2 hits tank H1
+Tank E1 hits tank K2
+Tank G1 hits tank B0
+Tank L1 hits tank G2
+Tank H3 hits tank S0
+Tank S2 hits tank E3
+Tank L3 hits tank S3
+Tank S0 hits tank H3
+Tank E2 hits tank G1
+Tank S3 kills tank G0
+Tank G0 watches from the side
+Tank M2 hits tank H1
+Tank G0 hits tank L3
+Tank K0 crashes into tank E2
+Tank E2 crashes into tank K0
+Tank T2 hits tank H0
+Tank E2 hits tank B0
+Tank H3 hits tank S0
+Tank S1 hits tank K2
+Tank L3 hits tank G1
+Tank H0 hits tank T2
+Tank S2 hits tank E3
+Tank H2 hits tank A1
+Tank E1 hits tank K0
+Tank Q1 hits tank S3
+Tank S1 hits tank K2
+Tank H3 hits tank S0
+Tank L3 hits tank G1
+Tank Z1 hits tank Y3
+Tank G3 hits tank K2
+Tank E2 hits tank K0
+Tank E1 kills tank H0
+Tank H0 watches from the side
+Tank H3 hits tank S0
+Tank L3 hits tank G1
+Tank S3 hits tank Q1
+Tank S0 hits tank H3
+Tank G3 hits tank K2
+Tank E3 hits tank S2
+Tank S1 hits tank K2
+Tank E2 hits tank K0
+Tank L1 hits tank G2
+Tank H3 hits tank S0
+Tank S3 hits tank Q1
+Tank Z1 hits tank Y3
+Tank G3 hits tank K2
+Tank K0 crashes into tank E1
+Tank E1 crashes into tank K0
+Tank Q1 hits tank S3
+Tank S1 kills tank K2
+Tank K2 watches from the side
+Tank L3 hits tank G1
+Tank L1 hits tank G2
+Tank H3 hits tank S0
+Tank S3 hits tank Q1
+Tank E1 hits tank B0
+Tank E2 hits tank E3
+Tank Z1 hits tank Y3
+Tank B0 captures a lifepack 
+Tank G3 hits tank S1
+Tank K0 hits tank S2
+Tank H1 hits tank M2
+Tank L3 hits tank G1
+Tank X3 hits tank S1
+Tank H3 hits tank S0
+Tank S3 hits tank Q1
+Tank E2 hits tank E3
+Tank Z1 hits tank Y3
+Tank Q1 hits tank S3
+Tank H1 hits tank M2
+Tank G1 hits tank L3
+Tank L3 hits tank G1
+Tank E1 hits tank B0
+Tank S3 hits tank Q1
+Tank Z1 hits tank Y3
+Tank H1 kills tank M2
+Tank M2 watches from the side
+Tank G1 hits tank L3
+Tank Q1 kills tank S3
+Tank S3 watches from the side
+Tank L3 hits tank G1
+Tank T2 kills tank S0
+Tank S0 watches from the side
+Tank E1 captures a lifepack 
+Tank G3 hits tank S1
+Tank H2 hits tank J0
+Tank E1 hits tank B0
+Tank S2 hits tank K0
+Tank E3 hits tank G3
+Tank T2 hits tank H3
+Tank Z1 hits tank Y3
+Tank G1 kills tank L3
+Tank L3 watches from the side
+Tank S1 hits tank G3
+Tank H3 hits tank T2
+Tank E1 hits tank B0
+Tank E2 captures a lifepack 
+Tank S1 hits tank X3
+Tank E1 hits tank B0
+Tank X3 hits tank E3
+Tank S1 hits tank X3
+Tank X3 hits tank E3
+Tank S1 hits tank E3
+Tank E3 hits tank S2
+Tank Z1 bug= 28, PC= 41CE 
+Tank L1 hits tank K0
+Tank S2 hits tank S1
+Tank K0 hits tank L1
+Tank X3 hits tank E3
+Tank H3 hits tank B0
+Tank H2 hits tank K1
+Tank E3 kills tank S2
+Tank S2 watches from the side
+Tank X3 kills tank E3
+Tank E3 watches from the side
+Tank H3 hits tank B0
+Tank H2 hits tank K1
+Tank L1 hits tank G2
+Tank E3 kills tank S1
+Tank X3 hits tank B0
+Tank S1 watches from the side
+Tank Q1 hits tank G3
+Tank L1 hits tank G2
+Tank Q1 kills tank G3
+Tank G3 watches from the side
+Tank G3 kills tank Q1
+Tank Q1 watches from the side
+Tank J0 hits tank H3
+Tank H1 hits tank A1
+Tank J0 hits tank H3
+Tank H3 captures a lifepack 
+Tank L1 hits tank G2
+Tank Y3 hits tank Z1
+Tank G2 crashes into tank L1
+Tank G2 watches from the side
+Tank G2 kills tank G1
+Tank G1 watches from the side
+Tank Z1 captures a lifepack 
+Tank J0 hits tank H3
+Tank J0 hits tank H3
+Tank A1 captures a lifepack 
+Tank J0 hits tank H3
+Tank E2 hits tank H1
+Tank Z1 hits tank Y3
+Tank J0 hits tank H3
+Tank H1 hits tank E2
+Tank H1 crashes into tank E2
+Tank E2 crashes into tank H1
+Tank J0 captures a lifepack 
+Tank H3 hits tank B0
+Tank E2 hits tank H1
+Tank J0 hits tank H3
+Tank J0 kills tank H3
+Tank H3 watches from the side
+Tank J0 hits tank B0
+Tank J0 kills tank B0
+Tank B0 watches from the side
+Tank X3 captures a lifepack 
+Tank Z1 bug= 28, PC= 41CE 
+Tank X3 bug= 28, PC= 41CE 
+Tank L1 kills tank K0
+Tank K0 watches from the side
+Tank E2 hits tank A1
+Tank A1 hits tank E2
+Tank E2 hits tank A1
+Tank A1 hits tank E2
+Tank A1 crashes into tank E2
+Tank E2 crashes into tank A1
+Tank T2 hits tank L1
+Tank A1 hits tank E2
+Tank E2 hits tank A1
+Tank A1 hits tank E2
+Tank L1 hits tank H2
+Tank L1 hits tank H2
+Tank J0 hits tank T2
+Tank T2 hits tank H2
+Tank H2 hits tank L1
+Tank J0 hits tank T2
+Tank Z1 hits tank H2
+Tank L1 hits tank H2
+Tank H2 hits tank J0
+Tank L1 kills tank H2
+Tank H2 watches from the side
+Tank T2 hits tank X3
+Tank T2 hits tank X3
+Tank X3 hits tank T2
+Tank A1 hits tank E2
+Tank T2 hits tank X3
+Tank X3 hits tank K1
+Tank T2 hits tank K1
+Tank T2 hits tank X3
+Game over, time exceeded
+Tank J0 has the highest score
+Battle = 16  Time = 0
+   	Hlt 	Score
+B0 	dead	-80
+E0 	dead	-31
+G0 	dead	84
+H0 	dead	28
+J0 	399 	408
+K0 	dead	79
+L0 	dead	19
+S0 	dead	42
+A1 	19D 	342
+E1 	3FF 	318
+G1 	dead	186
+H1 	168 	239
+K1 	267 	93
+L1 	2CD 	391
+Q1 	dead	368
+S1 	dead	273
+Z1 	399 	245
+E2 	135 	256
+G2 	dead	-15
+H2 	dead	114
+K2 	dead	25
+L2 	dead	-43
+M2 	dead	2
+S2 	dead	154
+T2 	135 	285
+E3 	dead	276
+G3 	dead	203
+H3 	dead	240
+K3 	dead	-26
+L3 	dead	261
+S3 	dead	272
+X3 	201 	290
+Y3 	069 	111
+******TRobots v1.83 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File B0.s19 loads 142 bytes
+File E0.s19 loads 1188 bytes
+File G0.s19 loads 1214 bytes
+File H0.s19 loads 853 bytes
+File J0.s19 loads 853 bytes
+File K0.s19 loads 698 bytes
+File L0.s19 loads 1096 bytes
+File S0.s19 loads 2764 bytes
+File A1.s19 loads 1096 bytes
+File E1.s19 loads 1188 bytes
+File G1.s19 loads 1214 bytes
+File H1.s19 loads 853 bytes
+File K1.s19 loads 698 bytes
+File L1.s19 loads 1096 bytes
+File Q1.s19 loads 1096 bytes
+File S1.s19 loads 2764 bytes
+File Z1.s19 loads 2764 bytes
+File E2.s19 loads 1188 bytes
+File G2.s19 loads 1214 bytes
+File H2.s19 loads 853 bytes
+File K2.s19 loads 698 bytes
+File L2.s19 loads 1096 bytes
+File M2.s19 loads 698 bytes
+File S2.s19 loads 2764 bytes
+File T2.s19 loads 1214 bytes
+File E3.s19 loads 1188 bytes
+File G3.s19 loads 1214 bytes
+File H3.s19 loads 853 bytes
+File K3.s19 loads 698 bytes
+File L3.s19 loads 1096 bytes
+File S3.s19 loads 2764 bytes
+File X3.s19 loads 2764 bytes
+File Y3.s19 loads 1188 bytes
+Tank Q1 hits tank E0
+Tank Z1 hits tank G3
+Tank S3 hits tank K3
+Tank L0 hits tank M2
+Tank L1 hits tank Y3
+Tank S1 captures a lifepack 
+Tank Q1 hits tank E0
+Tank H3 hits tank B0
+Tank M2 hits tank G2
+Tank L0 hits tank M2
+Tank L1 hits tank Y3
+Tank Y3 hits tank L1
+Tank Z1 hits tank G3
+Tank Q1 hits tank E0
+Tank H2 hits tank E2
+Tank S2 hits tank E1
+Tank Y3 crashes into tank L1
+Tank L1 crashes into tank Y3
+Tank G1 hits tank T2
+Tank M2 hits tank G2
+Tank S1 hits tank S0
+Tank G2 hits tank L0
+Tank L0 hits tank M2
+Tank K3 crashes into tank S3
+Tank S3 crashes into tank K3
+Tank L1 hits tank Y3
+Tank G0 hits tank K1
+Tank S3 hits tank K3
+Tank Y3 hits tank L1
+Tank H2 hits tank E2
+Tank S0 hits tank H1
+Tank Q1 hits tank E0
+Tank E1 hits tank S2
+Tank S2 hits tank E1
+Tank S1 hits tank S0
+Tank S3 hits tank K3
+Tank L1 hits tank Y3
+Tank S2 hits tank E1
+Tank G0 crashes into tank K1
+Tank Q1 hits tank E0
+Tank G0 hits tank K1
+Tank Y3 hits tank L1
+Tank K1 hits tank G0
+Tank K3 crashes into tank S3
+Tank Y3 captures a lifepack 
+Tank E1 hits tank B0
+Tank L0 hits tank M2
+Tank S1 hits tank S0
+Tank M2 hits tank L0
+Tank G3 hits tank T2
+Tank S3 hits tank K3
+Tank S2 hits tank B0
+Tank E1 hits tank S2
+Tank Z1 hits tank G3
+Tank J0 hits tank E2
+Tank K3 crashes into tank S3
+Tank S3 crashes into tank K3
+Tank E0 hits tank L3
+Tank Q1 hits tank E0
+Tank G0 hits tank K1
+Tank S0 hits tank H1
+Tank L3 hits tank E0
+Tank H2 hits tank E2
+Tank L0 hits tank M2
+Tank G2 hits tank M2
+Tank G3 hits tank Z1
+Tank M2 hits tank L0
+Tank J0 hits tank E2
+Tank S3 hits tank K3
+Tank K3 hits tank S3
+Tank Z1 hits tank G3
+Tank S0 hits tank H3
+Tank T2 hits tank G1
+Tank J0 hits tank E2
+Tank L1 hits tank Y3
+Tank L0 hits tank M2
+Tank M2 crashes into tank L0
+Tank L0 crashes into tank M2
+Tank G2 hits tank M2
+Tank Y3 hits tank L1
+Tank M2 hits tank L0
+Tank G3 hits tank Z1
+Tank S3 hits tank K3
+Tank S0 hits tank H3
+Tank Z1 hits tank G3
+Tank T2 hits tank G1
+Tank E2 hits tank J0
+Tank L0 hits tank M2
+Tank M2 hits tank L0
+Tank G3 hits tank Z1
+Tank E2 crashes into tank J0
+Tank J0 crashes into tank E2
+Tank E0 hits tank L3
+Tank S0 hits tank H3
+Tank S3 hits tank K3
+Tank E2 hits tank J0
+Tank Z1 hits tank G3
+Tank J0 hits tank E2
+Tank L3 hits tank E0
+Tank L0 kills tank M2
+Tank M2 watches from the side
+Tank G0 hits tank H2
+Tank G1 hits tank G3
+Tank H0 hits tank L2
+Tank K1 hits tank H2
+Tank S1 hits tank H1
+Tank G3 hits tank Z1
+Tank L3 hits tank E0
+Tank S0 hits tank H3
+Tank H1 hits tank S1
+Tank G0 hits tank H2
+Tank S3 hits tank K3
+Tank E2 hits tank J0
+Tank S1 hits tank G0
+Tank G0 crashes into tank S1
+Tank G3 hits tank Z1
+Tank L3 hits tank E0
+Tank G0 hits tank S1
+Tank S0 hits tank H3
+Tank H2 hits tank G0
+Tank Q1 hits tank T2
+Tank K2 hits tank S3
+Tank S3 hits tank K2
+Tank E2 hits tank J0
+Tank S1 hits tank G0
+Tank E3 hits tank L3
+Tank L3 kills tank E0
+Tank E0 watches from the side
+Tank K2 crashes into tank S3
+Tank J0 hits tank E2
+Tank L2 hits tank Y3
+Tank A1 hits tank G2
+Tank S0 hits tank B0
+Tank H2 hits tank G0
+Tank S2 captures a lifepack 
+Tank S3 hits tank K2
+Tank A1 hits tank G2
+Tank L2 hits tank Y3
+Tank E1 captures a lifepack 
+Tank E2 hits tank J0
+Tank S1 hits tank H2
+Tank L3 hits tank E3
+Tank S0 hits tank B0
+Tank G1 hits tank T2
+Tank H1 hits tank H2
+Tank H2 hits tank G0
+Tank Q1 hits tank T2
+Tank E3 hits tank L3
+Tank L2 hits tank Y3
+Tank A1 hits tank G2
+Tank J0 hits tank K1
+Tank L3 hits tank E3
+Tank S3 hits tank K2
+Tank S0 hits tank B0
+Tank S1 hits tank H2
+Tank Y3 hits tank L2
+Tank G1 hits tank T2
+Tank Q1 hits tank T2
+Tank L2 captures a lifepack 
+Tank L2 hits tank Y3
+Tank H2 hits tank G0
+Tank S0 hits tank B0
+Tank L3 hits tank E3
+Tank J0 crashes into tank K1
+Tank G1 hits tank T2
+Tank K1 crashes into tank J0
+Tank Y3 hits tank L2
+Tank J0 hits tank K1
+Tank E3 hits tank L3
+Tank Q1 hits tank T2
+Tank S3 hits tank K2
+Tank L2 hits tank Y3
+Tank G1 hits tank T2
+Tank K2 hits tank K0
+Tank S0 hits tank B0
+Tank E2 hits tank K1
+Tank G1 crashes into tank T2
+Tank T2 crashes into tank G1
+Tank T2 watches from the side
+Tank L3 hits tank E3
+Tank K0 hits tank K2
+Tank K0 crashes into tank K2
+Tank K2 crashes into tank K0
+Tank A1 hits tank G2
+Tank Q1 hits tank G1
+Tank J0 hits tank K1
+Tank S3 hits tank K2
+Tank S1 hits tank H2
+Tank E2 hits tank K1
+Tank S0 hits tank B0
+Tank X3 hits tank A1
+Tank L3 hits tank E3
+Tank S2 hits tank H2
+Tank E1 hits tank S2
+Tank S3 hits tank K2
+Tank K0 hits tank K2
+Tank S3 runs into the wall
+Tank L3 hits tank E3
+Tank S3 runs into the wall
+Tank S3 runs into the wall
+Tank S3 runs into the wall
+Tank S3 runs into the wall
+Tank S3 runs into the wall
+Tank S3 runs into the wall
+Tank H2 hits tank S2
+Tank S3 runs into the wall
+Tank S3 runs into the wall
+Tank L2 hits tank Y3
+Tank S3 runs into the wall
+Tank S3 runs into the wall
+Tank S3 runs into the wall
+Tank G2 hits tank L0
+Tank S3 runs into the wall
+Tank K2 hits tank K0
+Tank S3 runs into the wall
+Tank S3 runs into the wall
+Tank S3 watches from the side
+Tank K1 hits tank E2
+Tank E1 hits tank S2
+Tank H1 hits tank S2
+Tank B0 captures a lifepack 
+Tank K0 hits tank K2
+Tank L0 hits tank G2
+Tank L3 hits tank E3
+Tank K2 hits tank K0
+Tank K1 kills tank E2
+Tank E2 watches from the side
+Tank K0 kills tank K2
+Tank K2 watches from the side
+Tank G0 hits tank S1
+Tank E1 hits tank S2
+Tank L0 hits tank G2
+Tank S1 hits tank K1
+Tank S2 hits tank L1
+Tank K1 hits tank S1
+Tank E1 hits tank S2
+Tank Y3 hits tank H1
+Tank X3 hits tank G2
+Tank J0 hits tank K0
+Tank G0 hits tank S1
+Tank L0 hits tank G2
+Tank L1 hits tank S2
+Tank S1 kills tank K1
+Tank K1 watches from the side
+Tank H2 hits tank S2
+Tank S2 hits tank L1
+Tank G3 hits tank Z1
+Tank H1 crashes into tank Y3
+Tank Y3 crashes into tank H1
+Tank X3 kills tank G2
+Tank G2 watches from the side
+Tank Z1 hits tank B0
+Tank H1 hits tank H0
+Tank H0 hits tank Y3
+Tank A1 hits tank X3
+Tank Q1 hits tank E3
+Tank L1 hits tank S2
+Tank Z1 hits tank B0
+Tank S1 hits tank G0
+Tank G3 hits tank Z1
+Tank Q1 hits tank E3
+Tank G3 hits tank B0
+Tank S1 hits tank E1
+Tank Z1 hits tank B0
+Tank E1 hits tank L1
+Tank S1 hits tank E1
+Tank Y3 hits tank H1
+Tank H0 hits tank H1
+Tank S0 captures a lifepack 
+Tank Z1 hits tank B0
+Tank G0 hits tank H3
+Tank S2 bug= 28, PC= 41CE 
+Tank G0 hits tank H3
+Tank H3 hits tank G0
+Tank S0 hits tank L1
+Tank Z1 hits tank S0
+Tank G0 hits tank H3
+Tank H2 hits tank E3
+Tank L1 hits tank S0
+Tank G3 hits tank S0
+Tank H3 kills tank G0
+Tank G0 watches from the side
+Tank E1 crashes into tank S1
+Tank S1 crashes into tank E1
+Tank S1 hits tank E1
+Tank Q1 hits tank Y3
+Tank S2 hits tank H0
+Tank G1 hits tank L3
+Tank H0 hits tank H1
+Tank S2 hits tank H0
+Tank Q1 kills tank Y3
+Tank Y3 watches from the side
+Tank H2 kills tank E3
+Tank E3 watches from the side
+Tank G1 hits tank L3
+Tank S2 hits tank H0
+Tank H0 hits tank H1
+Tank L3 hits tank G1
+Tank S1 hits tank E1
+Tank Z1 bug= 28, PC= 41CE 
+Tank S2 hits tank H0
+Tank H0 hits tank H1
+Tank K3 hits tank H3
+Tank L3 hits tank G1
+Tank E1 hits tank S1
+Tank Z1 hits tank S0
+Tank H0 kills tank H1
+Tank H1 watches from the side
+Tank L3 hits tank G1
+Tank X3 hits tank L3
+Tank X3 captures a lifepack 
+Tank S2 hits tank H0
+Tank S0 hits tank B0
+Tank L1 hits tank L2
+Tank H0 hits tank E1
+Tank L1 hits tank L2
+Tank S0 kills tank B0
+Tank B0 watches from the side
+Tank H3 crashes into tank H0
+Tank H0 crashes into tank H3
+Tank S2 kills tank H3
+Tank H3 watches from the side
+Tank S2 hits tank E1
+Tank S1 hits tank E1
+Tank L3 hits tank L0
+Tank G1 hits tank Z1
+Tank S2 hits tank E1
+Tank S0 bug= 28, PC= 41CE 
+Tank L2 hits tank S1
+Tank L2 hits tank S1
+Tank S2 hits tank S1
+Tank X3 hits tank L0
+Tank G1 hits tank Z1
+Tank A1 hits tank H2
+Tank X3 hits tank L0
+Tank S1 hits tank L2
+Tank X3 kills tank L0
+Tank L0 watches from the side
+Tank G1 kills tank Z1
+Tank Z1 watches from the side
+Tank A1 hits tank H2
+Tank Q1 captures a lifepack 
+Tank G1 captures a lifepack 
+Tank H0 hits tank G3
+Tank G3 crashes into tank H0
+Tank S1 bug= 28, PC= 41CE 
+Tank S1 watches from the side
+Tank H2 hits tank A1
+Tank S0 hits tank G1
+Tank J0 hits tank G3
+Tank H2 hits tank A1
+Tank J0 kills tank G3
+Tank G3 watches from the side
+Tank G3 hits tank H0
+Tank J0 hits tank H0
+Tank J0 crashes into tank H0
+Tank H0 crashes into tank J0
+Tank H0 hits tank J0
+Tank S2 bug= 28, PC= 41CE 
+Tank S2 watches from the side
+Tank J0 hits tank E1
+Tank L1 captures a lifepack 
+Tank L1 hits tank K0
+Tank H0 captures a lifepack 
+Tank K0 hits tank L1
+Tank L1 hits tank K0
+Tank L2 hits tank G1
+Tank K0 crashes into tank L1
+Tank L2 hits tank G1
+Tank H0 kills tank H2
+Tank H0 crashes into tank H2
+Tank H2 watches from the side
+Tank L1 hits tank K0
+Tank K0 crashes into tank L1
+Tank L1 crashes into tank K0
+Tank K0 crashes into tank L1
+Tank L1 crashes into tank K0
+Tank L1 hits tank K0
+Tank L1 crashes into tank K0
+Tank L1 crashes into tank K0
+Tank K0 crashes into tank L1
+Tank K0 watches from the side
+Tank L2 hits tank G1
+Tank L3 hits tank G1
+Tank S0 hits tank L2
+Tank L3 hits tank G1
+Tank L2 hits tank G1
+Tank H0 hits tank Q1
+Tank H0 hits tank Q1
+Tank H0 hits tank Q1
+Tank H0 hits tank Q1
+Tank S0 bug= 28, PC= 41CE 
+Tank L3 kills tank K3
+Tank K3 watches from the side
+Tank X3 captures a lifepack 
+Tank L2 hits tank H0
+Tank H0 hits tank L2
+Tank L2 hits tank H0
+Tank L1 kills tank E1
+Tank E1 watches from the side
+Tank H0 hits tank L2
+Tank G1 hits tank S0
+Tank L2 hits tank H0
+Tank S0 hits tank G1
+Tank L3 hits tank S0
+Tank X3 hits tank L1
+Tank L3 kills tank G1
+Tank G1 watches from the side
+Game over, time exceeded
+Tank L3 has the highest score
+Battle = 16  Time = 0
+   	Hlt 	Score
+B0 	dead	-80
+E0 	dead	-26
+G0 	dead	133
+H0 	104 	396
+J0 	102 	303
+K0 	dead	42
+L0 	dead	186
+S0 	0CF 	389
+A1 	2CD 	187
+E1 	dead	38
+G1 	dead	131
+H1 	dead	-6
+K1 	dead	75
+L1 	104 	318
+Q1 	267 	372
+S1 	dead	313
+Z1 	dead	146
+E2 	dead	66
+G2 	dead	2
+H2 	dead	204
+K2 	dead	5
+L2 	135 	289
+M2 	dead	56
+S2 	dead	260
+T2 	dead	-24
+E3 	dead	-22
+G3 	dead	124
+H3 	dead	26
+K3 	dead	-71
+L3 	0CF 	571
+S3 	dead	167
+X3 	3FF 	262
+Y3 	dead	51
+Tank G1 captures a lifepack 
+Tank G2 captures a lifepack 
+Tank Q1 hits tank A1
+Tank E3 hits tank M2
+Tank S0 hits tank L2
+Tank L2 hits tank H1
+Tank K0 hits tank Z1
+Tank J0 hits tank H2
+Tank K1 hits tank K0
+Tank X3 runs into the wall
+Tank X3 runs into the wall
+Tank X3 runs into the wall
+Tank X3 runs into the wall
+Tank X3 runs into the wall
+Tank X3 runs into the wall
+Tank X3 runs into the wall
+Tank X3 runs into the wall
+Tank K0 hits tank Z1
+Tank X3 runs into the wall
+Tank L2 hits tank H1
+Tank X3 runs into the wall
+Tank X3 runs into the wall
+Tank Y3 hits tank J0
+Tank X3 runs into the wall
+Tank S1 hits tank H1
+Tank X3 runs into the wall
+Tank X3 runs into the wall
+Tank X3 runs into the wall
+Tank X3 runs into the wall
+Tank Z1 hits tank K0
+Tank X3 runs into the wall
+Tank X3 runs into the wall
+Tank S0 hits tank L2
+Tank X3 runs into the wall
+Tank X3 runs into the wall
+Tank X3 runs into the wall
+Tank X3 watches from the side
+Tank K0 crashes into tank K1
+Tank K1 crashes into tank K0
+Tank E3 hits tank M2
+Tank M2 hits tank E1
+Tank S1 hits tank H1
+Tank Q1 captures a lifepack 
+Tank L1 hits tank B0
+Tank Z1 hits tank K0
+Tank H0 hits tank Z1
+Tank S0 hits tank L2
+Tank G0 hits tank S2
+Tank L1 hits tank B0
+Tank K0 hits tank K1
+Tank Y3 crashes into tank H2
+Tank H0 hits tank K0
+Tank Y3 hits tank S3
+Tank L1 hits tank B0
+Tank E0 hits tank H0
+Tank S3 hits tank K1
+Tank H2 hits tank G2
+Tank L2 hits tank S1
+Tank G2 hits tank Y3
+Tank S2 hits tank G0
+Tank T2 hits tank G0
+Tank L1 hits tank B0
+Tank S3 hits tank K1
+Tank G0 hits tank S2
+Tank K3 captures a lifepack 
+Tank M2 hits tank E1
+Tank H0 hits tank Z1
+Tank Y3 hits tank S3
+Tank S1 hits tank L2
+Tank A1 hits tank Q1
+Tank Y3 crashes into tank G2
+Tank G2 crashes into tank Y3
+Tank S3 hits tank K1
+Tank L1 hits tank B0
+Tank H0 hits tank Z1
+Tank G1 hits tank T2
+Tank S1 hits tank L2
+Tank E0 hits tank H0
+Tank J0 hits tank H0
+Tank Q1 hits tank A1
+Tank S2 hits tank G0
+Tank E0 hits tank K0
+Tank H0 crashes into tank J0
+Tank J0 crashes into tank H0
+Tank S3 hits tank K1
+Tank Y3 hits tank K1
+Tank G1 hits tank T2
+Tank E3 hits tank L0
+Tank M2 hits tank E1
+Tank L1 hits tank B0
+Tank E2 hits tank G3
+Tank Z1 hits tank H0
+Tank S2 hits tank G0
+Tank H0 hits tank J0
+Tank S3 hits tank K1
+Tank G0 hits tank S2
+Tank E3 hits tank L0
+Tank L1 hits tank B0
+Tank S2 hits tank G0
+Tank S3 hits tank K1
+Tank G0 hits tank S2
+Tank A1 hits tank Q1
+Tank Q1 hits tank A1
+Tank G1 hits tank T2
+Tank E3 hits tank L0
+Tank Y3 hits tank S3
+Tank T2 hits tank G1
+Tank S2 hits tank G0
+Tank A1 hits tank Q1
+Tank S3 hits tank K1
+Tank L1 hits tank B0
+Tank H2 kills tank K1
+Tank K1 watches from the side
+Tank A1 hits tank Q1
+Tank Q1 hits tank A1
+Tank G1 hits tank T2
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File B0.s19 loads 142 bytes
+File E0.s19 loads 1188 bytes
+File G0.s19 loads 1214 bytes
+File H0.s19 loads 853 bytes
+File J0.s19 loads 853 bytes
+File K0.s19 loads 698 bytes
+File L0.s19 loads 1096 bytes
+File S0.s19 loads 2764 bytes
+File A1.s19 loads 1096 bytes
+File E1.s19 loads 1188 bytes
+File G1.s19 loads 1214 bytes
+File H1.s19 loads 853 bytes
+File K1.s19 loads 698 bytes
+File L1.s19 loads 1096 bytes
+File Q1.s19 loads 1096 bytes
+File S1.s19 loads 2764 bytes
+File Z1.s19 loads 2764 bytes
+File E2.s19 loads 1188 bytes
+File G2.s19 loads 1214 bytes
+File H2.s19 loads 853 bytes
+File K2.s19 loads 698 bytes
+File L2.s19 loads 1096 bytes
+File M2.s19 loads 698 bytes
+File S2.s19 loads 2764 bytes
+File T2.s19 loads 1214 bytes
+File E3.s19 loads 1188 bytes
+File G3.s19 loads 1214 bytes
+File H3.s19 loads 853 bytes
+File K3.s19 loads 698 bytes
+File L3.s19 loads 1096 bytes
+File S3.s19 loads 2764 bytes
+File X3.s19 loads 2764 bytes
+File Y3.s19 loads 1188 bytes
+Tank S2 hits tank E0
+Tank T2 hits tank H1
+Tank A1 hits tank Y3
+Tank S0 hits tank H1
+Tank H1 hits tank T2
+Tank T2 crashes into tank H1
+Tank H1 crashes into tank T2
+Tank S0 hits tank S2
+Tank E3 hits tank L0
+Tank K0 hits tank L1
+Tank S1 hits tank G1
+Tank E0 hits tank S2
+Tank X3 hits tank K0
+Tank H0 hits tank T2
+Tank H1 hits tank T2
+Tank G1 hits tank S1
+Tank L2 hits tank M2
+Tank A1 hits tank Y3
+Tank G0 hits tank H3
+Tank H0 hits tank B0
+Tank S0 hits tank H1
+Tank L1 hits tank K0
+Tank S2 hits tank S0
+Tank X3 hits tank K0
+Tank L2 hits tank M2
+Tank G1 hits tank S1
+Tank G3 hits tank Z1
+Tank M2 hits tank L2
+Tank A1 hits tank Y3
+Tank T2 hits tank S0
+Tank L1 hits tank K0
+Tank S1 hits tank G1
+Tank K0 hits tank L1
+Tank S0 hits tank H1
+Tank H1 hits tank T2
+Tank S2 hits tank S0
+Tank X3 hits tank K0
+Tank Q1 hits tank G0
+Tank M2 crashes into tank L2
+Tank S3 hits tank S0
+Tank E0 hits tank S2
+Tank L2 hits tank M2
+Tank G0 hits tank H3
+Tank A1 hits tank Y3
+Tank Y3 crashes into tank A1
+Tank T2 hits tank H1
+Tank Y3 hits tank A1
+Tank L1 hits tank K0
+Tank X3 hits tank K0
+Tank S1 hits tank G1
+Tank S3 hits tank S0
+Tank G0 hits tank H0
+Tank E3 captures a lifepack 
+Tank G3 hits tank Z1
+Tank H0 hits tank B0
+Tank A1 hits tank Y3
+Tank G1 hits tank S1
+Tank H0 hits tank H3
+Tank H3 hits tank G0
+Tank L2 hits tank M2
+Tank X3 hits tank K0
+Tank Q1 hits tank G0
+Tank G2 hits tank S2
+Tank S3 hits tank S2
+Tank S0 hits tank S2
+Tank S2 hits tank S3
+Tank G3 hits tank Z1
+Tank G0 hits tank H0
+Tank A1 hits tank G2
+Tank H3 hits tank G0
+Tank E1 hits tank X3
+Tank T2 hits tank B0
+Tank Q1 hits tank G0
+Tank G1 hits tank S1
+Tank X3 hits tank K0
+Tank Y3 hits tank G2
+Tank G0 captures a lifepack 
+Tank H0 hits tank H3
+Tank L2 hits tank M2
+Tank S1 hits tank G1
+Tank S0 hits tank S3
+Tank S2 hits tank S0
+Tank G3 hits tank Z1
+Tank H1 hits tank S0
+Tank H3 hits tank G0
+Tank S3 crashes into tank S2
+Tank S2 crashes into tank S3
+Tank J0 hits tank G1
+Tank L1 hits tank K0
+Tank E0 hits tank E3
+Tank A1 hits tank G2
+Tank Q1 hits tank G0
+Tank E1 hits tank X3
+Tank X3 kills tank K0
+Tank K0 watches from the side
+Tank Y3 hits tank G2
+Tank G1 hits tank S1
+Tank K0 hits tank E1
+Tank H3 captures a lifepack 
+Tank S0 hits tank S3
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File B0.s19 loads 142 bytes
+File E0.s19 loads 1188 bytes
+File G0.s19 loads 1214 bytes
+File H0.s19 loads 853 bytes
+File J0.s19 loads 853 bytes
+File K0.s19 loads 698 bytes
+File L0.s19 loads 1096 bytes
+File S0.s19 loads 2764 bytes
+File A1.s19 loads 1096 bytes
+File E1.s19 loads 1188 bytes
+File G1.s19 loads 1214 bytes
+File H1.s19 loads 853 bytes
+File K1.s19 loads 698 bytes
+File L1.s19 loads 1096 bytes
+File Q1.s19 loads 1096 bytes
+File S1.s19 loads 2764 bytes
+File Z1.s19 loads 2764 bytes
+File E2.s19 loads 1188 bytes
+File G2.s19 loads 1214 bytes
+File H2.s19 loads 853 bytes
+File K2.s19 loads 698 bytes
+File L2.s19 loads 1096 bytes
+File M2.s19 loads 698 bytes
+File S2.s19 loads 2764 bytes
+File T2.s19 loads 1214 bytes
+File E3.s19 loads 1188 bytes
+File G3.s19 loads 1214 bytes
+File H3.s19 loads 853 bytes
+File K3.s19 loads 698 bytes
+File L3.s19 loads 1096 bytes
+File S3.s19 loads 2764 bytes
+File X3.s19 loads 2764 bytes
+File Y3.s19 loads 1188 bytes
+Tank T2 captures a lifepack 
+Tank X3 captures a lifepack 
+Tank Q1 captures a lifepack 
+Tank X3 hits tank G2
+Tank K3 hits tank S0
+Tank K2 hits tank H2
+Tank L3 hits tank K3
+Tank H0 hits tank B0
+Tank S3 hits tank H1
+Tank G3 hits tank Z1
+Tank S2 hits tank H0
+Tank G0 hits tank K0
+Tank H2 hits tank K2
+Tank H3 hits tank Z1
+Tank G2 hits tank S0
+Tank A1 hits tank E1
+Tank Y3 hits tank S2
+Tank Z1 hits tank G3
+Tank J0 hits tank L3
+Tank T2 hits tank G3
+Tank E3 hits tank Y3
+Tank L3 hits tank K3
+Tank H1 hits tank G1
+Tank X3 hits tank G2
+Tank H0 hits tank B0
+Tank S3 hits tank H1
+Tank S2 hits tank H0
+Tank L2 hits tank E3
+Tank H2 hits tank K2
+Tank G0 hits tank K0
+Tank G2 hits tank S0
+Tank H3 hits tank Z1
+Tank G1 hits tank H1
+Tank G2 captures a lifepack 
+Tank Q1 hits tank E1
+Tank H1 hits tank G1
+Tank X3 hits tank G2
+Tank S2 hits tank H0
+Tank H0 hits tank B0
+Tank H2 hits tank K2
+Tank E1 hits tank A1
+Tank L3 hits tank K3
+Tank Q1 hits tank E1
+Tank S2 hits tank K1
+Tank X3 hits tank G2
+Tank S3 hits tank H1
+Tank G3 captures a lifepack 
+Tank H3 hits tank E1
+Tank G1 hits tank H1
+Tank Q1 hits tank E1
+Tank S2 hits tank K1
+Tank L3 hits tank K3
+Tank E1 hits tank M2
+Tank H3 hits tank E1
+Tank X3 hits tank G2
+Tank S3 hits tank H1
+Tank Z1 hits tank M2
+Tank E1 crashes into tank H3
+Tank H3 crashes into tank E1
+Tank Q1 hits tank E1
+Tank G1 hits tank H1
+Tank A1 hits tank M2
+Tank E1 hits tank M2
+Tank L3 hits tank K3
+Tank H2 hits tank K2
+Tank S3 hits tank G1
+Tank J0 hits tank G0
+Tank Q1 hits tank E1
+Tank E1 hits tank H3
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File B0.s19 loads 142 bytes
+File E0.s19 loads 1188 bytes
+File G0.s19 loads 1214 bytes
+File H0.s19 loads 853 bytes
+File J0.s19 loads 853 bytes
+File K0.s19 loads 698 bytes
+File L0.s19 loads 1096 bytes
+File S0.s19 loads 2764 bytes
+File A1.s19 loads 1096 bytes
+File E1.s19 loads 1188 bytes
+File G1.s19 loads 1214 bytes
+File H1.s19 loads 853 bytes
+File K1.s19 loads 698 bytes
+File L1.s19 loads 1096 bytes
+File Q1.s19 loads 1096 bytes
+File S1.s19 loads 2764 bytes
+File Z1.s19 loads 2764 bytes
+File E2.s19 loads 1188 bytes
+File G2.s19 loads 1214 bytes
+File H2.s19 loads 853 bytes
+File K2.s19 loads 698 bytes
+File L2.s19 loads 1096 bytes
+File M2.s19 loads 698 bytes
+File S2.s19 loads 2764 bytes
+File T2.s19 loads 1214 bytes
+File E3.s19 loads 1188 bytes
+File G3.s19 loads 1214 bytes
+File H3.s19 loads 853 bytes
+File K3.s19 loads 698 bytes
+File L3.s19 loads 1096 bytes
+File S3.s19 loads 2764 bytes
+File X3.s19 loads 2764 bytes
+File Y3.s19 loads 1188 bytes
+Tank Z1 captures a lifepack 
+Tank T2 hits tank X3
+Tank S1 hits tank Y3
+Tank L3 hits tank G1
+Tank G2 captures a lifepack 
+Tank S3 hits tank G1
+Tank Z1 hits tank L2
+Tank X3 hits tank T2
+Tank T2 hits tank X3
+Tank G1 hits tank L3
+Tank S3 hits tank G1
+Tank H0 hits tank L0
+Tank K3 hits tank H1
+Tank L3 hits tank G1
+Tank L2 hits tank Z1
+Tank Z1 hits tank L2
+Tank E0 hits tank G3
+Tank E2 hits tank H2
+Tank S2 hits tank X3
+Tank G3 hits tank K2
+Tank X3 hits tank T2
+Tank T2 hits tank X3
+Tank A1 hits tank E1
+Tank S1 hits tank Y3
+Tank Y3 hits tank S1
+Tank H1 captures a lifepack 
+Tank H0 hits tank L0
+Tank H1 hits tank M2
+Tank S3 hits tank G1
+Tank G1 hits tank L3
+Tank L3 hits tank G1
+Tank E1 hits tank A1
+Tank M2 hits tank H1
+Tank S0 hits tank E2
+Tank X3 hits tank T2
+Tank T2 hits tank X3
+Tank G3 hits tank K2
+Tank E0 hits tank G3
+Tank A1 hits tank E1
+Tank Y3 crashes into tank S1
+Tank S1 crashes into tank Y3
+Tank S3 hits tank G1
+Tank E1 hits tank A1
+Tank S0 hits tank E2
+Tank M2 hits tank H1
+Tank K2 hits tank G3
+Tank G3 hits tank E0
+Tank X3 hits tank T2
+Tank T2 hits tank X3
+Tank J0 hits tank K3
+Tank A1 hits tank E1
+Tank Z1 hits tank L2
+Tank E1 hits tank B0
+Tank E2 hits tank S0
+Tank M2 hits tank H1
+Tank J0 hits tank K3
+Tank Q1 hits tank Z1
+Tank Z1 hits tank L2
+Tank M2 hits tank H1
+Tank E0 hits tank K2
+Tank L2 hits tank Z1
+Tank L3 hits tank G1
+Tank M2 hits tank H1
+Tank S2 hits tank X3
+Tank X3 hits tank T2
+Tank K3 hits tank J0
+Tank G2 hits tank E1
+Tank H0 hits tank L0
+Tank Y3 hits tank G3
+Tank Z1 hits tank Q1
+Tank S0 hits tank E3
+Tank G2 hits tank E1
+Tank S3 hits tank L3
+Tank H0 hits tank L0
+Tank Y3 hits tank G3
+Tank G3 hits tank Y3
+Tank L0 hits tank H0
+Tank Q1 hits tank Z1
+Tank A1 hits tank J0
+Tank Z1 hits tank L2
+Tank S1 hits tank Y3
+Tank M2 crashes into tank H2
+Tank G1 hits tank L3
+Tank L3 hits tank G1
+Tank H2 hits tank M2
+Tank K3 hits tank J0
+Tank S3 hits tank L3
+Tank H0 hits tank L0
+Tank G3 hits tank Y3
+Tank L0 hits tank H0
+Tank A1 hits tank J0
+Tank Q1 hits tank Z1
+Tank Z1 hits tank Q1
+Tank L2 hits tank Z1
+Tank H1 hits tank M2
+Tank E2 hits tank G2
+Tank S1 hits tank Y3
+Tank L3 hits tank G1
+Tank L2 captures a lifepack 
+Tank E3 hits tank S0
+Tank J0 hits tank H1
+Tank M2 hits tank H2
+Tank E2 hits tank G2
+Tank Y3 hits tank G3
+Tank E2 crashes into tank G2
+Tank G2 crashes into tank E2
+Tank A1 hits tank J0
+Tank L0 hits tank H0
+Tank S0 hits tank E3
+Tank X3 hits tank S2
+Tank L2 hits tank Z1
+Tank S3 hits tank B0
+Tank H2 hits tank M2
+Tank K3 hits tank J0
+Tank Q1 hits tank Z1
+Tank X3 hits tank S2
+Tank A1 hits tank J0
+Tank G1 hits tank L3
+Tank E3 hits tank S2
+Tank E1 hits tank E2
+Tank H2 hits tank M2
+Tank L2 hits tank H3
+Tank X3 hits tank S2
+Tank S1 hits tank G3
+Tank Q1 hits tank Z1
+Tank S2 hits tank E3
+Tank L3 hits tank K2
+Tank E0 hits tank K0
+Tank Z1 hits tank Q1
+Tank K0 hits tank E0
+Tank G1 hits tank L3
+Tank H3 hits tank L2
+Tank S3 hits tank B0
+Tank E2 hits tank G2
+Tank E1 hits tank E2
+Tank H2 hits tank M2
+Tank L2 hits tank H3
+Tank Q1 hits tank T2
+Tank J0 hits tank A1
+Tank E0 hits tank K0
+Tank G1 hits tank L3
+Tank Z1 hits tank Q1
+Tank K2 hits tank Y3
+Tank L3 kills tank G1
+Tank Y3 hits tank B0
+Tank G1 watches from the side
+Tank E3 hits tank S2
+Tank E2 hits tank E1
+Tank S3 hits tank B0
+Tank S1 hits tank G3
+Tank L2 hits tank Q1
+Tank S0 hits tank G0
+Tank E0 hits tank K0
+Tank T2 hits tank Q1
+Tank Z1 hits tank Q1
+Tank Y3 hits tank B0
+Tank L2 hits tank T2
+Tank S1 hits tank G3
+Tank H2 hits tank M2
+Tank Q1 hits tank L2
+Tank S3 hits tank K2
+Tank X3 hits tank S2
+Tank M2 hits tank H2
+Tank E0 hits tank K0
+Tank H3 hits tank T2
+Tank L2 hits tank T2
+Tank E3 hits tank S2
+Tank S1 hits tank G3
+Tank H2 hits tank M2
+Tank Q1 hits tank L2
+Tank K2 hits tank Y3
+Tank S3 hits tank K2
+Tank S2 hits tank S0
+Tank Z1 hits tank Q1
+Tank X3 hits tank S0
+Tank T2 hits tank Q1
+Tank H3 hits tank L2
+Tank K0 hits tank E0
+Tank E0 hits tank K0
+Tank E3 hits tank M2
+Tank S0 hits tank G0
+Tank L2 hits tank T2
+Tank S3 hits tank K2
+Tank X3 hits tank S0
+Tank Q1 hits tank Z1
+Tank S1 kills tank G3
+Tank G3 watches from the side
+Tank S2 hits tank S0
+Tank H3 hits tank L2
+Tank E3 kills tank M2
+Tank M2 watches from the side
+Tank L1 hits tank S1
+Tank S0 hits tank G0
+Tank S3 hits tank K2
+Tank L2 kills tank T2
+Tank T2 watches from the side
+Tank X3 hits tank S0
+Tank S1 hits tank L1
+Tank S2 hits tank G0
+Tank B0 captures a lifepack 
+Tank H3 hits tank L2
+Tank Z1 hits tank Q1
+Tank L0 hits tank K3
+Tank J0 captures a lifepack 
+Tank E3 hits tank H1
+Tank L1 hits tank S1
+Tank S3 hits tank K2
+Tank L2 hits tank H3
+Tank Y3 hits tank B0
+Tank S2 hits tank G0
+Tank H1 hits tank E3
+Tank A1 captures a lifepack 
+Tank G0 hits tank X3
+Tank L0 hits tank K3
+Tank H3 hits tank L2
+Tank L1 hits tank S1
+Tank Y3 hits tank K2
+Tank S3 kills tank K2
+Tank K2 watches from the side
+Tank S1 hits tank K1
+Tank S2 hits tank H2
+Tank H1 hits tank E3
+Tank E0 hits tank K0
+Tank K1 hits tank S1
+Tank E3 hits tank H1
+Tank G0 hits tank S0
+Tank L0 hits tank K3
+Tank H1 hits tank E3
+Tank S2 hits tank H2
+Tank G2 hits tank S3
+Tank S0 hits tank X3
+Tank S3 hits tank Y3
+Tank E3 hits tank H1
+Tank L2 hits tank H3
+Tank Q1 captures a lifepack 
+Tank L1 hits tank S1
+Tank G0 hits tank X3
+Tank E0 hits tank K0
+Tank S1 hits tank L1
+Tank E3 hits tank H1
+Tank E3 crashes into tank H1
+Tank S3 kills tank Y3
+Tank Y3 watches from the side
+Tank E1 hits tank H3
+Tank Z1 hits tank Q1
+Tank L2 hits tank H3
+Tank H1 hits tank E3
+Tank S2 hits tank H2
+Tank Z1 hits tank Q1
+Tank L2 hits tank H3
+Tank E0 hits tank K0
+Tank H1 hits tank E3
+Tank E3 hits tank S3
+Tank S2 hits tank H2
+Tank X3 hits tank H2
+Tank S1 hits tank K1
+Tank L3 hits tank K0
+Tank S0 kills tank X3
+Tank X3 watches from the side
+Tank L2 hits tank E1
+Tank S2 hits tank H2
+Tank H2 hits tank S2
+Tank L1 hits tank S1
+Tank H1 hits tank E3
+Tank Z1 hits tank Q1
+Tank S1 hits tank K1
+Tank K1 hits tank S1
+Tank L0 hits tank G2
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File B0.s19 loads 142 bytes
+File E0.s19 loads 1188 bytes
+File G0.s19 loads 1214 bytes
+File H0.s19 loads 853 bytes
+File J0.s19 loads 853 bytes
+File K0.s19 loads 698 bytes
+File L0.s19 loads 1096 bytes
+File S0.s19 loads 2764 bytes
+File A1.s19 loads 1096 bytes
+File E1.s19 loads 1188 bytes
+File G1.s19 loads 1214 bytes
+File H1.s19 loads 853 bytes
+File K1.s19 loads 698 bytes
+File L1.s19 loads 1096 bytes
+File Q1.s19 loads 1096 bytes
+File S1.s19 loads 2764 bytes
+File Z1.s19 loads 2764 bytes
+File E2.s19 loads 1188 bytes
+File G2.s19 loads 1214 bytes
+File H2.s19 loads 853 bytes
+File K2.s19 loads 698 bytes
+File L2.s19 loads 1096 bytes
+File M2.s19 loads 698 bytes
+File S2.s19 loads 2764 bytes
+File T2.s19 loads 1214 bytes
+File E3.s19 loads 1188 bytes
+File G3.s19 loads 1214 bytes
+File H3.s19 loads 853 bytes
+File K3.s19 loads 698 bytes
+File L3.s19 loads 1096 bytes
+File S3.s19 loads 2764 bytes
+File X3.s19 loads 2764 bytes
+File Y3.s19 loads 1188 bytes
+Tank A1 hits tank H3
+Tank S1 hits tank K3
+Tank G2 hits tank L3
+Tank S0 hits tank X3
+Tank E0 hits tank L2
+Tank S3 hits tank T2
+Tank L3 hits tank G2
+Tank H3 hits tank J0
+Tank A1 hits tank H3
+Tank S1 hits tank K3
+Tank S0 hits tank X3
+Tank H1 hits tank K0
+Tank Q1 hits tank L1
+Tank L0 hits tank G1
+Tank L3 hits tank G2
+Tank S1 hits tank K3
+Tank E0 hits tank L2
+Tank E3 hits tank E1
+Tank S0 hits tank X3
+Tank A1 hits tank K0
+Tank S2 hits tank K2
+Tank T2 hits tank S3
+Tank H3 hits tank J0
+Tank G1 hits tank L0
+Tank L3 hits tank G2
+Tank A1 hits tank K0
+Tank H3 hits tank J0
+Tank E2 hits tank S1
+Tank L0 hits tank G1
+Tank K1 hits tank B0
+Tank A1 hits tank H1
+Tank L2 hits tank E0
+Tank E1 hits tank E3
+Tank X3 hits tank E0
+Tank E3 hits tank E1
+Tank S3 hits tank T2
+Tank T2 hits tank S3
+Tank H1 captures a lifepack 
+Tank H3 hits tank J0
+Tank E0 hits tank L2
+Tank S1 hits tank E2
+Tank E1 hits tank E3
+Tank Z1 hits tank M2
+Tank S3 hits tank T2
+Tank L3 hits tank H2
+Tank H1 hits tank K0
+Tank H0 hits tank T2
+Tank K1 hits tank B0
+Tank G0 hits tank K0
+Tank K3 hits tank Q1
+Tank G0 crashes into tank K0
+Tank L2 hits tank G2
+Tank K0 crashes into tank G0
+Tank H3 hits tank J0
+Tank L0 hits tank K1
+Tank Z1 hits tank M2
+Tank S3 hits tank T2
+Tank G2 hits tank S0
+Tank H1 hits tank K0
+Tank G1 hits tank L0
+This run aborted by F11
+Game over, time exceeded
+Tank E0 has the highest score
+Battle = 16  Time = 0
+   	Hlt 	Score
+A1 	3FF 	192
+H3 	333 	183
+S1 	399 	168
+L3 	399 	168
+S3 	333 	163
+S0 	399 	148
+H1 	3FF 	148
+L0 	333 	143
+E0 	333 	142
+Z1 	3FF 	133
+K1 	399 	129
+G1 	333 	123
+E3 	333 	123
+E1 	333 	122
+L2 	2CD 	118
+G2 	267 	116
+H0 	3FF 	113
+S2 	3FF 	113
+G0 	3CC 	109
+T2 	201 	109
+Q1 	399 	108
+E2 	399 	108
+Y3 	3FF 	100
+K3 	2CD 	98
+X3 	2CD 	98
+G3 	3FF 	95
+B0 	333 	90
+L1 	399 	89
+H2 	399 	88
+K2 	399 	88
+M2 	333 	87
+J0 	201 	68
+K0 	168 	57
+Tank M2 captures a lifepack 
+Tank E0 hits tank H2
+Tank S0 hits tank G1
+Tank T2 hits tank S1
+Tank Q1 hits tank K0
+Tank E0 hits tank H2
+Tank H1 hits tank K3
+Tank G3 hits tank H2
+Tank E0 crashes into tank H2
+Tank H2 crashes into tank E0
+Tank G0 hits tank E2
+Tank S3 hits tank H0
+Tank K2 hits tank L0
+Tank H2 hits tank E0
+Tank S2 hits tank A1
+Tank S2 captures a lifepack 
+Tank L2 hits tank T2
+Tank X3 hits tank K1
+Tank S0 hits tank G1
+Tank K1 hits tank X3
+Tank H3 hits tank Q1
+Tank S1 hits tank T2
+Tank E2 hits tank G0
+Tank L0 hits tank K2
+Tank Z1 hits tank G2
+Tank B0 crashes into tank G3
+Tank G3 crashes into tank B0
+Tank L2 hits tank T2
+Tank E3 hits tank B0
+Tank H2 hits tank E0
+Tank S0 hits tank G1
+Tank L1 hits tank H1
+Tank A1 hits tank E0
+Tank K2 hits tank L0
+Tank Z1 hits tank G2
+Tank L2 hits tank M2
+Tank L1 hits tank H1
+Tank Y3 hits tank K3
+Tank K1 hits tank X3
+Tank X3 hits tank K1
+Tank L0 hits tank K2
+Tank G0 hits tank E2
+Tank K2 hits tank L0
+Tank S2 hits tank A1
+Tank G3 hits tank B0
+Tank Z1 hits tank G2
+Tank Y3 hits tank K3
+Tank L0 hits tank K2
+Tank L1 hits tank H1
+Tank X3 hits tank K1
+Tank G0 hits tank E2
+Tank L2 hits tank M2
+Tank K1 hits tank X3
+Tank L1 crashes into tank H1
+Tank H1 crashes into tank L1
+Tank E2 hits tank G0
+Tank Z1 hits tank G2
+Tank G0 crashes into tank E2
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File B0.s19 loads 142 bytes
+File E0.s19 loads 1188 bytes
+File G0.s19 loads 1214 bytes
+File H0.s19 loads 853 bytes
+File J0.s19 loads 853 bytes
+File K0.s19 loads 698 bytes
+File L0.s19 loads 1096 bytes
+File S0.s19 loads 2764 bytes
+File A1.s19 loads 1096 bytes
+File E1.s19 loads 1188 bytes
+File G1.s19 loads 1214 bytes
+File H1.s19 loads 853 bytes
+File K1.s19 loads 698 bytes
+File L1.s19 loads 1096 bytes
+File Q1.s19 loads 1096 bytes
+File S1.s19 loads 2764 bytes
+File Z1.s19 loads 2764 bytes
+File E2.s19 loads 1188 bytes
+File G2.s19 loads 1214 bytes
+File H2.s19 loads 853 bytes
+File K2.s19 loads 698 bytes
+File L2.s19 loads 1096 bytes
+File M2.s19 loads 698 bytes
+File S2.s19 loads 2764 bytes
+File T2.s19 loads 1214 bytes
+File E3.s19 loads 1188 bytes
+File G3.s19 loads 1214 bytes
+File H3.s19 loads 853 bytes
+File K3.s19 loads 698 bytes
+File L3.s19 loads 1096 bytes
+File S3.s19 loads 2764 bytes
+File X3.s19 loads 2764 bytes
+File Y3.s19 loads 1188 bytes
+Tank G2 hits tank K3
+Tank A1 hits tank K1
+Tank L2 hits tank G3
+Tank T2 hits tank E1
+Tank E2 hits tank J0
+Tank Q1 hits tank Z1
+Tank S0 hits tank H0
+Tank E3 hits tank K3
+Tank L2 hits tank G3
+Tank H2 hits tank S3
+Tank S3 hits tank H2
+Tank L3 hits tank G1
+Tank K0 hits tank L0
+Tank Q1 hits tank Z1
+Tank Z1 hits tank A1
+Tank E3 hits tank K3
+Tank S1 hits tank K1
+Tank H2 hits tank S3
+Tank L2 hits tank G3
+Tank S3 hits tank H2
+Tank X3 hits tank S3
+Tank Z1 hits tank Q1
+Tank E1 hits tank H0
+Tank M2 hits tank Y3
+Tank K2 hits tank Y3
+Tank E3 hits tank K3
+Tank L1 hits tank H3
+Tank H2 hits tank S3
+Tank E1 crashes into tank T2
+Tank T2 crashes into tank E1
+Tank L2 hits tank G3
+Tank S3 hits tank H2
+Tank X3 hits tank S3
+Tank Z1 hits tank Q1
+Tank L0 hits tank K0
+Tank A1 hits tank Z1
+Tank M2 hits tank Y3
+Tank J0 hits tank L0
+Tank H1 hits tank H3
+Tank H3 hits tank H1
+Tank S3 hits tank H2
+Tank K3 crashes into tank G2
+Tank A1 hits tank Z1
+Tank L2 hits tank G3
+Tank Q1 hits tank Z1
+Tank X3 hits tank S3
+Tank L3 hits tank K1
+Tank M2 hits tank Y3
+Tank S2 hits tank H0
+Tank J0 hits tank L0
+Tank S0 hits tank M2
+Tank G1 hits tank K1
+Tank E2 hits tank J0
+Tank K3 hits tank G2
+Tank S3 hits tank H2
+Tank A1 hits tank Z1
+Tank S1 hits tank A1
+Tank X3 hits tank S3
+Tank L3 hits tank Q1
+Tank L2 hits tank G3
+Tank G1 crashes into tank K1
+Tank K1 crashes into tank G1
+Tank S0 hits tank M2
+Tank E2 hits tank J0
+Tank H2 hits tank X3
+Tank E1 hits tank T2
+Tank K2 hits tank Y3
+Tank E0 hits tank S3
+Tank G3 hits tank H1
+Tank H1 hits tank G0
+Tank L0 hits tank K0
+Tank A1 hits tank Z1
+Tank S1 hits tank A1
+Tank G0 hits tank G3
+Tank M2 hits tank Y3
+Tank H2 hits tank X3
+Tank X3 hits tank S3
+Tank G1 hits tank K1
+Tank H0 hits tank T2
+Tank J0 hits tank E2
+Tank L0 hits tank E2
+Tank H1 hits tank G0
+Tank K0 hits tank L0
+Tank S0 hits tank M2
+Tank Q1 hits tank Z1
+Tank E2 hits tank J0
+Tank H2 hits tank X3
+Tank L3 hits tank Q1
+Tank E0 hits tank H2
+Tank S1 hits tank A1
+Tank S2 hits tank S0
+Tank S3 hits tank H2
+Tank E2 crashes into tank L0
+Tank H0 hits tank T2
+Tank L0 hits tank K0
+Tank E3 hits tank K3
+Tank J0 hits tank E2
+Tank H1 hits tank G0
+Tank K0 hits tank L0
+Tank G1 hits tank K1
+Tank K3 crashes into tank E3
+Tank S0 hits tank M2
+Tank E3 crashes into tank K3
+Tank L0 crashes into tank K0
+Tank H2 hits tank X3
+Tank L2 hits tank X3
+Tank X3 hits tank L2
+Tank Q1 hits tank Z1
+Tank S3 hits tank E0
+Tank S2 hits tank S0
+Tank S1 hits tank A1
+Tank Y3 hits tank K2
+Tank L3 hits tank Q1
+Game over, time exceeded
+Tank L2 has the highest score
+Battle = 2  Time = 0
+   	Hlt 	Score
+L2 	399 	227
+H2 	135 	197
+L3 	3FF 	192
+S1 	3FF 	191
+S3 	069 	186
+X3 	201 	186
+S0 	333 	181
+E3 	3CC 	167
+A1 	201 	166
+Q1 	201 	166
+H1 	333 	162
+J0 	267 	153
+E2 	29A 	151
+M2 	267 	151
+S2 	3FF 	151
+L0 	1CE 	141
+G1 	366 	141
+K0 	2CD 	136
+E0 	399 	126
+K2 	399 	126
+E1 	366 	121
+H0 	2CD 	117
+L1 	3FF 	116
+Z1 	069 	107
+G2 	399 	106
+H3 	333 	102
+B0 	3FF 	100
+G0 	2CD 	96
+T2 	29A 	91
+Y3 	19B 	81
+G3 	135 	76
+K3 	19B 	76
+K1 	168 	56
+Tank S3 hits tank T2
+Tank S2 hits tank S3
+Tank Q1 hits tank K0
+Tank E3 captures a lifepack 
+Tank E1 hits tank H0
+Tank T2 hits tank S3
+Tank H0 crashes into tank E1
+Tank E1 crashes into tank H0
+Tank S2 hits tank S3
+Tank S0 hits tank S1
+Tank H1 hits tank K1
+Tank L1 hits tank S1
+Tank J0 hits tank Z1
+Tank E0 hits tank J0
+Tank Y3 hits tank L1
+Tank E2 hits tank H2
+Tank T2 hits tank S3
+Tank Q1 hits tank K0
+Tank A1 hits tank K0
+Tank G0 hits tank K2
+Tank K2 hits tank G0
+Tank G2 hits tank H0
+Tank S2 hits tank S3
+Tank S1 hits tank L1
+Tank Y3 hits tank L1
+Tank T2 hits tank S3
+Tank E2 hits tank H2
+Tank L1 hits tank K3
+Tank G0 hits tank J0
+Tank S3 hits tank T2
+Tank Q1 hits tank K0
+Tank J0 hits tank Z1
+Tank E1 hits tank B0
+Tank T2 hits tank S3
+Tank S1 hits tank L1
+Tank S2 hits tank S3
+Tank S0 hits tank S1
+Tank Q1 hits tank K0
+Tank Z1 hits tank E0
+Tank E0 hits tank E1
+Tank H3 hits tank S2
+Tank K2 crashes into tank G0
+Tank G0 crashes into tank K2
+Tank J0 hits tank Z1
+Tank H2 hits tank T2
+Tank K2 hits tank G0
+Tank G3 hits tank G1
+Tank E1 hits tank H0
+Tank L1 hits tank K3
+Tank S2 captures a lifepack 
+Tank Z1 hits tank L3
+Tank H3 hits tank S2
+Tank Q1 hits tank B0
+Tank X3 hits tank Y3
+Tank G0 hits tank G3
+Tank T2 hits tank S3
+Tank L3 hits tank Z1
+Tank H3 hits tank S2
+Tank S1 hits tank S0
+Tank Z1 hits tank L3
+Tank E0 hits tank E1
+Tank G0 hits tank G3
+Tank H2 hits tank T2
+Tank J0 hits tank Z1
+Tank S3 hits tank H2
+Tank Q1 hits tank Y3
+Tank S2 hits tank S3
+Tank Z1 hits tank L3
+Tank Y3 hits tank K3
+Tank S1 hits tank S0
+Tank E0 hits tank E1
+Tank L2 hits tank K0
+Tank H0 hits tank S2
+Tank Q1 hits tank Y3
+Tank K2 hits tank G3
+Tank S2 kills tank S3
+Tank S3 watches from the side
+Tank G1 hits tank K1
+Game over, time exceeded
+Tank Q1 has the highest score
+Battle = 1  Time = 0
+   	Hlt 	Score
+Q1 	3FF 	397
+S2 	2CD 	392
+S1 	2CD 	347
+L2 	3FF 	345
+J0 	333 	316
+H2 	2CD 	314
+S0 	333 	302
+X3 	3FF 	298
+E0 	399 	292
+L3 	2CD 	289
+E2 	3FF 	284
+A1 	3FF 	282
+H1 	3FF 	276
+K2 	366 	267
+E3 	3FF 	267
+T2 	267 	263
+H3 	3FF 	256
+Z1 	201 	253
+G0 	300 	252
+E1 	29A 	252
+M2 	3FF 	251
+L1 	267 	248
+G1 	399 	247
+L0 	3FF 	237
+Y3 	2CD 	219
+G2 	3FF 	217
+H0 	29A 	209
+K0 	19B 	197
+B0 	333 	190
+S3 	dead	182
+G3 	2CD 	172
+K3 	2CD 	153
+K1 	333 	137
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File B0.s19 loads 142 bytes
+File E0.s19 loads 1188 bytes
+File G0.s19 loads 1214 bytes
+File H0.s19 loads 853 bytes
+File J0.s19 loads 853 bytes
+File K0.s19 loads 698 bytes
+File L0.s19 loads 1096 bytes
+File S0.s19 loads 2764 bytes
+File A1.s19 loads 1096 bytes
+File E1.s19 loads 1188 bytes
+File G1.s19 loads 1214 bytes
+File H1.s19 loads 853 bytes
+File K1.s19 loads 698 bytes
+File L1.s19 loads 1096 bytes
+File Q1.s19 loads 1096 bytes
+File S1.s19 loads 2764 bytes
+File Z1.s19 loads 2764 bytes
+File E2.s19 loads 1188 bytes
+File G2.s19 loads 1214 bytes
+File H2.s19 loads 853 bytes
+File K2.s19 loads 698 bytes
+File L2.s19 loads 1096 bytes
+File M2.s19 loads 698 bytes
+File S2.s19 loads 2764 bytes
+File T2.s19 loads 1214 bytes
+File E3.s19 loads 1188 bytes
+File G3.s19 loads 1214 bytes
+File H3.s19 loads 853 bytes
+File K3.s19 loads 698 bytes
+File L3.s19 loads 1096 bytes
+File S3.s19 loads 2764 bytes
+File X3.s19 loads 2764 bytes
+File Y3.s19 loads 1188 bytes
+Tank G0 captures a lifepack 
+Tank L3 captures a lifepack 
+Tank L2 hits tank K0
+Tank K3 hits tank Y3
+Tank S2 crashes into tank L1
+Tank L1 crashes into tank S2
+Tank H0 crashes into tank E0
+Tank E0 crashes into tank H0
+Tank G1 hits tank E0
+Tank X3 hits tank J0
+Tank G1 hits tank X3
+Tank H1 hits tank J0
+Tank Y3 hits tank T2
+Tank H1 crashes into tank Z1
+Tank Z1 crashes into tank H1
+Tank K0 crashes into tank K1
+Tank L0 crashes into tank E3
+Tank E3 crashes into tank L0
+Tank X3 hits tank H0
+Tank H1 crashes into tank S1
+Tank S1 crashes into tank H1
+Tank G2 crashes into tank H0
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File B0.s19 loads 142 bytes
+File E0.s19 loads 1188 bytes
+File G0.s19 loads 1214 bytes
+File H0.s19 loads 853 bytes
+File J0.s19 loads 853 bytes
+File K0.s19 loads 698 bytes
+File L0.s19 loads 1096 bytes
+File S0.s19 loads 2764 bytes
+File A1.s19 loads 1096 bytes
+File E1.s19 loads 1188 bytes
+File G1.s19 loads 1214 bytes
+File H1.s19 loads 853 bytes
+File K1.s19 loads 698 bytes
+File L1.s19 loads 1096 bytes
+File Q1.s19 loads 1096 bytes
+File S1.s19 loads 2764 bytes
+File Z1.s19 loads 2764 bytes
+File E2.s19 loads 1188 bytes
+File G2.s19 loads 1214 bytes
+File H2.s19 loads 853 bytes
+File K2.s19 loads 698 bytes
+File L2.s19 loads 1096 bytes
+File M2.s19 loads 698 bytes
+File S2.s19 loads 2764 bytes
+File T2.s19 loads 1214 bytes
+File E3.s19 loads 1188 bytes
+File G3.s19 loads 1214 bytes
+File H3.s19 loads 853 bytes
+File K3.s19 loads 698 bytes
+File L3.s19 loads 1096 bytes
+File S3.s19 loads 2764 bytes
+File X3.s19 loads 2764 bytes
+File Y3.s19 loads 1188 bytes
+Tank H0 captures a lifepack 
+Tank J0 crashes into tank G0
+Tank G0 crashes into tank J0
+Tank T2 crashes into tank H2
+Tank H2 crashes into tank T2
+Tank T2 crashes into tank E2
+Tank E2 crashes into tank T2
+Tank H3 crashes into tank E0
+Tank E0 crashes into tank H3
+Tank H0 crashes into tank G3
+Tank L2 captures a lifepack 
+Tank K3 crashes into tank E1
+Tank E1 crashes into tank K3
+Tank L3 crashes into tank S0
+Tank J0 captures a lifepack 
+Tank L2 crashes into tank A1
+Tank A1 crashes into tank L2
+Tank H0 crashes into tank L2
+Tank L2 crashes into tank H0
+Tank K0 crashes into tank G3
+Tank G3 crashes into tank K0
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File B0.s19 loads 142 bytes
+File E0.s19 loads 1188 bytes
+File G0.s19 loads 1214 bytes
+File H0.s19 loads 853 bytes
+File J0.s19 loads 853 bytes
+File K0.s19 loads 698 bytes
+File L0.s19 loads 1096 bytes
+File S0.s19 loads 2764 bytes
+File A1.s19 loads 1096 bytes
+File E1.s19 loads 1188 bytes
+File G1.s19 loads 1214 bytes
+File H1.s19 loads 853 bytes
+File K1.s19 loads 698 bytes
+File L1.s19 loads 1096 bytes
+File Q1.s19 loads 1096 bytes
+File S1.s19 loads 2764 bytes
+File Z1.s19 loads 2764 bytes
+File E2.s19 loads 1188 bytes
+File G2.s19 loads 1214 bytes
+File H2.s19 loads 853 bytes
+File K2.s19 loads 698 bytes
+File L2.s19 loads 1096 bytes
+File M2.s19 loads 698 bytes
+File S2.s19 loads 2764 bytes
+File T2.s19 loads 1214 bytes
+File E3.s19 loads 1188 bytes
+File G3.s19 loads 1214 bytes
+File H3.s19 loads 853 bytes
+File K3.s19 loads 698 bytes
+File L3.s19 loads 1096 bytes
+File S3.s19 loads 2764 bytes
+File X3.s19 loads 2764 bytes
+File Y3.s19 loads 1188 bytes
+Tank L2 crashes into tank Y3
+Tank Y3 crashes into tank L2
+Tank K3 crashes into tank A1
+Tank A1 crashes into tank K3
+Tank K2 crashes into tank H0
+Tank H0 crashes into tank K2
+Tank J0 captures a lifepack 
+Tank K1 crashes into tank G1
+Tank G1 crashes into tank K1
+Tank L1 captures a lifepack 
+Tank Y3 hits tank L2
+Tank S1 crashes into tank E3
+Tank E3 crashes into tank S1
+Tank L0 crashes into tank K0
+Tank K0 crashes into tank L0
+Tank H0 hits tank H3
+Tank H3 crashes into tank K0
+Tank K0 crashes into tank H3
+Tank E1 crashes into tank M2
+Tank H0 crashes into tank K0
+Tank K0 crashes into tank H0
+Tank S1 hits tank K3
+Tank H0 hits tank K0
+Tank S1 hits tank E3
+Tank Y3 crashes into tank S0
+Tank A1 hits tank G0
+Tank Y3 crashes into tank E3
+Tank E3 crashes into tank Y3
+Tank H3 captures a lifepack 
+Tank L2 captures a lifepack 
+Tank H2 crashes into tank Q1
+Tank Q1 crashes into tank H2
+Tank Y3 crashes into tank K3
+Tank Q1 crashes into tank G0
+Tank G0 crashes into tank Q1
+Tank K3 crashes into tank S0

@@ -1,0 +1,88 @@
+*** EVALUATION ***
+ANSI-C/cC++ Compiler for HC12 V-5.0.41 Build 10203, Jul 23 2010
+
+    1:  /***************** Scan File *********************/
+    2:  #include "Scan.h"
+    3:  #include <mc9s12dp512.h>
+    4:  
+    5:  void scan_Init(void) {
+*** EVALUATION ***
+
+Function: scan_Init
+Source  : \\psf\Home\Desktop\TRobots1_85\Lab10\Sources\Scan.c
+Options : -Cc -D__ONLY_INIT_SP -D__NO_FLOAT__ -D_HCS12_SERIALMON -Env"GENPATH=\\psf\Home\Desktop\TRobots1_85\Lab10;\\psf\Home\Desktop\TRobots1_85\Lab10\bin;\\psf\Home\Desktop\TRobots1_85\Lab10\prm;\\psf\Home\Desktop\TRobots1_85\Lab10\cmd;\\psf\Home\Desktop\TRobots1_85\Lab10\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -EnvTEXTPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\TRobots1_85\Lab10\Trobot_9S12DP512_Data\HCS12_Serial_Monitor\ObjectCode\Scan.c.o -WmsgSd1106
+
+    6:    DDRM |= 0x30;    // 1 = output, 0 = input, PM4-PM5 = input (Resulution)
+  0000 1c000030     [4]     BSET  _DDRM,#48
+    7:  }
+  0004 3d           [5]     RTS   
+    8:  
+    9:  int scan_F(unsigned char Resolution) {  //channel 5 data
+*** EVALUATION ***
+
+Function: scan_F
+Source  : \\psf\Home\Desktop\TRobots1_85\Lab10\Sources\Scan.c
+Options : -Cc -D__ONLY_INIT_SP -D__NO_FLOAT__ -D_HCS12_SERIALMON -Env"GENPATH=\\psf\Home\Desktop\TRobots1_85\Lab10;\\psf\Home\Desktop\TRobots1_85\Lab10\bin;\\psf\Home\Desktop\TRobots1_85\Lab10\prm;\\psf\Home\Desktop\TRobots1_85\Lab10\cmd;\\psf\Home\Desktop\TRobots1_85\Lab10\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -EnvTEXTPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\TRobots1_85\Lab10\Trobot_9S12DP512_Data\HCS12_Serial_Monitor\ObjectCode\Scan.c.o -WmsgSd1106
+
+  0000 37           [2]     PSHB  
+   10:    PTM |= Resolution;    //Friendly
+  0001 f60000       [3]     LDAB  _PTM
+  0004 ea80         [3]     ORAB  0,SP
+  0006 7b0000       [3]     STAB  _PTM
+   11:    //Sample ADC5
+   12:    ATD0CTL5 |= 0x85;      //Begin conversion of channel 5
+  0009 4c0085       [4]     BSET  _ATD0CTL45:1,#133
+   13:    while((ATD0STAT0&0x80)==0){/*wait*/}
+  000c 4f0080fc     [4]     BRCLR _ATD0STAT0,#128,*+0 ;abs = 000c
+   14:    return ATD0DR0; 
+  0010 dc00         [3]     LDD   _ATD0DR0
+   15:  }
+  0012 1b81         [2]     LEAS  1,SP
+  0014 3d           [5]     RTS   
+   16:  
+   17:  int scan_L(unsigned char Resolution) {  //channel 4 data
+*** EVALUATION ***
+
+Function: scan_L
+Source  : \\psf\Home\Desktop\TRobots1_85\Lab10\Sources\Scan.c
+Options : -Cc -D__ONLY_INIT_SP -D__NO_FLOAT__ -D_HCS12_SERIALMON -Env"GENPATH=\\psf\Home\Desktop\TRobots1_85\Lab10;\\psf\Home\Desktop\TRobots1_85\Lab10\bin;\\psf\Home\Desktop\TRobots1_85\Lab10\prm;\\psf\Home\Desktop\TRobots1_85\Lab10\cmd;\\psf\Home\Desktop\TRobots1_85\Lab10\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -EnvTEXTPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\TRobots1_85\Lab10\Trobot_9S12DP512_Data\HCS12_Serial_Monitor\ObjectCode\Scan.c.o -WmsgSd1106
+
+  0000 37           [2]     PSHB  
+   18:     PTM |= Resolution;   //Friendly
+  0001 f60000       [3]     LDAB  _PTM
+  0004 ea80         [3]     ORAB  0,SP
+  0006 7b0000       [3]     STAB  _PTM
+   19:    //Sample ADC4
+   20:    ATD0CTL5 |= 0x84;      //Begin conversion of channel 4
+  0009 4c0084       [4]     BSET  _ATD0CTL45:1,#132
+   21:    while((ATD0STAT0&0x80)==0){/*wait*/}
+  000c 4f0080fc     [4]     BRCLR _ATD0STAT0,#128,*+0 ;abs = 000c
+   22:    return ATD0DR0;  
+  0010 dc00         [3]     LDD   _ATD0DR0
+   23:  }
+  0012 1b81         [2]     LEAS  1,SP
+  0014 3d           [5]     RTS   
+   24:  
+   25:  int scan_R(unsigned char Resolution) {  //channel 6 data
+*** EVALUATION ***
+
+Function: scan_R
+Source  : \\psf\Home\Desktop\TRobots1_85\Lab10\Sources\Scan.c
+Options : -Cc -D__ONLY_INIT_SP -D__NO_FLOAT__ -D_HCS12_SERIALMON -Env"GENPATH=\\psf\Home\Desktop\TRobots1_85\Lab10;\\psf\Home\Desktop\TRobots1_85\Lab10\bin;\\psf\Home\Desktop\TRobots1_85\Lab10\prm;\\psf\Home\Desktop\TRobots1_85\Lab10\cmd;\\psf\Home\Desktop\TRobots1_85\Lab10\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -EnvTEXTPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\TRobots1_85\Lab10\Trobot_9S12DP512_Data\HCS12_Serial_Monitor\ObjectCode\Scan.c.o -WmsgSd1106
+
+  0000 37           [2]     PSHB  
+   26:    PTM |= Resolution;    //Friendly
+  0001 f60000       [3]     LDAB  _PTM
+  0004 ea80         [3]     ORAB  0,SP
+  0006 7b0000       [3]     STAB  _PTM
+   27:    //Sample ADC56
+   28:    ATD0CTL5 |= 0x86;      //Begin conversion of channel 6
+  0009 4c0086       [4]     BSET  _ATD0CTL45:1,#134
+   29:    while((ATD0STAT0&0x80)==0){/*wait*/}
+  000c 4f0080fc     [4]     BRCLR _ATD0STAT0,#128,*+0 ;abs = 000c
+   30:    return ATD0DR0;
+  0010 dc00         [3]     LDD   _ATD0DR0
+   31:  }
+  0012 1b81         [2]     LEAS  1,SP
+  0014 3d           [5]     RTS   
+   32:  

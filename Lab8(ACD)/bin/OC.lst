@@ -1,0 +1,133 @@
+
+Freescale HC12-Assembler 
+(c) Copyright Freescale 1987-2010
+
+ Abs. Rel.   Loc    Obj. code   Source line
+ ---- ----   ------ ---------   -----------
+    1    1                      ; filename ******** OC.asm ************** 
+    2    2                      ; Lab 7 Output compare interrupt used to establish 10 Hz sampling
+    3    3                      ;    develop these programs
+    4    4                      
+    5    5                        xdef       ADCMail
+    6    6                        xdef       ADCStatus
+    7    7                        absentry   OC0_Init
+    8    8                       ; absentry   Timer_Wait10ms
+    9    9                        xref       ADC_Init
+   10   10                        xref       ADC_In
+   11   11                      RAM:          section 
+   12   12   000000             PERIOD    rmb   2 
+   13   13   000002             TCOffset  rmb   2
+   14   14   000004             ADCMail   rmb   1    ; 8-bit data from ADC
+   15   15   000005             ADCStatus rmb   1    ; true when new data available
+   16   16                      
+   17   17          0000 0044   TCNT     equ $0044
+   18   18          0000 0046   TSCR1    equ $0046  ; make bit7=1 to enable TCNT
+   19   19          0000 004D   TSCR2    equ $004D  ; specifies rate
+   20   20          0000 004E   TFLG1    equ $004E  ; Main Timer Interrupt Flag 1
+   21   21          0000 004C   TIE      equ $004C  ; Timer Interrupt Enable Register
+   22   22          0000 0040   TIOS     equ $0040  ; Timer Input Capture/Output Compare Select
+   23   23          0000 0050   TC0      equ $0050  ; Timer Input Capture/Output Compare Register 0
+   24   24          0000 0258   PTP      equ $0258  ; Port P I/O Register
+   25   25          0000 025A   DDRP     equ $025A  ; Port P Data Direction Register
+   26   26                      
+   27   27                      EEPROM:  section  
+   28   28                      
+   29   29                      
+   30   30                      
+   31   31                      
+   32   32                      ;***************OC0_Init*****************
+   33   33                      ; Set timer to LoadMode=5.333us, RunMode=5.333us
+   34   34                      ; turn on output compare interrupts
+   35   35                      ; Assumes PLL will be active, E clock is 24 MHz
+   36   36                      ; Bottom three bits of TSCR2 (PR2,PR1,PR0) determine TCNT period
+   37   37                      ;    divide  LoadMode and Run Mode with PLL (24MHz)
+   38   38                      ;000   1     42ns  TOF  2.73ms 
+   39   39                      ;001   2     84ns  TOF  5.46ms  
+   40   40                      ;010   4    167ns  TOF  10.9ms        
+   41   41                      ;011   8    333ns  TOF  21.8ms   
+   42   42                      ;100  16    667ns  TOF  43.7ms   
+   43   43                      ;101  32   1.33us  TOF  87.4ms  
+   44   44                      ;110  64   2.67us  TOF 174.8ms  
+   45   45                      ;111 128   5.33us  TOF 349.5ms   */ 
+   46   46                      ; inputs: none
+   47   47                      ; outputs: none
+   48   48                      ; errors: assumes 24MHz E clock
+   49   49                      OC0_Init
+   50   50   000000 3B                   pshd           ; Save RegD
+   51   51   000001 1410                 sei
+   52   52   000003 180B 00xx            movb #0,ADCMail
+             000007 xx         
+   53   53   000008 180B 00xx            movb #0,ADCStatus
+             00000C xx         
+   54   54                               
+   55   55   00000D 180B 8000            movb #$80,TSCR1
+             000011 46         
+   56   56   000012 180B 0700            movb #$07,TSCR2
+             000016 4D         
+   57   57   000017 180B 0100            movb #$01,TIOS
+             00001B 40         
+   58   58   00001C 180B 0100            movb #$01,TIE
+             000020 4C         
+
+Freescale HC12-Assembler 
+(c) Copyright Freescale 1987-2010
+
+ Abs. Rel.   Loc    Obj. code   Source line
+ ---- ----   ------ ---------   -----------
+   59   59   000021 180B 0100            movb #$01,TFLG1
+             000025 4E         
+   60   60   000026 CC03 E8              ldd  #1000
+   61   61   000029 D344                 addd TCNT
+   62   62   00002B 5C50                 std  TC0
+   63   63                                
+   64   64   00002D 3A                   puld           ; Restore RegD
+   65   65   00002E 3D                   rts
+   66   66                      
+   67   67                      
+   68   68                      ;************ Timer_Wait10ms***************
+   69   69                      ; time delay
+   70   70                      ; inputs: RegD is the number of 10ms to wait
+   71   71                      ; outputs: none
+   72   72                      ; errors: RegY=0 will wait 655.36 sec
+   73   73                      ;Timer_Wait10ms
+   74   74                       ;       tfr D,X
+   75   75                      ;XmsLoop
+   76   76                      ;        ldy #60000
+   77   77                      ;TenmsLoop
+   78   78                      ;        dey
+   79   79                      ;        bne TenmsLoop
+   80   80                      ;        dex
+   81   81                      ;        bne XmsLoop
+   82   82                      
+   83   83                      ;        rts
+   84   84                      ;************ TC0Hander ************        
+   85   85                      ;interrupts every 200 ms
+   86   86                      TC0handler
+   87   87                               ; pshd      ; Save RegD
+   88   88   00002F 180B 0100             movb  #$01,TFLG1
+             000033 4E         
+   89   89                       
+   90   90   000034 CC00 02               ldd  #2    ; Channel 2
+   91   91   000037 16xx xx               jsr ADC_In
+   92   92                                ; RegD now has ADC value
+   93   93   00003A 7Bxx xx               stab ADCMail
+   94   94   00003D C601                  ldab  #1
+   95   95   00003F 7Bxx xx               stab  ADCStatus
+   96   96   000042 DC50                  ldd   TC0
+   97   97   000044 C392 95               addd  #37525    ;37525  
+   98   98   000047 5C50                  std   TC0
+   99   99                                
+  100  100   000049 B602 58               ldaa PTP   
+  101  101   00004C 8880                  eora  #$80   ; Heartbeat
+  102  102   00004E 7A02 58               staa  PTP
+  103  103                                
+  104  104                               ; puld      ; Restore RegD
+  105  105   000051 0B                    rti
+  106  106                            
+  107  107                               org  $FFEE
+  108  108  a00FFEE xxxx        TC0vec   fdb  TC0handler ;output compare 0 interrupt vector
+  109  109                      
+  110  110                      
+  111  111                      EEPROM:  section  
+  112  112                      
+  113  113                      

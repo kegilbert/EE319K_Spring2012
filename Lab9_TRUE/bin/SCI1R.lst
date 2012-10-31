@@ -1,0 +1,57 @@
+*** EVALUATION ***
+ANSI-C/cC++ Compiler for HC12 V-5.0.41 Build 10203, Jul 23 2010
+
+    1:  //SCI1 routines for receiver
+    2:  #include "derivative.h"
+    3:  #include "FIFO.h"
+    4:  
+    5:  unsigned short ErrorCount;
+    6:  unsigned char error;
+    7:  unsigned char result;
+    8:  
+    9:  void SCI1R_Init(void){
+*** EVALUATION ***
+
+Function: SCI1R_Init
+Source  : \\psf\Home\Desktop\Lab9_TRUE\Sources\SCI1R.c
+Options : -Cc -CPUHCS12 -D_HCS12_SERIALMON -D__NO_FLOAT__ -Env"GENPATH=\\psf\Home\Desktop\Lab9_TRUE;\\psf\Home\Desktop\Lab9_TRUE\bin;\\psf\Home\Desktop\Lab9_TRUE\prm;\\psf\Home\Desktop\Lab9_TRUE\cmd;\\psf\Home\Desktop\Lab9_TRUE\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;\\psf\Home\Desktop\EE319K\Lab8(ACD)\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\Lab9_TRUE\bin -EnvTEXTPATH=\\psf\Home\Desktop\Lab9_TRUE\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\Lab9_TRUE\Lab8_Data\Standard\ObjectCode\SCI1R.c.o -WmsgSd1106
+
+   10:    ErrorCount = 0;
+  0000 c7           [1]     CLRB  
+  0001 87           [1]     CLRA  
+  0002 7c0000       [3]     STD   ErrorCount
+   11:    FIFO_Init();
+  0005 160000       [4]     JSR   FIFO_Init
+   12:    SCI1SR2 |= 0x24;     // Enable receiver, RDRF int. flag
+  0008 4c0024       [4]     BSET  _SCI1SR2,#36
+   13:    SCI1BD = 13;         // Baud Rate set to 38400 bps  
+  000b c60d         [1]     LDAB  #13
+  000d 87           [1]     CLRA  
+  000e 5c00         [2]     STD   _SCI1BD
+   14:  }
+  0010 3d           [5]     RTS   
+   15:  
+   16:  unsigned char SCI1_InData(void) {
+*** EVALUATION ***
+
+Function: SCI1_InData
+Source  : \\psf\Home\Desktop\Lab9_TRUE\Sources\SCI1R.c
+Options : -Cc -CPUHCS12 -D_HCS12_SERIALMON -D__NO_FLOAT__ -Env"GENPATH=\\psf\Home\Desktop\Lab9_TRUE;\\psf\Home\Desktop\Lab9_TRUE\bin;\\psf\Home\Desktop\Lab9_TRUE\prm;\\psf\Home\Desktop\Lab9_TRUE\cmd;\\psf\Home\Desktop\Lab9_TRUE\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;\\psf\Home\Desktop\EE319K\Lab8(ACD)\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\Lab9_TRUE\bin -EnvTEXTPATH=\\psf\Home\Desktop\Lab9_TRUE\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\Lab9_TRUE\Lab8_Data\Standard\ObjectCode\SCI1R.c.o -WmsgSd1106
+
+   17:    result = 0;
+  0000 790000       [3]     CLR   result
+   18:    error = FIFO_Get();
+  0003 160000       [4]     JSR   FIFO_Get
+  0006 7b0000       [3]     STAB  error
+   19:    while(error == 0){ }   //0 = false, do nothing
+  0009 f60000       [3]     LDAB  error
+  000c 27fb         [3/1]   BEQ   *-3 ;abs = 0009
+   20:    error = result;        //FIFO_Get no longer empty, return result
+  000e f60000       [3]     LDAB  result
+  0011 7b0000       [3]     STAB  error
+   21:    return result;    
+  0014 f60000       [3]     LDAB  result
+   22:  }
+  0017 3d           [5]     RTS   
+   23:  
+   24:  

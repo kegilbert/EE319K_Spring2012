@@ -1,0 +1,71 @@
+; filename ******** OC.asm ************** 
+; Lab 7 Output compare interrupt used to establish 10 Hz sampling
+;    develop these programs
+
+  xdef       ADCMail
+  xdef       ADCStatus
+  absentry   OC0_Init
+  absentry   Timer_Wait10ms
+  xref       ADC_Init
+  xref       ADC_In2
+RAM:          section  
+ADCMail       ds.w  1    ; 10-bit data from ADC
+ADCStatus     ds.b  1    ; true when new data available
+
+TCNT     equ $0044
+TSCR1    equ $0046  ; make bit7=1 to enable TCNT
+TSCR2    equ $004D  ; specifies rate
+TFLG1    equ $004E  ; Main Timer Interrupt Flag 1
+TIE      equ $004C  ; Timer Interrupt Enable Register
+TIOS     equ $0040  ; Timer Input Capture/Output Compare Select
+TC0      equ $0050  ; Timer Input Capture/Output Compare Register 0
+PTP      equ $0258  ; Port P I/O Register
+DDRP     equ $025A  ; Port P Data Direction Register
+
+EEPROM:  section  
+
+
+
+
+;***************OC0_Init*****************
+; Set timer to LoadMode=5.333us, RunMode=5.333us
+; turn on output compare interrupts
+; Assumes PLL will be active, E clock is 24 MHz
+; Bottom three bits of TSCR2 (PR2,PR1,PR0) determine TCNT period
+;    divide  LoadMode and Run Mode with PLL (24MHz)
+;000   1     42ns  TOF  2.73ms 
+;001   2     84ns  TOF  5.46ms  
+;010   4    167ns  TOF  10.9ms        
+;011   8    333ns  TOF  21.8ms   
+;100  16    667ns  TOF  43.7ms   
+;101  32   1.33us  TOF  87.4ms  
+;110  64   2.67us  TOF 174.8ms  
+;111 128   5.33us  TOF 349.5ms   */ 
+; inputs: none
+; outputs: none
+; errors: assumes 24MHz E clock
+OC0_Init
+
+         rts
+
+
+;************ Timer_Wait10ms***************
+; time delay
+; inputs: RegD is the number of 10ms to wait
+; outputs: none
+; errors: RegY=0 will wait 655.36 sec
+Timer_Wait10ms
+
+         rts
+;interrupts every 100 ms
+TC0handler 
+
+
+         rti
+      
+         org  $FFEE
+TC0vec   fdb  TC0handler ;output compare 0 interrupt vector
+
+
+EEPROM:  section  
+

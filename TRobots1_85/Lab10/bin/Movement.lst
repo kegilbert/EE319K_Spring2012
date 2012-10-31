@@ -1,0 +1,130 @@
+*** EVALUATION ***
+ANSI-C/cC++ Compiler for HC12 V-5.0.41 Build 10203, Jul 23 2010
+
+    1:  //****************** Movement file *********************
+    2:  #include <hidef.h>           /* common defines and macros */
+    3:  #include <mc9s12dp512.h>     /* derivative information */
+    4:  
+    5:  #include "Movement.h"
+    6:  
+    7:  unsigned short PERIOD;
+    8:  const unsigned char step[8] = {
+    9:      0x05,0x04,0x06,0x02,0x0A,0x08,0x09,0x01
+   10:    };
+   11:  unsigned char LMP,RMP;
+   12:  signed char Offset;
+   13:  
+   14:  void interrupt 8 TC0Handler(void);
+   15:  
+   16:  void motor_Init(void) {
+*** EVALUATION ***
+
+Function: motor_Init
+Source  : \\psf\Home\Desktop\TRobots1_85\Lab10\Sources\Movement.c
+Options : -Cc -D__ONLY_INIT_SP -D__NO_FLOAT__ -D_HCS12_SERIALMON -Env"GENPATH=\\psf\Home\Desktop\TRobots1_85\Lab10;\\psf\Home\Desktop\TRobots1_85\Lab10\bin;\\psf\Home\Desktop\TRobots1_85\Lab10\prm;\\psf\Home\Desktop\TRobots1_85\Lab10\cmd;\\psf\Home\Desktop\TRobots1_85\Lab10\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -EnvTEXTPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\TRobots1_85\Lab10\Trobot_9S12DP512_Data\HCS12_Serial_Monitor\ObjectCode\Movement.c.o -WmsgSd1106
+
+   17:    LMP = 0;
+  0000 790000       [3]     CLR   LMP
+   18:    RMP = 0;
+  0003 790000       [3]     CLR   RMP
+   19:    PERIOD = 0;
+  0006 c7           [1]     CLRB  
+  0007 87           [1]     CLRA  
+  0008 7c0000       [3]     STD   PERIOD
+   20:    Offset = 0;
+  000b 7b0000       [3]     STAB  Offset
+   21:  }
+  000e 3d           [5]     RTS   
+   22:  
+   23:  void motor_straight(signed short speed) {   //uses TC0
+*** EVALUATION ***
+
+Function: motor_straight
+Source  : \\psf\Home\Desktop\TRobots1_85\Lab10\Sources\Movement.c
+Options : -Cc -D__ONLY_INIT_SP -D__NO_FLOAT__ -D_HCS12_SERIALMON -Env"GENPATH=\\psf\Home\Desktop\TRobots1_85\Lab10;\\psf\Home\Desktop\TRobots1_85\Lab10\bin;\\psf\Home\Desktop\TRobots1_85\Lab10\prm;\\psf\Home\Desktop\TRobots1_85\Lab10\cmd;\\psf\Home\Desktop\TRobots1_85\Lab10\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -EnvTEXTPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\TRobots1_85\Lab10\Trobot_9S12DP512_Data\HCS12_Serial_Monitor\ObjectCode\Movement.c.o -WmsgSd1106
+
+   24:    if(speed < 0) {
+  0000 8c0000       [2]     CPD   #0
+  0003 2c0b         [3/1]   BGE   *+13 ;abs = 0010
+   25:      Offset = -2;
+  0005 180bfe0000   [4]     MOVB  #254,Offset
+   26:      PERIOD = speed*(-1);
+  000a 40           [1]     NEGA  
+  000b 50           [1]     NEGB  
+  000c 8200         [1]     SBCA  #0
+   27:    } else {
+  000e 2005         [3]     BRA   *+7 ;abs = 0015
+   28:      Offset = 2; 
+  0010 180b020000   [4]     MOVB  #2,Offset
+   29:      PERIOD = speed;
+  0015 7c0000       [3]     STD   PERIOD
+   30:    }
+   31:    TIOS |= 0x01;
+  0018 4c0001       [4]     BSET  _TIOS,#1
+   32:    TIE |= 0x01;  
+  001b 4c0001       [4]     BSET  _TIE,#1
+   33:    TFLG1 = 0x01;
+  001e c601         [1]     LDAB  #1
+  0020 5b00         [2]     STAB  _TFLG1
+   34:    TC0 = TCNT + 400;  
+  0022 dc00         [3]     LDD   _TCNT
+  0024 c30190       [2]     ADDD  #400
+  0027 5c00         [2]     STD   _TC0
+   35:  }
+  0029 3d           [5]     RTS   
+   36:  
+   37:  
+   38:  
+   39:    
+   40:    
+   41:  void interrupt 8 TC0Handler(void) {
+*** EVALUATION ***
+
+Function: TC0Handler
+Source  : \\psf\Home\Desktop\TRobots1_85\Lab10\Sources\Movement.c
+Options : -Cc -D__ONLY_INIT_SP -D__NO_FLOAT__ -D_HCS12_SERIALMON -Env"GENPATH=\\psf\Home\Desktop\TRobots1_85\Lab10;\\psf\Home\Desktop\TRobots1_85\Lab10\bin;\\psf\Home\Desktop\TRobots1_85\Lab10\prm;\\psf\Home\Desktop\TRobots1_85\Lab10\cmd;\\psf\Home\Desktop\TRobots1_85\Lab10\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -EnvTEXTPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\TRobots1_85\Lab10\Trobot_9S12DP512_Data\HCS12_Serial_Monitor\ObjectCode\Movement.c.o -WmsgSd1106
+
+   42:     TFLG1 |= 0x01;
+  0000 4c0001       [4]     BSET  _TFLG1,#1
+   43:     TC0 = TC0 + PERIOD;
+  0003 dc00         [3]     LDD   _TC0
+  0005 f30000       [3]     ADDD  PERIOD
+  0008 5c00         [2]     STD   _TC0
+   44:     PTT = step[LMP]+(step[RMP] << 4);
+  000a f60000       [3]     LDAB  RMP
+  000d ce0000       [2]     LDX   #step
+  0010 a6e5         [3]     LDAA  B,X
+  0012 c610         [1]     LDAB  #16
+  0014 12           [1]     MUL   
+  0015 b60000       [3]     LDAA  LMP
+  0018 ebe4         [3]     ADDB  A,X
+  001a 7b0000       [3]     STAB  _PTT
+   45:     LMP += Offset;    //step through array with offset of +/-2 for straight forward/backwards
+  001d bb0000       [3]     ADDA  Offset
+  0020 7a0000       [3]     STAA  LMP
+   46:     RMP = LMP; 
+  0023 7a0000       [3]     STAA  RMP
+   47:     if(LMP>=7 && Offset>0) {
+  0026 8107         [1]     CMPA  #7
+  0028 250d         [3/1]   BCS   *+15 ;abs = 0037
+  002a f60000       [3]     LDAB  Offset
+  002d 2f08         [3/1]   BLE   *+10 ;abs = 0037
+   48:        LMP = 0;
+  002f 790000       [3]     CLR   LMP
+   49:        RMP = 0;
+  0032 790000       [3]     CLR   RMP
+  0035 2004         [3]     BRA   *+6 ;abs = 003b
+   50:     }
+   51:     if(LMP<=1 && Offset<0) {
+  0037 8101         [1]     CMPA  #1
+  0039 220d         [3/1]   BHI   *+15 ;abs = 0048
+  003b f60000       [3]     LDAB  Offset
+  003e 2c08         [3/1]   BGE   *+10 ;abs = 0048
+   52:        LMP = 6;
+  0040 c606         [1]     LDAB  #6
+  0042 7b0000       [3]     STAB  LMP
+   53:        RMP = 6;
+  0045 7b0000       [3]     STAB  RMP
+   54:     }
+   55:  }
+  0048 0b           [8]     RTI   

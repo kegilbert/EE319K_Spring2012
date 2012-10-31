@@ -1,0 +1,416 @@
+
+Freescale HC12-Assembler 
+(c) Copyright Freescale 1987-2010
+
+ Abs. Rel.   Loc    Obj. code   Source line
+ ---- ----   ------ ---------   -----------
+    1    1                       ; filename ******** lcd.asm ************** 
+    2    2                      ; ******************************** LCD_Interface********************************
+    3    3                      ; Kevin Gilbert and Graham Gilvar
+    4    4                      ; Date Created 23-03-2012 10:30 PM
+    5    5                      ; Date last modified: 29-03-2012 3:15PM
+    6    6                      ; LCD Device Driver
+    7    7                      
+    8    8                      ; Public functions access 
+    9    9                      
+   10   10                            absentry   LCD_Open 
+   11   11                      
+   12   12                            absentry   LCD_OutChar 
+   13   13                      
+   14   14                            absentry   LCD_Clear 
+   15   15                      
+   16   16                            absentry   LCD_GoTo 
+   17   17                      
+   18   18                            absentry   LCD_OutDec 
+   19   19                      
+   20   20                            absentry   LCD_OutFix 
+   21   21                      
+   22   22                            absentry   LCD_OutString 
+   23   23                      
+   24   24                           ; absentry   Timer_Wait10ms 
+   25   25                      
+   26   26                      ; I/O Directories
+   27   27                      
+   28   28          0000 0260   PTH	equ	$0260
+   29   29          0000 0262   DDRH	equ	$0262
+   30   30          0000 0258   PTP	equ	$0258
+   31   31          0000 025A   DDRP	equ	$025A
+   32   32          0000 0240   PTT	equ	$0240
+   33   33          0000 0242   DDRT	equ	$0242
+   34   34          0000 0046   TSCR1	equ	$0046
+   35   35          0000 004D   TSCR2	equ	$004D
+   36   36          0000 0044   TCNT	equ	$0044
+   37   37                      
+   38   38                      ; RAM global variables
+   39   39                      RAM:    section
+   40   40                      
+   41   41   000000             TCNTo		rmb	2
+   42   42   000002             StringPnt	rmb	2
+   43   43   000004             number	rmb	2
+   44   44   000006             point		rmb	2
+   45   45   000008             count rmb 2
+   46   46   00000A             counter rmb 2
+   47   47   00000C             numberoutfix rmb 2
+   48   48   00000E             compareoutfix rmb 2
+   49   49   000010             baseoutfix rmb 2
+   50   50   000012             printoutfix rmb 2
+   51   51   000014             DecPnt	rmb	2
+   52   52   000016             DecCounter	rmb	2
+   53   53                      
+   54   54                      EEPROM:  section
+   55   55                      
+   56   56                      ;---------------------Timer_Init---------------------
+   57   57                      ; Inputs: NA
+   58   58                      ; Outputs: NA
+   59   59                      ; Initialize timer routine, initialize hardware counter
+   60   60                      
+   61   61                      Timer_Init
+   62   62   000000 36          	psha		; Save Registers		
+   63   63   000001 37          	pshb	
+   64   64   000002 34          	pshx
+
+Freescale HC12-Assembler 
+(c) Copyright Freescale 1987-2010
+
+ Abs. Rel.   Loc    Obj. code   Source line
+ ---- ----   ------ ---------   -----------
+   65   65   000003 35          	pshy
+   66   66   000004 180B 8000   	movb #$80,TSCR1
+             000008 46         
+   67   67   000009 180B 0700         movb #$07,TSCR2	; Set Hardware timer, 00 for simulation (faster) 
+             00000D 4D         
+   68   68   00000E 31          	puly		; Restore Registers
+   69   69   00000F 30          	pulx
+   70   70   000010 33          	pulb
+   71   71   000011 32          	pula
+   72   72   000012 3D          	rts 
+   73   73                      
+   74   74                      ;---------------------Timer_wait---------------------
+   75   75                      ; Inputs: RegY is number of 1ms increments
+   76   76                      ; Waits in 1ms increments
+   77   77                      
+   78   78                      Timer_wait	;rts		; Simulation
+   79   79                      				; Incremental 1ms delays, regY determines num of 1ms delays
+   80   80   000013 36          		psha		; Save Registers
+   81   81   000014 37          		pshb
+   82   82   000015 34          		pshx
+   83   83   000016 35          		pshy
+   84   84   000017 1804 0044   		movw	TCNT,TCNTo
+             00001B xxxx       
+   85   85                      
+   86   86   00001D 8B00        wait1ms	adda	#0
+   87   87   00001F DC44        compareT	ldd	TCNT	
+   88   88   000021 B3xx xx     		subd	TCNTo
+   89   89   000024 8C00 C8     		cpd	#200
+   90   90   000027 25F6        		blo	compareT
+   91   91   000029 03          		dey
+   92   92   00002A 26F1        		bne	wait1ms
+   93   93                      	
+   94   94   00002C 31          		puly		; Restore Registers
+   95   95   00002D 30          		pulx
+   96   96   00002E 33          		pulb
+   97   97   00002F 32          		pula
+   98   98   000030 3D          		rts
+   99   99                      
+  100  100                      ;---------------------LCD_Open--------------------- 
+  101  101                      ; initialize the LCD display, called once at beginning 
+  102  102                      ; Input: none 
+  103  103                      ; Output: none 
+  104  104                      ; Registers modified: CC
+  105  105                      
+  106  106                      LCD_Open
+  107  107   000031 3B          	pshd	; Save Registers
+  108  108   000032 34          	pshx
+  109  109   000033 35          	pshy
+  110  110                      	
+  111  111   000034 1803 0000   	movw	#0,StringPnt		; Initialize global variables
+             000038 xxxx       
+  112  112   00003A 1803 0000   	movw	#0,number
+             00003E xxxx       
+  113  113                      
+  114  114   000040 16xx xx     	jsr	Timer_Init
+  115  115   000043 1C02 62FF   	bset	DDRH,#$FF	; All pins output, PH0 = RS, PH1 = E
+  116  116   000047 8603        	ldaa	#$03
+  117  117   000049 16xx xx     	jsr	OutCsrNibble
+  118  118   00004C CD00 32     	ldy	#50		; 5ms delay
+  119  119   00004F 16xx xx     	jsr	Timer_wait	
+  120  120   000052 8603        	ldaa	#$03
+  121  121   000054 16xx xx     	jsr	OutCsrNibble
+  122  122   000057 CD00 0A     	ldy	#10
+  123  123   00005A 16xx xx     	jsr	Timer_wait
+
+Freescale HC12-Assembler 
+(c) Copyright Freescale 1987-2010
+
+ Abs. Rel.   Loc    Obj. code   Source line
+ ---- ----   ------ ---------   -----------
+  124  124   00005D 8603        	ldaa	#$03
+  125  125   00005F 16xx xx     	jsr	OutCsrNibble
+  126  126   000062 CD00 0A     	ldy	#10
+  127  127   000065 16xx xx     	jsr	Timer_wait
+  128  128   000068 8602        	ldaa	#02
+  129  129   00006A 16xx xx     	jsr	OutCsrNibble
+  130  130   00006D CD00 0A     	ldy	#10
+  131  131   000070 16xx xx     	jsr	Timer_wait
+  132  132                      	
+  133  133   000073 8628        	ldaa	#$28
+  134  134   000075 16xx xx     	jsr	OutCsr
+  135  135   000078 8614        	ldaa	#$14
+  136  136   00007A 16xx xx     	jsr	OutCsr
+  137  137   00007D 8606        	ldaa	#$06
+  138  138   00007F 16xx xx     	jsr	OutCsr
+  139  139   000082 860C        	ldaa	#$0C	
+  140  140   000084 16xx xx     	jsr	OutCsr
+  141  141                      
+  142  142   000087 31          	puly	; Restore Registers
+  143  143   000088 30          	pulx
+  144  144   000089 3A          	puld
+  145  145   00008A 3D          	rts	
+  146  146                      
+  147  147                      ;--------------- outCsrNibble ------------------ 
+  148  148                      ; sends 4 bits to the LCD control/status 
+  149  149                      ; Input: RegA is 4-bit command, in bit positions 3,2,1,0 of RegA  
+  150  150                      ; Output: none 
+  151  151                      
+  152  152                      OutCsrNibble		; Proto
+  153  153   00008B 36          	psha
+  154  154   00008C 1D02 6002   	bclr	PTH,#$02	; E bit 0
+  155  155   000090 48          	lsla
+  156  156   000091 48          	lsla
+  157  157   000092 48          	lsla
+  158  158   000093 48          	lsla
+  159  159   000094 84F0        	anda	#$F0
+  160  160   000096 8B02        	adda	#$02	; Keep E bit toggled to 1
+  161  161   000098 7A02 60     	staa	PTH
+  162  162                      	; 10 nanosecond delay for real board runs if required
+  163  163   00009B 1D02 6002   	bclr	PTH,#$02	; Toggle E bit to 0
+  164  164   00009F 32          	pula
+  165  165   0000A0 CD00 14     	ldy	#20
+  166  166   0000A3 16xx xx     	jsr	Timer_wait
+  167  167   0000A6 3D          	rts
+  168  168                      
+  169  169                      ;---------------------outCsr--------------------- 
+  170  170                      ; sends one command code to the LCD control/status 
+  171  171                      ; Input: RegA is 8-bit command to execute 
+  172  172                      ; Output: non
+  173  173                      
+  174  174                      OutCsr
+  175  175   0000A7 36          	psha		; psha twice, restored twice
+  176  176   0000A8 36          	psha	
+  177  177   0000A9 1D02 6001   	bclr	PTH,#$01	; Set RS bit to be low
+  178  178   0000AD 84F0        	anda	#$F0
+  179  179   0000AF 44          	lsra
+  180  180   0000B0 44          	lsra
+  181  181   0000B1 44          	lsra
+  182  182   0000B2 44          	lsra		; Send high 4 bits from RegA into Nibble in low 4 bit position
+  183  183   0000B3 16xx xx     	jsr	OutCsrNibble	; Sends high 4 bits of A into CsrNibble
+  184  184   0000B6 32          	pula
+  185  185   0000B7 840F        	anda	#$0F
+  186  186   0000B9 16xx xx     	jsr	OutCsrNibble	; Send low 4 bits of A into CsrNibble
+  187  187   0000BC 32          	pula		; Restore RegA
+
+Freescale HC12-Assembler 
+(c) Copyright Freescale 1987-2010
+
+ Abs. Rel.   Loc    Obj. code   Source line
+ ---- ----   ------ ---------   -----------
+  188  188   0000BD 3D          	rts
+  189  189                      		
+  190  190                      
+  191  191                      ; ---------------------LCD_OutString------------- 
+  192  192                      ; Output character string to LCD display, terminated by a NULL(0) 
+  193  193                      ; Inputs:  RegD (call by reference) points to a string of ASCII characters  
+  194  194                      ; Outputs: none 
+  195  195                      ; Registers modified: CC
+  196  196                      
+  197  197                      LCD_OutString
+  198  198   0000BE 3B          	pshd
+  199  199   0000BF 7Cxx xx     	std     StringPnt          ; need to move the pointer to register X and the character to
+  200  200   0000C2 FExx xx     loop  ldx     StringPnt           ; register D since the subroutine LCD_OutChar receives the
+  201  201   0000C5 EC00              ldd     0,x                ; character from register D.
+  202  202   0000C7 8C00 00           cpd     #0                 ; checks for the null character in the string
+  203  203   0000CA 1827 000F         lbeq	done2
+  204  204   0000CE 16xx xx           jsr     LCD_OutChar
+  205  205   0000D1 B710        	tfr	B,A		; Load next ASCII char into regA
+  206  206   0000D3 16xx xx     	jsr	LCD_OutChar
+  207  207   0000D6 08                inx
+  208  208   0000D7 08          	inx 
+  209  209   0000D8 7Exx xx     	stx	StringPnt
+  210  210                            ;jsr     LCD_GoTo                ; goes to LCD_GoTo subroutine to move the cursor
+  211  211   0000DB 20E5              bra     loop                    ; branches until null character is reached
+  212  212                      done2	
+  213  213   0000DD 3A          	puld
+  214  214   0000DE CD00 14     	ldy	#20
+  215  215   0000E1 16xx xx     	jsr	Timer_wait
+  216  216   0000E4 3D          	rts
+  217  217                      
+  218  218                      
+  219  219                      ;---------------------LCD_Clear--------------------- 
+  220  220                      ; clear the LCD display, send cursor to home 
+  221  221                      ; Input: none 
+  222  222                      ; Outputs: none 
+  223  223                      ; Registers modified: CC
+  224  224                      
+  225  225                      LCD_Clear
+  226  226   0000E5 8601        	ldaa	#$01
+  227  227   0000E7 1D02 6001   	bclr	PTH,#$01		; RS 0, sending command
+  228  228   0000EB 16xx xx     	jsr	OutCsr	; clears display
+  229  229   0000EE CD00 02     	ldy	#2
+  230  230   0000F1 16xx xx     	jsr	Timer_wait
+  231  231   0000F4 8602        	ldaa	#$02
+  232  232   0000F6 16xx xx     	jsr	OutCsr
+  233  233   0000F9 CD00 02     	ldy	#2
+  234  234   0000FC 16xx xx     	jsr	Timer_wait
+  235  235   0000FF 3D          	rts
+  236  236                      
+  237  237                      
+  238  238                      ;---------------------LCD_OutChar--------------------- 
+  239  239                      ; sends one ASCII to the LCD display 
+  240  240                      ; Input: RegD (call by value) letter is 8-bit ASCII code 
+  241  241                      ; Outputs: none 
+  242  242                      ; Registers modified: CC
+  243  243                      
+  244  244                      LCD_OutChar
+  245  245   000100 3B          	pshd	
+  246  246   000101 3B          	pshd
+  247  247   000102 1C02 6001   	bset	PTH,#$01	; Set RS bit to 1 to send data, E bit 0
+  248  248   000106 84F0        	anda	#$F0				
+  249  249   000108 8B03        	adda	#$03		; high 4 bits stored, RS = 1, E = 1
+  250  250   00010A 7A02 60     	staa	PTH		
+  251  251   00010D 8002        	suba	#$02		; RS = 1, E = 0, toggle E bit
+
+Freescale HC12-Assembler 
+(c) Copyright Freescale 1987-2010
+
+ Abs. Rel.   Loc    Obj. code   Source line
+ ---- ----   ------ ---------   -----------
+  252  252   00010F 7A02 60     	staa	PTH
+  253  253   000112 CD00 3C     	ldy	#60
+  254  254   000115 16xx xx     	jsr	Timer_wait
+  255  255   000118 3A          	puld				; Restore RegD
+  256  256   000119 840F        	anda	#$0F
+  257  257   00011B 48          	lsla
+  258  258   00011C 48          	lsla
+  259  259   00011D 48          	lsla
+  260  260   00011E 48          	lsla
+  261  261   00011F 8B03        	adda	#$03
+  262  262   000121 7A02 60     	staa	PTH
+  263  263   000124 8002        	suba	#$02		; Toggle E bit
+  264  264   000126 7A02 60     	staa	PTH
+  265  265   000129 3A          	puld
+  266  266   00012A CD00 3C     	ldy	#60
+  267  267   00012D 16xx xx     	jsr	Timer_wait
+  268  268   000130 3D          	rts
+  269  269                      
+  270  270                      ;-----------------------LCD_OutDec----------------------- 
+  271  271                      ; Output a 16-bit number in unsigned decimal format 
+  272  272                      ; Input: RegD (call by value) 16-bit unsigned number  
+  273  273                      ; Output: none 
+  274  274                      ; Registers modified: CCR 
+  275  275                      
+  276  276                      LCD_OutDec
+  277  277   000131 3B          	pshd
+  278  278   000132 34          	pshx
+  279  279   000133 CE00 0A     	ldx	#10
+  280  280   000136 1810        	idiv
+  281  281   000138 8E00 00     	cpx	#0
+  282  282   00013B 2707        	beq	Decdone
+  283  283   00013D B7C5        	exg	D,X
+  284  284   00013F 16xx xx     	jsr	LCD_OutDec
+  285  285   000142 B7D4        	exg	X,D
+  286  286                      Decdone
+  287  287   000144 C300 30     	addd	#$0030	; #'0'
+  288  288   000147 B790        	exg	B,A	
+  289  289   000149 16xx xx     	jsr	LCD_OutChar
+  290  290   00014C 30          	pulx
+  291  291   00014D 3A          	puld
+  292  292   00014E CD00 3C     	ldy	#60
+  293  293   000151 16xx xx     	jsr	Timer_wait
+  294  294   000154 3D          	rts
+  295  295                      
+  296  296                      ; -----------------------LCD_OutFix---------------------- 
+  297  297                      ; Output characters to LCD display in fixed-point format 
+  298  298                      ; unsigned decimal, resolution 0.01, range 0.00 to 9.99  
+  299  299                      ; Inputs:  RegD is an unsigned 16-bit number 
+  300  300                      ; Outputs: none 
+  301  301                      ; Registers modified: CCR 
+  302  302                      ; E.g., RegD=0,    then output "0.00 "  
+  303  303                      ;       RegD=3,    then output "0.03 "  
+  304  304                      ;       RegD=89,   then output "0.89 "  
+  305  305                      ;       RegD=123,  then output "1.23 "  
+  306  306                      ;       RegD=999,  then output "9.99 "  
+  307  307                      ;       RegD>999,  then output "*.** "
+  308  308                      
+  309  309                      LCD_OutFix
+  310  310   000155 8C03 E8     	cpd #1000
+  311  311   000158 2503        	blo good
+  312  312   00015A 3B          	pshd				; Display "*.**" if greater than 1000
+  313  313   00015B 3A          	puld
+  314  314   00015C 3D          	rts
+  315  315                      good
+
+Freescale HC12-Assembler 
+(c) Copyright Freescale 1987-2010
+
+ Abs. Rel.   Loc    Obj. code   Source line
+ ---- ----   ------ ---------   -----------
+  316  316   00015D 3B          	pshd
+  317  317   00015E 34          	pshx
+  318  318   00015F CE00 64     	ldx #100
+  319  319   000162 1810        	idiv
+  320  320   000164 B7D4        	exg X,D
+  321  321   000166 16xx xx     	jsr LCD_OutDec
+  322  322   000169 CC00 2E     	ldd #$002E		; Period
+  323  323   00016C B790        	exg	B,A
+  324  324   00016E 16xx xx     	jsr LCD_OutChar
+  325  325   000171 8E00 0A     	cpx #10
+  326  326   000174 2508        	blo extrao
+  327  327                      Fixcontinue
+  328  328   000176 B7C5        	exg D,X
+  329  329   000178 16xx xx     	jsr LCD_OutDec	
+  330  330   00017B 30          	pulx
+  331  331   00017C 3A          	puld
+  332  332   00017D 3D          	rts
+  333  333                      extrao
+  334  334   00017E 8630        	ldaa #'0'
+  335  335   000180 16xx xx     	jsr LCD_OutChar
+  336  336   000183 20F1        	bra Fixcontinue
+  337  337                      
+  338  338                      
+  339  339                      ;-----------------------LCD_GoTo----------------------- 
+  340  340                      ; Move cursor (set display address)  
+  341  341                      ; Input: RegD is display address is 0 to 7, or $40 to $47  
+  342  342                      ; Output: none 
+  343  343                      ; errors: it will check for legal address
+  344  344                      	
+  345  345                      LCD_GoTo
+  346  346   000185 3B          	pshd		; Save Registers
+  347  347   000186 34          	pshx
+  348  348   000187 35          	pshy	
+  349  349                      
+  350  350   000188 8C00 07     	cpd	#$07
+  351  351   00018B 220F        	bhi	ErrChcklo	; If greater than #$07, Check if less than $3F
+  352  352                      resume
+  353  353   00018D 8C00 49     	cpd	#$49
+  354  354   000190 2211        	bhi	ErrChckhi
+  355  355                      	
+  356  356   000192 87          	clra
+  357  357   000193 B710        	tfr	B,A		; Copy value into regA
+  358  358   000195 8B80        	adda	#$80
+  359  359   000197 16xx xx     	jsr	OutCsr
+  360  360   00019A 200C        	bra	returnErr	; restore Reg and return
+  361  361                      ErrChcklo
+  362  362   00019C 8C00 40     	cpd	#$40
+  363  363   00019F 2507        	blo	returnErr	; Between $08 and $3F, return error (nothing)
+  364  364   0001A1 20EA        	bra	resume
+  365  365                      ErrChckhi
+  366  366   0001A3 8C00 FF     	cpd	#$FF
+  367  367   0001A6 2300        	bls	returnErr	; Between $49 and $FF
+  368  368                      	
+  369  369                      returnErr
+  370  370   0001A8 31          	puly		; Restore Registers
+  371  371   0001A9 30          	pulx
+  372  372   0001AA 3A          	puld
+  373  373   0001AB CD00 3C     	ldy	#60
+  374  374   0001AE 16xx xx     	jsr	Timer_wait
+  375  375   0001B1 3D          	rts

@@ -1,0 +1,39 @@
+*** EVALUATION ***
+ANSI-C/cC++ Compiler for HC12 V-5.0.41 Build 10203, Jul 23 2010
+
+    1:  #include <hidef.h>      /* common defines and macros */
+    2:  #include "derivative.h"      /* derivative-specific definitions */
+    3:  #include "PLL.h"       
+    4:  #include "DAC.h" 
+    5:  
+    6:  unsigned char Data; // 0 to 15 DAC output 
+    7:  
+    8:  void main(void) {
+*** EVALUATION ***
+
+Function: main
+Source  : C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\Sources\main.c
+Options : -Cc -CPUHCS12 -D__ONLY_INIT_SP -D__NO_FLOAT__ -Env"GENPATH=C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7;C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\bin;C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\prm;C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\cmd;C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"OBJPATH=C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\bin" -Env"TEXTPATH=C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\bin" -Lasm=%n.lst -Ms -ObjN="C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\Lab7_Data\Standard\ObjectCode\main.c.o" -WmsgSd1106
+
+    9:  
+   10:    PLL_Init();   // Engaging PLL allows use to run 9S12 at 24MHz even in RUN mode
+  0000 160000       [4]     JSR   PLL_Init
+   11:    DAC_Init(); 
+  0003 160000       [4]     JSR   DAC_Init
+   12:    EnableInterrupts;
+  0006 10ef         [1]     CLI   
+   13:    Data = 0; 
+  0008 790000       [3]     CLR   Data
+   14:    for(;;) {
+   15:      DAC_Out(Data); 
+  000b f60000       [3]     LDAB  Data
+  000e 160000       [4]     JSR   DAC_Out
+   16:      Data = 0x0F&(Data+1);  
+  0011 f60000       [3]     LDAB  Data
+  0014 52           [1]     INCB  
+  0015 c40f         [1]     ANDB  #15
+  0017 7b0000       [3]     STAB  Data
+  001a 20ef         [3]     BRA   *-15 ;abs = 000b
+   17:    }
+   18:  }
+   19:  

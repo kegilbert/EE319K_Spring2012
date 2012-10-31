@@ -1,0 +1,75 @@
+*** EVALUATION ***
+ANSI-C/cC++ Compiler for HC12 V-5.0.41 Build 10203, Jul 23 2010
+
+    1:  #include "derivative.h"
+    2:  #include "sci1T.h"
+    3:  #include "ISR.h"
+    4:  #include <hidef.h>
+    5:  
+    6:   unsigned short ADC_In(unsigned short);
+    7:   unsigned short Counter;    // Keeps track of ADC samples taken
+    8:   unsigned char ADCMail;
+    9:   unsigned short ADCStatus;
+   10:  
+   11:  void OC0_Init(void){
+*** EVALUATION ***
+
+Function: OC0_Init
+Source  : \\psf\Home\Desktop\Lab9_TRUE\Sources\ISR.c
+Options : -Cc -CPUHCS12 -D_HCS12_SERIALMON -D__NO_FLOAT__ -Env"GENPATH=\\psf\Home\Desktop\Lab9_TRUE;\\psf\Home\Desktop\Lab9_TRUE\bin;\\psf\Home\Desktop\Lab9_TRUE\prm;\\psf\Home\Desktop\Lab9_TRUE\cmd;\\psf\Home\Desktop\Lab9_TRUE\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;\\psf\Home\Desktop\EE319K\Lab8(ACD)\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\Lab9_TRUE\bin -EnvTEXTPATH=\\psf\Home\Desktop\Lab9_TRUE\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\Lab9_TRUE\Lab8_Data\Standard\ObjectCode\ISR.c.o -WmsgSd1106
+
+   12:      TSCR1 = 0x80;
+  0000 cc0780       [2]     LDD   #1920
+  0003 5b00         [2]     STAB  _TSCR1
+   13:      TSCR2 = 0x07;  //PLL enabled, 24MHz, clockspeed = 5.33microseconds  
+  0005 5a00         [2]     STAA  _TSCR2
+   14:      TIOS |= 0x01;
+  0007 4c0001       [4]     BSET  _TIOS,#1
+   15:      TIE |= 0x01;  
+  000a 4c0001       [4]     BSET  _TIE,#1
+   16:      TFLG1 = 0x01;
+  000d c601         [1]     LDAB  #1
+  000f 5b00         [2]     STAB  _TFLG1
+   17:      TC0 = TCNT + 100;  // Begin first interrupt in 533 microseconds 
+  0011 de00         [3]     LDX   _TCNT
+  0013 1ae064       [2]     LEAX  100,X
+  0016 5e00         [2]     STX   _TC0
+   18:  }
+  0018 3d           [5]     RTS   
+   19:  
+   20:  interrupt 8 void OC0handler(void) { 
+*** EVALUATION ***
+
+Function: OC0handler
+Source  : \\psf\Home\Desktop\Lab9_TRUE\Sources\ISR.c
+Options : -Cc -CPUHCS12 -D_HCS12_SERIALMON -D__NO_FLOAT__ -Env"GENPATH=\\psf\Home\Desktop\Lab9_TRUE;\\psf\Home\Desktop\Lab9_TRUE\bin;\\psf\Home\Desktop\Lab9_TRUE\prm;\\psf\Home\Desktop\Lab9_TRUE\cmd;\\psf\Home\Desktop\Lab9_TRUE\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;\\psf\Home\Desktop\EE319K\Lab8(ACD)\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\Lab9_TRUE\bin -EnvTEXTPATH=\\psf\Home\Desktop\Lab9_TRUE\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\Lab9_TRUE\Lab8_Data\Standard\ObjectCode\ISR.c.o -WmsgSd1106
+
+   21:     TFLG1 |= 0x01;
+  0000 4c0001       [4]     BSET  _TFLG1,#1
+   22:     TC0 = TC0 + 37525;    // Set next interrupt (5Hz) 37525
+  0003 dc00         [3]     LDD   _TC0
+  0005 c39295       [2]     ADDD  #37525
+  0008 5c00         [2]     STD   _TC0
+   23:     PTP ^= 0x80;         // Heartbeat
+  000a f60000       [3]     LDAB  _PTP
+  000d c880         [1]     EORB  #128
+  000f 7b0000       [3]     STAB  _PTP
+   24:     ADCMail = ADC_In(2);
+  0012 c602         [1]     LDAB  #2
+  0014 87           [1]     CLRA  
+  0015 160000       [4]     JSR   ADC_In
+  0018 7b0000       [3]     STAB  ADCMail
+   25:     ADCStatus = 0x80;
+  001b c680         [1]     LDAB  #128
+  001d 87           [1]     CLRA  
+  001e 7c0000       [3]     STD   ADCStatus
+   26:     sci1_OutChar(ADC_In(2));
+  0021 c602         [1]     LDAB  #2
+  0023 160000       [4]     JSR   ADC_In
+  0026 160000       [4]     JSR   sci1_OutChar
+   27:     Counter++;   
+  0029 fe0000       [3]     LDX   Counter
+  002c 08           [1]     INX   
+  002d 7e0000       [3]     STX   Counter
+   28:  }  
+  0030 0b           [8]     RTI   

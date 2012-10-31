@@ -1,0 +1,37 @@
+
+Freescale HC12-Assembler 
+(c) Copyright Freescale 1987-2010
+
+ Abs. Rel.   Loc    Obj. code   Source line
+ ---- ----   ------ ---------   -----------
+    1    1                      ; filename ******** pll.asm ************** 
+    2    2                      ;    Jonathan W. Valvano 8/3/09
+    3    3                       
+    4    4                      
+    5    5                      ;***********PLL routines*********************
+    6    6          0000 0034   SYNR     equ $0034  ; CRG Synthesizer Register
+    7    7          0000 0035   REFDV    equ $0035  ; CRG Reference Divider Register
+    8    8          0000 0037   CRGFLG   equ $0037  ; CRG Flags Register
+    9    9          0000 0039   CLKSEL   equ $0039  ; CRG Clock Select Register
+   10   10          0000 003A   PLLCTL   equ $003A  ; CRG PLL Control Register
+   11   11                      
+   12   12                         absentry PLL_Init
+   13   13                      ;********* PLL_Init ****************
+   14   14                      ; Active PLL so the 9S12 runs at 24 MHz
+   15   15                      ; Inputs: none
+   16   16                      ; Outputs: none
+   17   17                      ; Errors: will hang if PLL does not stabilize 
+   18   18                      ; WARNING: you can not single step PLL_Init in Metrowerks
+   19   19                      PLL_Init  
+   20   20   000000 180B 0200         movb #$02,SYNR       ; 9S12C32 OSCCLK is 8 MHz, 9S12DP512 OSCCLK is 16 MHz
+             000004 34         
+   21   21   000005 180B 0100         movb #1,REFDV        ; (REFDV=0 if 9S12C32 with 8 MHz crystal)
+             000009 35         
+   22   22   00000A 180B 0000         movb #0,CLKSEL       ; PLLCLK = 2 * OSCCLK * (SYNR + 1) / (REFDV + 1)
+             00000E 39         
+   23   23   00000F 180B D100         movb #$D1,PLLCTL     ; Clock monitor, PLL On, high bandwidth filter 
+             000013 3A         
+   24   24   000014 4F37 08FC         brclr CRGFLG,#$08,*  ; wait for PLLCLK to stabilize.
+   25   25   000018 4C39 80           bset CLKSEL,#$80     ; Switch to PLL clock
+   26   26   00001B 3D                rts
+   27   27                            

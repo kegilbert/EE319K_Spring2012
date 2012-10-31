@@ -1,0 +1,3724 @@
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File H0.sx loads 2009 bytes
+File J0.sx loads 2009 bytes
+File K0.sx loads 1515 bytes
+File S0.sx loads 1095 bytes
+File T0.sx loads 1187 bytes
+File U0.sx loads 1187 bytes
+File V0.sx loads 878 bytes
+File H1.sx loads 2009 bytes
+File J1.sx loads 2009 bytes
+File K1.sx loads 1515 bytes
+File S1.sx loads 1095 bytes
+File T1.sx loads 1187 bytes
+File U1.sx loads 1187 bytes
+File V1.sx loads 878 bytes
+File H2.sx loads 2009 bytes
+File J2.sx loads 2009 bytes
+File K2.sx loads 1515 bytes
+File S2.sx loads 1095 bytes
+File T2.sx loads 1187 bytes
+File U2.sx loads 1187 bytes
+File V2.sx loads 878 bytes
+File H3.sx loads 2009 bytes
+File J3.sx loads 2009 bytes
+File K3.sx loads 1515 bytes
+File S3.sx loads 1095 bytes
+File T3.sx loads 1187 bytes
+File U3.sx loads 1187 bytes
+File V3.sx loads 878 bytes
+Tank H2 captures a lifepack 
+Tank T2 crashes into tank S1
+Tank S1 crashes into tank T2
+Tank S0 hits tank V3
+Tank T3 hits tank H1
+Tank T1 hits tank H2
+Tank V3 hits tank S0
+Tank U3 hits tank U0
+Tank V1 hits tank K2
+Tank U0 hits tank U3
+Tank U2 hits tank U1
+Tank J0 hits tank S1
+Tank H1 hits tank T3
+Tank J1 hits tank H3
+Tank H2 hits tank S0
+Tank J2 hits tank T3
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File H0.sx loads 2009 bytes
+File J0.sx loads 2009 bytes
+File K0.sx loads 1515 bytes
+File S0.sx loads 1095 bytes
+File T0.sx loads 1187 bytes
+File U0.sx loads 1187 bytes
+File V0.sx loads 878 bytes
+File H1.sx loads 2009 bytes
+File J1.sx loads 2009 bytes
+File K1.sx loads 1515 bytes
+File S1.sx loads 1095 bytes
+File T1.sx loads 1187 bytes
+File U1.sx loads 1187 bytes
+File V1.sx loads 878 bytes
+File H2.sx loads 2009 bytes
+File J2.sx loads 2009 bytes
+File K2.sx loads 1515 bytes
+File S2.sx loads 1095 bytes
+File T2.sx loads 1187 bytes
+File U2.sx loads 1187 bytes
+File V2.sx loads 878 bytes
+File G3.sx loads 523 bytes
+File H3.sx loads 2009 bytes
+File J3.sx loads 2009 bytes
+File K3.sx loads 1515 bytes
+File S3.sx loads 1095 bytes
+File T3.sx loads 1187 bytes
+File U3.sx loads 1187 bytes
+File V3.sx loads 878 bytes
+Tank K3 bug= 25, PC= C595 
+Tank K3 bug= 25, PC= C443 
+Tank S2 hits tank K2
+Tank T0 hits tank T3
+Tank S3 hits tank V0
+Tank S0 hits tank T2
+Tank U1 hits tank T3
+Tank U2 hits tank H0
+Tank V0 hits tank V1
+Tank V2 hits tank T2
+Tank V1 hits tank J1
+Tank T3 hits tank T0
+Tank V3 hits tank K2
+Tank T1 hits tank U1
+Tank U0 hits tank H3
+Tank S2 captures a lifepack 
+Tank H0 hits tank K3
+Tank H3 hits tank U0
+Tank U3 captures a lifepack 
+Tank T2 hits tank V2
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+Tank S0 hits tank V2
+Tank U1 hits tank T3
+Tank V3 hits tank K2
+Tank T3 hits tank T0
+Tank V0 hits tank V1
+Tank V2 hits tank H2
+Tank U0 hits tank H3
+Tank H3 hits tank K1
+Tank H2 hits tank J1
+Tank J2 hits tank V0
+Tank S0 crashes into tank V1
+Tank J2 crashes into tank S2
+Tank J0 crashes into tank T1
+Tank S0 hits tank V1
+Tank S1 hits tank K2
+Tank T0 hits tank T3
+Tank T1 hits tank T3
+Tank K0 hits tank K3
+Tank H2 crashes into tank V1
+Tank V1 crashes into tank H2
+Tank U0 hits tank H3
+Tank J0 hits tank T1
+Tank H2 hits tank V1
+Tank H3 hits tank U0
+Tank J1 hits tank S0
+Tank J3 hits tank H1
+Tank T2 hits tank U3
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File H0.sx loads 2009 bytes
+File J0.sx loads 2009 bytes
+File K0.sx loads 1515 bytes
+File S0.sx loads 1095 bytes
+File T0.sx loads 1187 bytes
+File U0.sx loads 1187 bytes
+File V0.sx loads 878 bytes
+File H1.sx loads 2009 bytes
+File J1.sx loads 2009 bytes
+File K1.sx loads 1515 bytes
+File S1.sx loads 1095 bytes
+File T1.sx loads 1187 bytes
+File U1.sx loads 1187 bytes
+File V1.sx loads 878 bytes
+File H2.sx loads 2009 bytes
+File J2.sx loads 2009 bytes
+File K2.sx loads 1515 bytes
+File S2.sx loads 1095 bytes
+File T2.sx loads 1187 bytes
+File U2.sx loads 1187 bytes
+File V2.sx loads 878 bytes
+File G3.sx loads 651 bytes
+File H3.sx loads 2009 bytes
+File J3.sx loads 2009 bytes
+File K3.sx loads 1515 bytes
+File S3.sx loads 1095 bytes
+File T3.sx loads 1187 bytes
+File U3.sx loads 1187 bytes
+File V3.sx loads 878 bytes
+Tank S1 hits tank S3
+Tank S3 hits tank U3
+Tank S0 hits tank K1
+Tank U3 hits tank S3
+Tank T2 hits tank V3
+Tank V1 hits tank G3
+Tank G3 bug= 25, PC= C163 
+Tank V3 hits tank T0
+Tank U1 hits tank V3
+Tank H3 hits tank V2
+Tank J1 hits tank J0
+Tank H2 hits tank U1
+Tank T0 hits tank V3
+Tank H3 crashes into tank V2
+Tank J3 crashes into tank K3
+Tank S0 hits tank K3
+Tank S3 hits tank T1
+Tank U3 hits tank S3
+Tank T1 hits tank U3
+Tank U0 hits tank H1
+Tank U1 hits tank V3
+Tank U2 hits tank U3
+Tank J3 hits tank K3
+Tank H0 hits tank H3
+Tank H2 hits tank U1
+Tank H1 hits tank G3
+Tank J1 hits tank J0
+Tank J2 hits tank S1
+Tank K2 hits tank T3
+Tank J3 captures a lifepack 
+Tank T0 hits tank V3
+Tank K1 captures a lifepack 
+Tank J3 crashes into tank K1
+Tank J3 crashes into tank K1
+Tank J3 crashes into tank K1
+Tank K1 crashes into tank J3
+Tank S0 hits tank J3
+Tank T2 hits tank J1
+Tank V0 hits tank K3
+Tank U0 hits tank V2
+Tank V3 hits tank U1
+Tank V1 hits tank T0
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank T1 hits tank U3
+Tank U1 hits tank V3
+Tank G3 runs into the wall
+Tank K3 hits tank K1
+Tank J3 hits tank K1
+Tank J1 hits tank T2
+Tank J0 hits tank V3
+Tank H1 hits tank G3
+Tank J2 hits tank S1
+Tank T1 crashes into tank T3
+Tank T3 crashes into tank T1
+Tank T0 hits tank V3
+Tank K3 captures a lifepack 
+Tank S0 hits tank K3
+Tank H3 crashes into tank T0
+Tank T0 crashes into tank H3
+Tank S1 hits tank J2
+Tank T2 hits tank J1
+Tank V1 hits tank U1
+Tank T1 hits tank T3
+Tank V3 hits tank U1
+Tank V2 bug= 43, PC= C20D 
+Tank U1 hits tank V3
+Tank K3 hits tank K1
+Tank U2 hits tank U3
+Tank J3 hits tank S0
+Tank H0 hits tank H1
+Tank J0 hits tank V3
+Tank J2 hits tank K0
+Tank K2 hits tank T3
+Tank T0 hits tank H3
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File H0.sx loads 2009 bytes
+File J0.sx loads 2009 bytes
+File K0.sx loads 1515 bytes
+File S0.sx loads 1095 bytes
+File T0.sx loads 1187 bytes
+File U0.sx loads 1187 bytes
+File V0.sx loads 878 bytes
+File H1.sx loads 2009 bytes
+File J1.sx loads 2009 bytes
+File K1.sx loads 1515 bytes
+File S1.sx loads 1095 bytes
+File T1.sx loads 1187 bytes
+File U1.sx loads 1187 bytes
+File V1.sx loads 878 bytes
+File H2.sx loads 2009 bytes
+File J2.sx loads 2009 bytes
+File K2.sx loads 1515 bytes
+File S2.sx loads 1095 bytes
+File T2.sx loads 1187 bytes
+File U2.sx loads 1187 bytes
+File V2.sx loads 878 bytes
+File G3.sx loads 651 bytes
+File H3.sx loads 2009 bytes
+File J3.sx loads 2009 bytes
+File K3.sx loads 1515 bytes
+File S3.sx loads 1095 bytes
+File T3.sx loads 1187 bytes
+File U3.sx loads 1187 bytes
+File V3.sx loads 878 bytes
+Camera = manual
+Tank S0 hits tank K3
+Tank U2 hits tank U0
+Tank T1 hits tank T2
+Tank V1 hits tank U3
+Tank J1 captures a lifepack 
+Tank U1 hits tank V2
+Tank T0 hits tank K1
+Tank U0 hits tank U2
+Tank H2 hits tank H3
+Tank J0 hits tank G3
+Tank G3 bug= 25, PC= C163 
+Tank T2 hits tank T1
+Tank J3 hits tank K0
+Tank J2 hits tank S0
+Tank V3 captures a lifepack 
+Tank K1 crashes into tank H2
+Tank V2 crashes into tank U1
+Tank U1 crashes into tank V2
+Tank V2 hits tank J1
+Tank T1 hits tank T2
+Tank T3 hits tank H1
+Tank U2 hits tank U0
+Tank U1 hits tank V2
+Tank T0 hits tank U3
+Tank V1 hits tank H2
+Tank U0 hits tank H0
+Tank H3 hits tank K1
+Tank H1 hits tank V0
+Tank H3 crashes into tank K1
+Tank H0 hits tank S3
+Tank H2 hits tank K1
+Tank J0 hits tank S0
+Tank J3 hits tank K0
+Tank U3 hits tank T0
+Tank K2 hits tank U1
+Tank S3 captures a lifepack 
+Tank V2 hits tank T3
+Tank U1 hits tank T3
+Tank T3 hits tank H1
+Tank T0 hits tank U3
+Tank V0 hits tank H3
+Tank H0 hits tank S2
+Tank U3 crashes into tank K1
+Tank H1 hits tank K1
+Tank H3 hits tank U3
+Tank K0 hits tank V1
+Tank J0 hits tank J2
+Tank U3 hits tank V0
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank K2 hits tank U1
+Tank T1 hits tank V2
+Tank S2 hits tank U0
+Tank T0 hits tank S0
+Tank K2 bug= 25, PC= C443 
+Tank S0 hits tank V3
+Tank U2 hits tank S2
+Tank U1 hits tank T3
+Tank U0 hits tank S2
+Tank H1 hits tank K1
+Tank H2 hits tank J1
+Tank K0 hits tank V1
+Tank J1 hits tank H2
+Tank J2 hits tank J3
+Tank J0 hits tank J2
+Tank H3 hits tank U3
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File H0.sx loads 2009 bytes
+File J0.sx loads 2009 bytes
+File K0.sx loads 1515 bytes
+File S0.sx loads 1095 bytes
+File T0.sx loads 1187 bytes
+File U0.sx loads 1187 bytes
+File V0.sx loads 878 bytes
+File H1.sx loads 2009 bytes
+File J1.sx loads 2009 bytes
+File K1.sx loads 1515 bytes
+File S1.sx loads 1095 bytes
+File T1.sx loads 1187 bytes
+File U1.sx loads 1187 bytes
+File V1.sx loads 878 bytes
+File H2.sx loads 2009 bytes
+File J2.sx loads 2009 bytes
+File K2.sx loads 1515 bytes
+File S2.sx loads 1095 bytes
+File T2.sx loads 1187 bytes
+File U2.sx loads 1187 bytes
+File V2.sx loads 878 bytes
+File G3.sx loads 566 bytes
+File H3.sx loads 2009 bytes
+File J3.sx loads 2009 bytes
+File K3.sx loads 1515 bytes
+File S3.sx loads 1095 bytes
+File T3.sx loads 1187 bytes
+File U3.sx loads 1187 bytes
+File V3.sx loads 878 bytes
+Camera = manual
+Camera = panoramic spin
+Tank H0 crashes into tank J3
+Tank U2 crashes into tank U0
+Camera = 1st person
+Camera = orbit player
+Tank U2 hits tank U0
+Tank T3 hits tank J1
+Camera = manual
+Tank U0 hits tank V2
+Tank V0 hits tank H0
+Tank T1 hits tank U0
+Tank U1 hits tank K1
+Tank T2 hits tank K3
+Tank T0 hits tank V3
+Tank V2 hits tank U0
+Tank H3 hits tank V1
+Tank H0 is now the player
+Tank J0 is now the player
+Tank K0 is now the player
+Tank S0 is now the player
+Tank T0 is now the player
+Tank U0 is now the player
+Tank V0 is now the player
+Tank H1 is now the player
+Tank J1 is now the player
+Tank K1 is now the player
+Tank S1 is now the player
+Tank T1 is now the player
+Tank U1 is now the player
+Tank V1 is now the player
+Tank H2 is now the player
+Tank J2 is now the player
+Tank K2 is now the player
+Tank S2 is now the player
+Tank T2 is now the player
+Tank U2 is now the player
+Tank V2 is now the player
+Tank G3 is now the player
+Tank H3 is now the player
+Tank J3 is now the player
+Tank K3 is now the player
+Tank S3 is now the player
+Tank T3 is now the player
+Tank U3 is now the player
+This run aborted by F11
+Game over, time exceeded
+Tank T0 has the highest score
+Battle = 16  Time = 0
+   	X   	Y   	Dir 	Tur 	Hlt 	3800 	3802 	3804 	3806 	Score
+T0 	363 	21E 	0DE 	01C 	3FF 	0000 	0000 	0000 	0000 	119
+V0 	360 	32D 	244 	39C 	3FF 	0000 	0000 	0000 	0000 	119
+T1 	36C 	101 	2DE 	38E 	3FF 	0000 	0000 	0000 	0000 	119
+U1 	08D 	2C7 	1AB 	3C7 	3FF 	0000 	0000 	0000 	0000 	119
+T2 	0B2 	160 	389 	2B9 	3FF 	0000 	0000 	0000 	0000 	119
+H3 	11B 	0E7 	189 	2AB 	3FF 	0000 	0000 	0000 	0000 	119
+T3 	2A4 	26B 	233 	29C 	3FF 	0000 	0000 	0000 	0000 	119
+U2 	303 	0AA 	2DE 	18E 	3CC 	0000 	0000 	0000 	0000 	114
+V2 	289 	104 	2CD 	100 	3CC 	0000 	0000 	0000 	0000 	114
+U0 	32D 	0D0 	3AB 	21C 	366 	0000 	0000 	0000 	0000 	104
+K0 	174 	2DE 	100 	000 	3FF 	0000 	0000 	0000 	0000 	100
+K2 	141 	3AE 	100 	000 	3FF 	0000 	0000 	0000 	0000 	100
+G3 	23E 	340 	111 	200 	3FF 	03E8 	0200 	0101 	AE00 	100
+U3 	053 	3B2 	2CD 	00E 	3FF 	0000 	0000 	0000 	0000 	100
+J0 	179 	1C8 	333 	01C 	3FF 	0000 	0000 	0000 	0000 	99
+S0 	036 	221 	280 	11C 	3FF 	0000 	0000 	0000 	0000 	99
+H1 	1D1 	24B 	1DE 	11C 	3FF 	0000 	0000 	0000 	0000 	99
+S1 	1AE 	17A 	0AB 	11C 	3FF 	0003 	0002 	011C 	0025 	99
+H2 	0DC 	1E7 	100 	1C7 	3FF 	0000 	0000 	0000 	0000 	99
+J2 	05E 	068 	122 	000 	3FF 	0000 	0000 	0000 	0000 	99
+S2 	204 	03D 	3DE 	18E 	3FF 	0000 	0000 	0000 	0000 	99
+J3 	327 	38D 	3EF 	21C 	3FF 	0000 	0000 	0000 	0000 	99
+S3 	399 	342 	177 	08E 	3FF 	0002 	0002 	008E 	0029 	99
+K1 	039 	331 	0F7 	000 	3CC 	00EA 	0101 	0000 	0000 	95
+K3 	038 	12E 	0F7 	000 	3CC 	00EA 	0101 	0000 	0000 	95
+V3 	361 	2BD 	19A 	372 	3CC 	0000 	0000 	0000 	0000 	95
+J1 	2D4 	306 	1CD 	01C 	3CC 	0000 	0000 	0000 	0000 	94
+V1 	150 	0F9 	066 	1F2 	3CC 	0000 	0000 	0000 	0000 	94
+H0 	2B8 	352 	233 	11C 	399 	0000 	0000 	0000 	0000 	89
+Tank S0 captures a lifepack 
+Tank V3 is now the player
+Tank H0 is now the player
+Tank J0 is now the player
+Tank K0 is now the player
+Tank S0 is now the player
+Tank T0 is now the player
+Tank U0 is now the player
+Tank V0 is now the player
+Tank H1 is now the player
+Tank J1 is now the player
+Tank K1 is now the player
+Tank S1 is now the player
+Tank T1 is now the player
+Tank U1 is now the player
+Tank V1 is now the player
+Tank H2 is now the player
+Tank J2 is now the player
+Tank K2 is now the player
+Tank S2 is now the player
+Tank T2 is now the player
+Tank U2 is now the player
+Tank V2 is now the player
+Tank G3 is now the player
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+Camera = manual
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+Camera = manual
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+Tank J2 crashes into tank J0
+Tank T1 hits tank V1
+Tank T3 hits tank U0
+Tank U0 hits tank T3
+Tank U1 hits tank V0
+Tank T2 hits tank V2
+Tank V1 hits tank T1
+Tank T0 hits tank H1
+Tank U0 crashes into tank V3
+Tank V3 crashes into tank U0
+Tank J1 hits tank H0
+Tank J2 hits tank J0
+Tank J1 captures a lifepack 
+Tank H0 captures a lifepack 
+Tank J1 crashes into tank H0
+Tank H0 crashes into tank J1
+Tank V2 bug= 43, PC= C20D 
+Tank S3 hits tank J0
+Tank J2 crashes into tank U0
+Tank T3 hits tank U0
+Tank T1 hits tank V1
+Tank U0 hits tank V3
+Tank U2 hits tank T2
+Tank U1 hits tank V0
+Tank J2 hits tank U0
+Tank V3 hits tank T2
+Tank J0 hits tank S3
+Tank T0 hits tank S2
+Tank H1 hits tank S2
+Tank J1 hits tank H0
+Tank H3 hits tank S1
+Tank K1 captures a lifepack 
+Tank U3 hits tank V2
+Tank K0 hits tank K3
+Tank S1 hits tank H3
+Tank U2 hits tank V3
+Tank S3 crashes into tank J2
+Tank J2 crashes into tank S3
+Tank T3 hits tank U0
+Tank U0 hits tank J2
+Tank U1 hits tank T0
+Tank T2 hits tank V3
+Tank H3 hits tank U2
+Tank J2 hits tank S3
+Tank H0 hits tank H2
+Tank J0 hits tank T2
+Tank H1 hits tank J3
+Tank K3 bug= 43, PC= C443 
+Tank U3 hits tank V2
+Tank K0 hits tank K3
+Tank S1 hits tank V1
+Tank T3 hits tank U0
+Tank S3 hits tank T2
+Tank U1 hits tank T0
+Tank U2 hits tank V3
+Tank U0 hits tank T2
+Tank T2 hits tank S3
+Tank T0 hits tank U1
+Tank V1 hits tank S1
+Tank H1 hits tank J3
+Tank J2 hits tank J0
+Tank U1 captures a lifepack 
+Tank K0 hits tank K3
+Tank T1 hits tank K2
+Tank S3 hits tank V3
+Tank U1 hits tank T0
+Tank T3 hits tank U0
+Tank U0 hits tank T2
+Tank U2 hits tank H3
+Tank T2 hits tank U0
+Tank U2 crashes into tank J1
+Tank T0 hits tank U1
+Tank S3 captures a lifepack 
+Tank T0 captures a lifepack 
+Tank V1 hits tank J1
+Tank J1 hits tank U2
+Tank H1 hits tank T3
+Tank J0 hits tank T2
+Tank H3 hits tank V3
+Tank V2 bug= 43, PC= C20D 
+Tank U3 hits tank V2
+Tank S2 hits tank V1
+Tank U2 hits tank S3
+Tank U1 hits tank T0
+Tank T1 hits tank K2
+Tank J0 crashes into tank T2
+Tank T3 hits tank U0
+Tank U0 hits tank J2
+Tank T2 hits tank U0
+Tank T0 hits tank U1
+Tank V1 hits tank S2
+Tank V0 hits tank S3
+Tank H1 crashes into tank U0
+Tank H0 hits tank H3
+Tank U0 crashes into tank H1
+Tank J2 hits tank T2
+Tank H3 hits tank H0
+Tank H0 crashes into tank H3
+Tank J0 hits tank T2
+Tank H3 crashes into tank H0
+Tank K1 hits tank T3
+Tank U0 captures a lifepack 
+Tank K0 hits tank K3
+Tank T3 crashes into tank K1
+Tank U0 hits tank H1
+Tank T3 hits tank K1
+Tank U1 hits tank T0
+Tank V0 crashes into tank H3
+Tank T2 hits tank H1
+Tank U2 hits tank S3
+Tank V0 hits tank H3
+Tank J2 hits tank T2
+Tank V1 hits tank S2
+Tank H3 hits tank S3
+Tank H2 hits tank K2
+Tank K1 hits tank J3
+Tank U2 captures a lifepack 
+Tank J2 crashes into tank K1
+Tank K1 crashes into tank J2
+Tank H1 crashes into tank T3
+Tank T3 crashes into tank H1
+Tank T3 crashes into tank T2
+Tank T2 crashes into tank T3
+Tank K0 hits tank K3
+Tank S3 hits tank H0
+Tank U2 hits tank S0
+Tank T3 hits tank H1
+Tank T1 hits tank V0
+Tank U1 hits tank J1
+Tank T2 hits tank J2
+Tank T0 hits tank J1
+Tank J3 hits tank K1
+Tank H1 hits tank T3
+Tank J3 crashes into tank K1
+Tank V3 bug= 43, PC= C20D 
+Tank K1 crashes into tank J3
+Tank J3 crashes into tank K1
+Tank U3 hits tank V3
+Tank J3 crashes into tank K1
+Tank K0 hits tank K3
+Tank S0 hits tank V0
+Tank S1 hits tank T0
+Tank T1 hits tank V0
+Tank U0 hits tank T2
+Tank U2 hits tank V0
+Tank T3 hits tank U0
+Tank U1 hits tank J1
+Tank T2 hits tank K1
+Tank K1 crashes into tank J3
+Tank J3 crashes into tank K1
+Tank V0 hits tank S0
+Tank J3 hits tank K1
+Tank H0 hits tank V0
+Tank T0 hits tank J1
+Tank H3 hits tank U3
+Tank U0 crashes into tank H1
+Tank J1 hits tank S1
+Tank H2 hits tank U1
+Tank J3 crashes into tank K1
+Tank K2 crashes into tank H2
+Tank H2 crashes into tank K2
+Tank J3 crashes into tank K1
+Tank K1 crashes into tank J3
+Tank U2 hits tank J0
+Tank S0 hits tank V0
+Tank T2 hits tank V1
+Tank U1 hits tank J1
+Tank H2 crashes into tank K2
+Tank K2 crashes into tank H2
+Tank J0 hits tank U2
+Tank T0 hits tank G3
+Tank V0 hits tank S0
+Tank K1 crashes into tank J3
+Tank J1 hits tank U1
+Tank H0 hits tank S0
+Tank H1 hits tank K1
+Tank U3 hits tank H3
+Tank U2 hits tank J0
+Tank H1 crashes into tank V1
+Tank V1 crashes into tank H1
+Tank U1 hits tank J1
+Tank U0 hits tank V1
+Tank H2 crashes into tank K2
+Tank K2 crashes into tank H2
+Tank T1 hits tank H0
+Tank V2 crashes into tank T1
+Tank T0 hits tank G3
+Tank T1 crashes into tank V2
+Tank H2 hits tank K2
+Tank J3 hits tank K1
+Tank H1 hits tank V1
+Tank K2 hits tank U3
+Tank J3 crashes into tank K1
+Tank K1 crashes into tank J3
+Tank J1 hits tank U1
+Tank H0 hits tank V0
+Tank J2 hits tank S0
+Tank H2 crashes into tank K2
+Tank K2 crashes into tank H2
+Tank V2 captures a lifepack 
+Tank K1 runs into the wall
+Tank K1 runs into the wall
+Tank K1 runs into the wall
+Tank K1 runs into the wall
+Tank K1 runs into the wall
+Tank K1 runs into the wall
+Tank K1 runs into the wall
+Tank V1 captures a lifepack 
+Tank K1 runs into the wall
+Tank K1 runs into the wall
+Tank K1 watches from the side
+Tank U3 hits tank K2
+Tank H1 captures a lifepack 
+Tank S3 hits tank V0
+Tank V1 bug= 43, PC= C20D 
+Tank S0 hits tank S2
+Tank T1 hits tank V2
+Tank U1 hits tank J1
+Tank U2 hits tank K0
+Tank U0 hits tank T3
+Tank H1 crashes into tank V1
+Tank V3 hits tank V2
+Tank J1 hits tank H2
+Tank H3 hits tank S1
+Tank H0 hits tank J2
+Tank J0 hits tank V3
+Tank H2 crashes into tank U1
+Tank U1 crashes into tank H2
+Tank U0 crashes into tank S3
+Tank S3 crashes into tank U0
+Tank K3 hits tank T3
+Tank U3 hits tank K2
+Tank H2 crashes into tank J1
+Tank J1 crashes into tank H2
+Tank S1 hits tank U3
+Tank S0 hits tank T0
+Tank U1 crashes into tank H2
+Tank S3 hits tank U0
+Tank T1 hits tank V3
+Tank U0 hits tank S3
+Tank U2 hits tank T2
+Tank J1 hits tank H2
+Tank T0 hits tank G3
+Tank V1 hits tank T3
+Tank H2 hits tank U1
+Tank V3 hits tank V2
+Tank J1 crashes into tank H2
+Tank H0 hits tank V0
+Tank H1 hits tank V0
+Tank K3 hits tank V1
+Tank V0 crashes into tank U0
+Tank U0 crashes into tank V0
+Tank U1 crashes into tank H2
+Tank U3 hits tank K2
+Tank H2 crashes into tank J1
+Tank U2 hits tank T2
+Tank T3 hits tank K3
+Tank S1 hits tank U3
+Tank T2 hits tank U2
+Tank T1 hits tank V3
+Tank V2 hits tank U0
+Tank K3 captures a lifepack 
+Tank V0 hits tank U0
+Tank V3 hits tank S1
+Tank J1 hits tank U1
+Tank H2 hits tank U1
+Tank T0 hits tank G3
+Tank H3 hits tank S1
+Tank K0 crashes into tank T3
+Tank J1 crashes into tank H2
+Tank H2 crashes into tank J1
+Tank U0 crashes into tank H1
+Tank H1 crashes into tank U0
+Tank U3 hits tank K2
+Tank S3 hits tank U2
+Tank U2 hits tank T2
+Tank U1 hits tank J1
+Tank U0 hits tank H1
+Tank T2 hits tank U2
+Tank T3 hits tank K3
+Tank V2 hits tank V1
+Tank V1 hits tank V2
+Tank H2 hits tank U1
+Tank H3 hits tank S3
+Tank T0 hits tank G3
+Tank H1 hits tank U0
+Tank H3 crashes into tank S3
+Tank S3 crashes into tank H3
+Tank U1 hits tank J1
+Tank T3 hits tank K3
+Tank T2 hits tank U2
+Tank V2 crashes into tank U0
+Tank T0 hits tank G3
+Tank U0 crashes into tank V2
+Tank U3 hits tank U2
+Tank S1 hits tank S2
+Tank S2 hits tank S1
+Tank T1 hits tank J2
+Tank V2 hits tank U0
+Tank T3 hits tank K3
+Tank J0 hits tank H2
+Tank H3 hits tank S2
+Tank H1 hits tank V0
+Tank H0 hits tank V3
+Tank V0 hits tank T3
+Tank U2 crashes into tank U3
+Tank U3 crashes into tank U2
+Tank U3 hits tank U2
+Tank U2 hits tank U3
+Tank T2 hits tank K0
+Tank T1 hits tank J2
+Tank T3 hits tank K3
+Tank U1 hits tank J2
+Tank U0 hits tank K3
+Tank V2 bug= 43, PC= C20D 
+Tank K0 crashes into tank T2
+Tank T2 crashes into tank K0
+Tank T0 hits tank G3
+Tank K3 hits tank T3
+Tank J3 hits tank T3
+Tank H1 hits tank V0
+Tank U3 hits tank U2
+Tank T3 crashes into tank J3
+Tank J3 crashes into tank T3
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File H0.sx loads 2009 bytes
+File J0.sx loads 2009 bytes
+File K0.sx loads 1515 bytes
+File S0.sx loads 1095 bytes
+File T0.sx loads 1187 bytes
+File U0.sx loads 1187 bytes
+File V0.sx loads 878 bytes
+File H1.sx loads 2009 bytes
+File J1.sx loads 2009 bytes
+File K1.sx loads 1515 bytes
+File S1.sx loads 1095 bytes
+File T1.sx loads 1187 bytes
+File U1.sx loads 1187 bytes
+File V1.sx loads 878 bytes
+File H2.sx loads 2009 bytes
+File J2.sx loads 2009 bytes
+File K2.sx loads 1515 bytes
+File S2.sx loads 1095 bytes
+File T2.sx loads 1187 bytes
+File U2.sx loads 1187 bytes
+File V2.sx loads 878 bytes
+File G3.sx loads 651 bytes
+File H3.sx loads 2009 bytes
+File J3.sx loads 2009 bytes
+File K3.sx loads 1515 bytes
+File S3.sx loads 1095 bytes
+File T3.sx loads 1187 bytes
+File U3.sx loads 1187 bytes
+File V3.sx loads 878 bytes
+Tank H0 is now the player
+Tank J0 is now the player
+Tank K0 is now the player
+Tank S0 is now the player
+Tank T0 is now the player
+Tank U0 is now the player
+Tank V0 is now the player
+Tank H1 is now the player
+Tank J1 is now the player
+Tank K1 is now the player
+Tank S1 is now the player
+Tank T1 is now the player
+Tank U1 is now the player
+Tank V1 is now the player
+Tank H2 is now the player
+Tank J2 is now the player
+Tank K2 is now the player
+Tank S2 is now the player
+Tank T2 is now the player
+Tank U2 is now the player
+Tank V2 is now the player
+Tank G3 is now the player
+Camera = manual
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+Tank V2 bug= 43, PC= C20D 
+Tank V0 bug= 43, PC= C20D 
+Tank H2 captures a lifepack 
+Tank S2 hits tank H0
+Tank S3 hits tank H0
+Tank V3 hits tank U0
+Tank T3 hits tank H2
+Tank V1 hits tank T3
+Tank T0 hits tank J1
+Tank U0 hits tank V3
+Tank U1 hits tank K0
+Tank U3 hits tank U0
+Tank T2 hits tank J3
+Tank T1 hits tank V3
+Tank H0 hits tank S1
+Tank J1 hits tank T0
+Tank J0 captures a lifepack 
+Tank J2 hits tank V0
+Tank V1 bug= 43, PC= C20D 
+Tank U2 hits tank T3
+Tank T3 hits tank U2
+Tank S1 hits tank H0
+Tank S2 hits tank S3
+Tank V3 bug= 43, PC= C20D 
+Tank U3 hits tank V3
+Tank U0 hits tank V3
+Tank T2 hits tank J3
+Tank T1 hits tank G3
+Tank T3 crashes into tank U2
+Tank K0 hits tank S0
+Tank H0 hits tank S1
+Tank H2 hits tank J2
+Tank J1 hits tank V0
+Tank S0 hits tank K3
+Tank U0 hits tank G3
+Tank V0 hits tank J1
+Tank V2 hits tank J1
+Tank U1 hits tank V2
+Tank V3 hits tank U3
+Tank J3 hits tank S0
+Tank H3 hits tank T2
+Tank J2 hits tank H1
+Tank J1 hits tank V0
+Tank K3 captures a lifepack 
+Tank H1 hits tank J1
+Tank T0 crashes into tank J0
+Tank J0 crashes into tank T0
+Tank K2 hits tank H0
+Tank U0 hits tank G3
+Tank T3 hits tank U2
+Tank T2 hits tank S3
+Tank U3 hits tank J1
+Tank T0 hits tank J0
+Tank T1 hits tank V0
+Tank U1 hits tank V2
+Tank K0 hits tank K3
+Tank V3 bug= 43, PC= C20D 
+Tank V2 captures a lifepack 
+Tank H0 captures a lifepack 
+Tank K0 captures a lifepack 
+Tank K2 hits tank V1
+Tank V0 crashes into tank U1
+Tank V1 crashes into tank J0
+Tank J0 crashes into tank V1
+Tank V1 captures a lifepack 
+Tank S2 hits tank H3
+Tank V1 hits tank H0
+Tank V3 hits tank T1
+Tank U0 hits tank G3
+Tank T1 hits tank V0
+Tank U1 hits tank V2
+Tank K0 hits tank K3
+Tank H1 hits tank U3
+Tank H3 hits tank S2
+Tank K2 bug= 25, PC= C443 
+Tank H0 crashes into tank V1
+Tank V1 crashes into tank H0
+Tank H0 crashes into tank V1
+Tank S1 hits tank T0
+Tank S3 hits tank S0
+Tank V1 hits tank H0
+Tank T1 hits tank J3
+Tank T0 hits tank S1
+Tank U2 hits tank J2
+Tank H3 captures a lifepack 
+Tank S2 crashes into tank K3
+Tank U0 hits tank J1
+Tank T2 hits tank V2
+Tank K0 bug= 25, PC= C5BF 
+Tank T1 crashes into tank J3
+Tank J3 hits tank T1
+Tank J2 hits tank K2
+Tank H3 hits tank K0
+Tank K0 crashes into tank K3
+Tank S1 hits tank T0
+Tank K3 crashes into tank K0
+Tank V2 hits tank T2
+Tank V1 hits tank H0
+Tank U1 hits tank U0
+Tank T2 hits tank V2
+Tank T0 hits tank S1
+Tank U3 hits tank H2
+Tank U0 hits tank J1
+Tank V2 crashes into tank J0
+Tank J0 crashes into tank V2
+Tank J2 captures a lifepack 
+Tank J0 hits tank V2
+Tank T2 crashes into tank V2
+Tank V2 crashes into tank T2
+Tank K3 crashes into tank K0
+Tank K0 crashes into tank K3
+Tank U2 hits tank J0
+Tank S3 hits tank V3
+Tank U1 hits tank H1
+Tank U0 hits tank H1
+Tank V2 hits tank J0
+Tank T2 hits tank V2
+Tank T1 hits tank V3
+Tank T3 hits tank K2
+Tank J0 hits tank U2
+Tank H1 hits tank U0
+Tank K2 crashes into tank T3
+Tank J3 hits tank V3
+Tank T3 crashes into tank K2
+Tank H2 hits tank U3
+Tank J2 hits tank J0
+Tank U2 hits tank J0
+Tank U3 hits tank H2
+Tank U0 hits tank H1
+Tank V0 crashes into tank H3
+Tank H3 crashes into tank V0
+Tank V3 hits tank J3
+Tank U1 hits tank U0
+Tank V1 hits tank H0
+Tank T2 hits tank J3
+Tank T1 hits tank V3
+Tank H1 crashes into tank J3
+Tank J3 crashes into tank H1
+Tank J0 hits tank J2
+Tank J2 hits tank J0
+Tank H3 hits tank V0
+Tank H2 hits tank U3
+Tank J3 hits tank H1
+Tank H1 hits tank U0
+Tank J3 captures a lifepack 
+Tank K1 captures a lifepack 
+Tank H0 hits tank S1
+Tank S3 hits tank J1
+Tank S0 hits tank S2
+Tank U2 hits tank V2
+Tank V0 hits tank V3
+Tank U3 hits tank H2
+Tank T1 hits tank V3
+Tank U1 hits tank U0
+Tank T0 hits tank H3
+Tank J2 hits tank K2
+Tank H2 hits tank J0
+Tank H1 hits tank T2
+Tank J3 hits tank T2
+Tank H0 hits tank S1
+Tank J0 hits tank V2
+Tank S2 hits tank T1
+Tank U2 hits tank S1
+Tank S3 hits tank G3
+Tank V2 hits tank J2
+Tank V3 hits tank V0
+Tank S0 hits tank S2
+Tank V1 hits tank H3
+Tank U0 hits tank J3
+Tank U3 hits tank H2
+Tank T0 hits tank K0
+Tank T1 hits tank V3
+Tank J2 hits tank J0
+Tank H2 hits tank J0
+Tank H3 hits tank V1
+Tank T3 hits tank H2
+Tank J3 hits tank U0
+Tank V2 captures a lifepack 
+Tank U2 hits tank S1
+Tank V3 hits tank S1
+Tank V1 hits tank S1
+Tank V0 hits tank S2
+Tank T0 hits tank K3
+Tank U3 hits tank H2
+Tank T1 hits tank V3
+Tank H0 hits tank T0
+Tank J2 hits tank V2
+Tank V2 bug= 43, PC= C20D 
+Tank H2 hits tank T3
+Tank T3 hits tank H2
+Tank H1 hits tank S3
+Tank H3 hits tank V3
+Tank V0 captures a lifepack 
+Tank H0 crashes into tank T0
+Tank K0 bug= 25, PC= C443 
+Tank K3 hits tank K0
+Tank V3 hits tank S1
+Tank U2 hits tank S1
+Tank K0 bug= 25, PC= C5BF 
+Tank U0 hits tank H2
+Tank T2 hits tank S3
+Tank V2 hits tank J0
+Tank T0 hits tank K3
+Tank T1 hits tank V3
+Tank K3 crashes into tank H0
+Tank H0 crashes into tank K3
+Tank K0 bug= 25, PC= C5BF 
+Tank H0 hits tank K3
+Tank K0 bug= 25, PC= C443 
+Tank H1 hits tank S3
+Tank J1 hits tank S0
+Tank T3 hits tank J3
+Tank K2 hits tank U3
+Tank S0 hits tank J1
+Tank V3 hits tank H0
+Tank U2 hits tank V3
+Tank V2 hits tank T3
+Tank U3 hits tank K2
+Tank V3 crashes into tank H0
+Tank J3 captures a lifepack 
+Tank T0 kills tank V3
+Tank U0 hits tank H2
+Tank V3 watches from the side
+Tank T2 hits tank S3
+Tank J1 hits tank S0
+Tank H3 hits tank V1
+Tank H0 hits tank U2
+Tank J3 hits tank V2
+Tank T3 hits tank J3
+Tank H1 hits tank S2
+Tank J2 hits tank J0
+Tank H2 hits tank V1
+Tank K1 crashes into tank K3
+Tank K3 crashes into tank K1
+Tank T3 captures a lifepack 
+Tank U1 hits tank V0
+Tank S1 hits tank J0
+Tank S0 hits tank J1
+Tank U2 hits tank H0
+Tank T3 crashes into tank J3
+Tank J3 crashes into tank T3
+Tank V2 hits tank J3
+Tank T1 hits tank H0
+Tank V1 hits tank T1
+Tank T2 hits tank S2
+Tank T0 hits tank H0
+Tank U3 hits tank K2
+Tank H0 crashes into tank T1
+Tank T1 crashes into tank H0
+Tank T3 hits tank J3
+Tank H3 hits tank V1
+Tank J3 hits tank T3
+Tank H2 hits tank H3
+Tank K0 bug= 25, PC= C5BF 
+Tank J0 crashes into tank K0
+Tank K0 hits tank J0
+Tank K3 crashes into tank U2
+Tank U1 hits tank V0
+Tank K3 hits tank T1
+Tank S1 hits tank V2
+Tank S3 hits tank V0
+Tank U2 hits tank H0
+Tank V2 hits tank S1
+Tank U0 hits tank U3
+Tank U3 hits tank U0
+Tank T0 hits tank T1
+Tank T2 hits tank S2
+Tank T1 hits tank H0
+Tank H2 hits tank V1
+Tank J3 hits tank V2
+Tank T3 hits tank U0
+Tank H1 hits tank V1
+Tank V0 bug= 43, PC= C20D 
+Tank U1 hits tank H3
+Tank K3 hits tank H0
+Tank S1 hits tank V2
+Tank V2 hits tank S1
+Tank V1 hits tank H2
+Tank U0 hits tank T3
+Tank H3 crashes into tank V1
+Tank J0 hits tank V2
+Tank T3 hits tank U0
+Tank H1 hits tank H3
+Tank T0 crashes into tank H3
+Tank H3 crashes into tank T0
+Tank V1 captures a lifepack 
+Tank H3 crashes into tank U1
+Tank U1 crashes into tank H3
+Tank S3 hits tank K2
+Tank S0 hits tank K1
+Tank U0 hits tank T3
+Tank U2 hits tank H0
+Tank T2 hits tank G3
+Tank U3 hits tank U1
+Tank T3 hits tank U0
+Tank J1 hits tank S1
+Tank H3 hits tank T0
+Tank J3 hits tank J2
+Tank H0 crashes into tank J1
+Tank J1 crashes into tank H0
+Tank U1 hits tank V1
+Tank S1 hits tank U2
+Tank U2 hits tank H0
+Tank U0 hits tank T3
+Tank V2 hits tank J1
+Tank T2 hits tank G3
+Tank T1 hits tank J2
+Tank T0 hits tank H3
+Tank K0 crashes into tank J1
+Tank J1 hits tank K0
+Tank H0 hits tank J1
+Tank H1 hits tank S0
+Tank U2 crashes into tank V2
+Tank H1 crashes into tank S0
+Tank K3 crashes into tank K1
+Tank U1 hits tank V1
+Tank J2 crashes into tank T1
+Tank S3 hits tank U0
+Tank U2 hits tank J1
+Tank S0 hits tank K3
+Tank T1 hits tank J2
+Tank T0 hits tank V2
+Tank T2 hits tank G3
+Tank H0 hits tank S0
+Tank J1 hits tank V2
+Tank H3 hits tank S1
+Tank J0 hits tank S1
+Tank K1 hits tank K3
+Tank U1 hits tank V1
+Tank S2 hits tank K2
+Tank V1 hits tank U1
+Tank U0 hits tank S3
+Tank T2 hits tank V1
+Tank U3 hits tank V0
+Tank J0 hits tank H3
+Tank J1 hits tank V2
+Tank H2 hits tank U3
+Tank S2 captures a lifepack 
+Tank H3 crashes into tank J3
+Tank J3 crashes into tank H3
+Tank U1 hits tank K2
+Tank S3 hits tank V0
+Tank V1 bug= 43, PC= C20D 
+Tank U3 hits tank J2
+Tank T2 hits tank V1
+Tank U0 hits tank S3
+Tank T0 hits tank K3
+Tank T1 hits tank S1
+Tank H0 captures a lifepack 
+Tank H2 hits tank S0
+Tank K2 hits tank T2
+Tank H0 hits tank J1
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File H0.sx loads 2009 bytes
+File J0.sx loads 2009 bytes
+File K0.sx loads 1515 bytes
+File S0.sx loads 1095 bytes
+File T0.sx loads 1187 bytes
+File U0.sx loads 1187 bytes
+File V0.sx loads 878 bytes
+File H1.sx loads 2009 bytes
+File J1.sx loads 2009 bytes
+File K1.sx loads 1515 bytes
+File S1.sx loads 1095 bytes
+File T1.sx loads 1187 bytes
+File U1.sx loads 1187 bytes
+File V1.sx loads 878 bytes
+File H2.sx loads 2009 bytes
+File J2.sx loads 2009 bytes
+File K2.sx loads 1515 bytes
+File S2.sx loads 1095 bytes
+File T2.sx loads 1187 bytes
+File U2.sx loads 1187 bytes
+File V2.sx loads 878 bytes
+File G3.sx loads 653 bytes
+File H3.sx loads 2009 bytes
+File J3.sx loads 2009 bytes
+File K3.sx loads 1515 bytes
+File S3.sx loads 1095 bytes
+File T3.sx loads 1187 bytes
+File U3.sx loads 1187 bytes
+File V3.sx loads 878 bytes
+Tank H0 bug= 0, PC= C029 
+Tank H0 bug= 0, PC= C029 
+Tank H0 bug= 0, PC= C029 
+Tank H0 bug= 0, PC= C029 
+Tank H0 bug= 0, PC= C029 
+Tank H0 bug= 0, PC= C029 
+Tank H0 bug= 0, PC= C029 
+Tank H0 bug= 0, PC= C029 
+Tank H0 bug= 0, PC= C029 
+Tank H0 bug= 0, PC= C029 
+Tank H0 bug= 0, PC= C029 
+Tank H0 watches from the side
+Tank J0 bug= 0, PC= C029 
+Tank J0 bug= 0, PC= C029 
+Tank J0 bug= 0, PC= C029 
+Tank J0 bug= 0, PC= C029 
+Tank J0 bug= 0, PC= C029 
+Tank J0 bug= 0, PC= C029 
+Tank J0 bug= 0, PC= C029 
+Tank J0 bug= 0, PC= C029 
+Tank J0 bug= 0, PC= C029 
+Tank J0 bug= 0, PC= C029 
+Tank J0 bug= 0, PC= C029 
+Tank J0 watches from the side
+Tank K0 bug= 0, PC= C000 
+Tank K0 bug= 0, PC= C000 
+Tank K0 bug= 0, PC= C000 
+Tank K0 bug= 0, PC= C000 
+Tank K0 bug= 0, PC= C000 
+Tank K0 bug= 0, PC= C000 
+Tank K0 bug= 0, PC= C000 
+Tank K0 bug= 0, PC= C000 
+Tank K0 bug= 0, PC= C000 
+Tank K0 bug= 0, PC= C000 
+Tank K0 bug= 0, PC= C000 
+Tank K0 watches from the side
+Tank S0 bug= 0, PC= C000 
+Tank S0 bug= 0, PC= C000 
+Tank S0 bug= 0, PC= C000 
+Tank S0 bug= 0, PC= C000 
+Tank S0 bug= 0, PC= C000 
+Tank S0 bug= 0, PC= C000 
+Tank S0 bug= 0, PC= C000 
+Tank S0 bug= 0, PC= C000 
+Tank S0 bug= 0, PC= C000 
+Tank S0 bug= 0, PC= C000 
+Tank S0 bug= 0, PC= C000 
+Tank S0 watches from the side
+Tank T0 bug= 0, PC= C000 
+Tank T0 bug= 0, PC= C000 
+Tank T0 bug= 0, PC= C000 
+Tank T0 bug= 0, PC= C000 
+Tank T0 bug= 0, PC= C000 
+Tank T0 bug= 0, PC= C000 
+Tank T0 bug= 0, PC= C000 
+Tank T0 bug= 0, PC= C000 
+Tank T0 bug= 0, PC= C000 
+Tank T0 bug= 0, PC= C000 
+Tank T0 bug= 0, PC= C000 
+Tank T0 watches from the side
+Tank U0 bug= 0, PC= C000 
+Tank U0 bug= 0, PC= C000 
+Tank U0 bug= 0, PC= C000 
+Tank U0 bug= 0, PC= C000 
+Tank U0 bug= 0, PC= C000 
+Tank U0 bug= 0, PC= C000 
+Tank U0 bug= 0, PC= C000 
+Tank U0 bug= 0, PC= C000 
+Tank U0 bug= 0, PC= C000 
+Tank U0 bug= 0, PC= C000 
+Tank U0 bug= 0, PC= C000 
+Tank U0 watches from the side
+Tank V0 bug= 0, PC= C000 
+Tank V0 bug= 0, PC= C000 
+Tank V0 bug= 0, PC= C000 
+Tank V0 bug= 0, PC= C000 
+Tank V0 bug= 0, PC= C000 
+Tank V0 bug= 0, PC= C000 
+Tank V0 bug= 0, PC= C000 
+Tank V0 bug= 0, PC= C000 
+Tank V0 bug= 0, PC= C000 
+Tank V0 bug= 0, PC= C000 
+Tank V0 bug= 0, PC= C000 
+Tank V0 watches from the side
+Tank H1 bug= 0, PC= C029 
+Tank H1 bug= 0, PC= C029 
+Tank H1 bug= 0, PC= C029 
+Tank H1 bug= 0, PC= C029 
+Tank H1 bug= 0, PC= C029 
+Tank H1 bug= 0, PC= C029 
+Tank H1 bug= 0, PC= C029 
+Tank H1 bug= 0, PC= C029 
+Tank H1 bug= 0, PC= C029 
+Tank H1 bug= 0, PC= C029 
+Tank H1 bug= 0, PC= C029 
+Tank H1 watches from the side
+Tank J1 bug= 0, PC= C029 
+Tank J1 bug= 0, PC= C029 
+Tank J1 bug= 0, PC= C029 
+Tank J1 bug= 0, PC= C029 
+Tank J1 bug= 0, PC= C029 
+Tank J1 bug= 0, PC= C029 
+Tank J1 bug= 0, PC= C029 
+Tank J1 bug= 0, PC= C029 
+Tank J1 bug= 0, PC= C029 
+Tank J1 bug= 0, PC= C029 
+Tank J1 bug= 0, PC= C029 
+Tank J1 watches from the side
+Tank K1 bug= 0, PC= C000 
+Tank K1 bug= 0, PC= C000 
+Tank K1 bug= 0, PC= C000 
+Tank K1 bug= 0, PC= C000 
+Tank K1 bug= 0, PC= C000 
+Tank K1 bug= 0, PC= C000 
+Tank K1 bug= 0, PC= C000 
+Tank K1 bug= 0, PC= C000 
+Tank K1 bug= 0, PC= C000 
+Tank K1 bug= 0, PC= C000 
+Tank K1 bug= 0, PC= C000 
+Tank K1 watches from the side
+Tank S1 bug= 0, PC= C000 
+Tank S1 bug= 0, PC= C000 
+Tank S1 bug= 0, PC= C000 
+Tank S1 bug= 0, PC= C000 
+Tank S1 bug= 0, PC= C000 
+Tank S1 bug= 0, PC= C000 
+Tank S1 bug= 0, PC= C000 
+Tank S1 bug= 0, PC= C000 
+Tank S1 bug= 0, PC= C000 
+Tank S1 bug= 0, PC= C000 
+Tank S1 bug= 0, PC= C000 
+Tank S1 watches from the side
+Tank T1 bug= 0, PC= C000 
+Tank T1 bug= 0, PC= C000 
+Tank T1 bug= 0, PC= C000 
+Tank T1 bug= 0, PC= C000 
+Tank T1 bug= 0, PC= C000 
+Tank T1 bug= 0, PC= C000 
+Tank T1 bug= 0, PC= C000 
+Tank T1 bug= 0, PC= C000 
+Tank T1 bug= 0, PC= C000 
+Tank T1 bug= 0, PC= C000 
+Tank T1 bug= 0, PC= C000 
+Tank T1 watches from the side
+Tank U1 bug= 0, PC= C000 
+Tank U1 bug= 0, PC= C000 
+Tank U1 bug= 0, PC= C000 
+Tank U1 bug= 0, PC= C000 
+Tank U1 bug= 0, PC= C000 
+Tank U1 bug= 0, PC= C000 
+Tank U1 bug= 0, PC= C000 
+Tank U1 bug= 0, PC= C000 
+Tank U1 bug= 0, PC= C000 
+Tank U1 bug= 0, PC= C000 
+Tank U1 bug= 0, PC= C000 
+Tank U1 watches from the side
+Tank V1 bug= 0, PC= C000 
+Tank V1 bug= 0, PC= C000 
+Tank V1 bug= 0, PC= C000 
+Tank V1 bug= 0, PC= C000 
+Tank V1 bug= 0, PC= C000 
+Tank V1 bug= 0, PC= C000 
+Tank V1 bug= 0, PC= C000 
+Tank V1 bug= 0, PC= C000 
+Tank V1 bug= 0, PC= C000 
+Tank V1 bug= 0, PC= C000 
+Tank V1 bug= 0, PC= C000 
+Tank V1 watches from the side
+Tank H2 bug= 0, PC= C029 
+Tank H2 bug= 0, PC= C029 
+Tank H2 bug= 0, PC= C029 
+Tank H2 bug= 0, PC= C029 
+Tank H2 bug= 0, PC= C029 
+Tank H2 bug= 0, PC= C029 
+Tank H2 bug= 0, PC= C029 
+Tank H2 bug= 0, PC= C029 
+Tank H2 bug= 0, PC= C029 
+Tank H2 bug= 0, PC= C029 
+Tank H2 bug= 0, PC= C029 
+Tank H2 watches from the side
+Tank J2 bug= 0, PC= C029 
+Tank J2 bug= 0, PC= C029 
+Tank J2 bug= 0, PC= C029 
+Tank J2 bug= 0, PC= C029 
+Tank J2 bug= 0, PC= C029 
+Tank J2 bug= 0, PC= C029 
+Tank J2 bug= 0, PC= C029 
+Tank J2 bug= 0, PC= C029 
+Tank J2 bug= 0, PC= C029 
+Tank J2 bug= 0, PC= C029 
+Tank J2 bug= 0, PC= C029 
+Tank J2 watches from the side
+Tank K2 bug= 0, PC= C000 
+Tank K2 bug= 0, PC= C000 
+Tank K2 bug= 0, PC= C000 
+Tank K2 bug= 0, PC= C000 
+Tank K2 bug= 0, PC= C000 
+Tank K2 bug= 0, PC= C000 
+Tank K2 bug= 0, PC= C000 
+Tank K2 bug= 0, PC= C000 
+Tank K2 bug= 0, PC= C000 
+Tank K2 bug= 0, PC= C000 
+Tank K2 bug= 0, PC= C000 
+Tank K2 watches from the side
+Tank S2 bug= 0, PC= C000 
+Tank S2 bug= 0, PC= C000 
+Tank S2 bug= 0, PC= C000 
+Tank S2 bug= 0, PC= C000 
+Tank S2 bug= 0, PC= C000 
+Tank S2 bug= 0, PC= C000 
+Tank S2 bug= 0, PC= C000 
+Tank S2 bug= 0, PC= C000 
+Tank S2 bug= 0, PC= C000 
+Tank S2 bug= 0, PC= C000 
+Tank S2 bug= 0, PC= C000 
+Tank S2 watches from the side
+Tank T2 captures a lifepack 
+Tank T2 bug= 0, PC= C000 
+Tank T2 bug= 0, PC= C000 
+Tank T2 bug= 0, PC= C000 
+Tank T2 bug= 0, PC= C000 
+Tank T2 bug= 0, PC= C000 
+Tank T2 bug= 0, PC= C000 
+Tank T2 bug= 0, PC= C000 
+Tank T2 bug= 0, PC= C000 
+Tank T2 bug= 0, PC= C000 
+Tank T2 bug= 0, PC= C000 
+Tank T2 bug= 0, PC= C000 
+Tank T2 watches from the side
+Tank U2 bug= 0, PC= C000 
+Tank U2 bug= 0, PC= C000 
+Tank U2 bug= 0, PC= C000 
+Tank U2 bug= 0, PC= C000 
+Tank U2 bug= 0, PC= C000 
+Tank U2 bug= 0, PC= C000 
+Tank U2 bug= 0, PC= C000 
+Tank U2 bug= 0, PC= C000 
+Tank U2 bug= 0, PC= C000 
+Tank U2 bug= 0, PC= C000 
+Tank U2 bug= 0, PC= C000 
+Tank U2 watches from the side
+Tank V2 bug= 0, PC= C000 
+Tank V2 bug= 0, PC= C000 
+Tank V2 bug= 0, PC= C000 
+Tank V2 bug= 0, PC= C000 
+Tank V2 bug= 0, PC= C000 
+Tank V2 bug= 0, PC= C000 
+Tank V2 bug= 0, PC= C000 
+Tank V2 bug= 0, PC= C000 
+Tank V2 bug= 0, PC= C000 
+Tank V2 bug= 0, PC= C000 
+Tank V2 bug= 0, PC= C000 
+Tank V2 watches from the side
+Tank G3 bug= 0, PC= C000 
+Tank G3 bug= 0, PC= C000 
+Tank G3 bug= 0, PC= C000 
+Tank G3 bug= 0, PC= C000 
+Tank G3 bug= 0, PC= C000 
+Tank G3 bug= 0, PC= C000 
+Tank G3 bug= 0, PC= C000 
+Tank G3 bug= 0, PC= C000 
+Tank G3 bug= 0, PC= C000 
+Tank G3 bug= 0, PC= C000 
+Tank G3 bug= 0, PC= C000 
+Tank G3 watches from the side
+Tank H3 bug= 0, PC= C029 
+Tank H3 bug= 0, PC= C029 
+Tank H3 bug= 0, PC= C029 
+Tank H3 bug= 0, PC= C029 
+Tank H3 bug= 0, PC= C029 
+Tank H3 bug= 0, PC= C029 
+Tank H3 bug= 0, PC= C029 
+Tank H3 bug= 0, PC= C029 
+Tank H3 bug= 0, PC= C029 
+Tank H3 bug= 0, PC= C029 
+Tank H3 bug= 0, PC= C029 
+Tank H3 watches from the side
+Tank J3 bug= 0, PC= C029 
+Tank J3 bug= 0, PC= C029 
+Tank J3 bug= 0, PC= C029 
+Tank J3 bug= 0, PC= C029 
+Tank J3 bug= 0, PC= C029 
+Tank J3 bug= 0, PC= C029 
+Tank J3 bug= 0, PC= C029 
+Tank J3 bug= 0, PC= C029 
+Tank J3 bug= 0, PC= C029 
+Tank J3 bug= 0, PC= C029 
+Tank J3 bug= 0, PC= C029 
+Tank J3 watches from the side
+Tank K3 bug= 0, PC= C000 
+Tank K3 bug= 0, PC= C000 
+Tank K3 bug= 0, PC= C000 
+Tank K3 bug= 0, PC= C000 
+Tank K3 bug= 0, PC= C000 
+Tank K3 bug= 0, PC= C000 
+Tank K3 bug= 0, PC= C000 
+Tank K3 bug= 0, PC= C000 
+Tank K3 bug= 0, PC= C000 
+Tank K3 bug= 0, PC= C000 
+Tank K3 bug= 0, PC= C000 
+Tank K3 watches from the side
+Tank S3 bug= 0, PC= C000 
+Tank S3 bug= 0, PC= C000 
+Tank S3 bug= 0, PC= C000 
+Tank S3 bug= 0, PC= C000 
+Tank S3 bug= 0, PC= C000 
+Tank S3 bug= 0, PC= C000 
+Tank S3 bug= 0, PC= C000 
+Tank S3 bug= 0, PC= C000 
+Tank S3 bug= 0, PC= C000 
+Tank S3 bug= 0, PC= C000 
+Tank S3 bug= 0, PC= C000 
+Tank S3 watches from the side
+Tank T3 bug= 0, PC= C000 
+Tank T3 bug= 0, PC= C000 
+Tank T3 bug= 0, PC= C000 
+Tank T3 bug= 0, PC= C000 
+Tank T3 bug= 0, PC= C000 
+Tank T3 bug= 0, PC= C000 
+Tank T3 bug= 0, PC= C000 
+Tank T3 bug= 0, PC= C000 
+Tank T3 bug= 0, PC= C000 
+Tank T3 bug= 0, PC= C000 
+Tank T3 bug= 0, PC= C000 
+Tank T3 watches from the side
+This run aborted by F11
+Game over, time exceeded
+Tank A0 has the highest score
+Battle = 16  Time = 0
+   	X   	Y   	Dir 	Tur 	Hlt 	3800 	3802 	3804 	3806 	Score
+U3 	31B 	159 	100 	1E4 	3FF 	0000 	0000 	0000 	0000 	100
+V3 	2F8 	07C 	0EF 	272 	3FF 	0000 	0000 	0000 	0000 	100
+H0 	    	    	    	    	dead	     	     	     	     	0
+J0 	    	    	    	    	dead	     	     	     	     	0
+K0 	    	    	    	    	dead	     	     	     	     	0
+S0 	    	    	    	    	dead	     	     	     	     	0
+T0 	    	    	    	    	dead	     	     	     	     	0
+U0 	    	    	    	    	dead	     	     	     	     	0
+V0 	    	    	    	    	dead	     	     	     	     	0
+H1 	    	    	    	    	dead	     	     	     	     	0
+J1 	    	    	    	    	dead	     	     	     	     	0
+K1 	    	    	    	    	dead	     	     	     	     	0
+S1 	    	    	    	    	dead	     	     	     	     	0
+T1 	    	    	    	    	dead	     	     	     	     	0
+U1 	    	    	    	    	dead	     	     	     	     	0
+V1 	    	    	    	    	dead	     	     	     	     	0
+H2 	    	    	    	    	dead	     	     	     	     	0
+J2 	    	    	    	    	dead	     	     	     	     	0
+K2 	    	    	    	    	dead	     	     	     	     	0
+S2 	    	    	    	    	dead	     	     	     	     	0
+T2 	    	    	    	    	dead	     	     	     	     	0
+U2 	    	    	    	    	dead	     	     	     	     	0
+V2 	    	    	    	    	dead	     	     	     	     	0
+G3 	    	    	    	    	dead	     	     	     	     	0
+H3 	    	    	    	    	dead	     	     	     	     	0
+J3 	    	    	    	    	dead	     	     	     	     	0
+K3 	    	    	    	    	dead	     	     	     	     	0
+S3 	    	    	    	    	dead	     	     	     	     	0
+T3 	    	    	    	    	dead	     	     	     	     	0
+Camera = manual
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+Tank H0 is now the player
+Tank J0 is now the player
+Tank K0 is now the player
+Tank S0 is now the player
+Tank T0 is now the player
+Tank U0 is now the player
+Tank V0 is now the player
+Tank H1 is now the player
+Tank J1 is now the player
+Tank K1 is now the player
+Tank S1 is now the player
+Tank T1 is now the player
+Tank U1 is now the player
+Tank V1 is now the player
+Tank H2 is now the player
+Tank J2 is now the player
+Tank K2 is now the player
+Tank S2 is now the player
+Tank T2 is now the player
+Tank U2 is now the player
+Tank V2 is now the player
+Tank G3 is now the player
+Tank V0 captures a lifepack 
+Tank T1 hits tank H3
+Tank T2 hits tank J0
+Tank V0 hits tank V1
+Tank V2 hits tank K1
+Tank V3 hits tank S1
+Tank V2 crashes into tank K1
+Tank V3 bug= 43, PC= C20D 
+Tank K1 crashes into tank V2
+Tank U1 hits tank T0
+Tank U0 hits tank T1
+Tank H1 hits tank H2
+Tank J0 hits tank T2
+Tank H2 hits tank S2
+Tank J3 hits tank S3
+Tank U2 hits tank J1
+Tank T2 hits tank J0
+Tank S2 hits tank H1
+Tank T1 hits tank H3
+Tank V3 hits tank S1
+Tank H3 hits tank T1
+Tank H2 hits tank S2
+Tank H0 hits tank J2
+Tank J0 hits tank J2
+Tank S0 captures a lifepack 
+Tank V2 bug= 43, PC= C20D 
+Tank K1 hits tank S3
+Tank V3 bug= 43, PC= C20D 
+Tank T1 hits tank H3
+Tank V0 hits tank V1
+Tank U1 hits tank T0
+Tank H3 hits tank U0
+Tank J1 hits tank K1
+Tank J3 hits tank J1
+Tank U0 crashes into tank H3
+Tank H3 crashes into tank U0
+Tank H1 crashes into tank U3
+Tank U3 crashes into tank H1
+Tank T1 crashes into tank T2
+Tank T2 crashes into tank T1
+Tank U0 hits tank H3
+Tank T1 hits tank T2
+Tank S2 hits tank H2
+Tank T2 hits tank H3
+Tank V0 hits tank V1
+Tank T3 hits tank V0
+Tank U1 hits tank T0
+Tank J3 crashes into tank K1
+Tank K1 crashes into tank J3
+Tank T0 hits tank K3
+Tank J3 hits tank K1
+Tank J1 hits tank K1
+Tank U0 captures a lifepack 
+Tank U2 hits tank V1
+Tank K1 hits tank J2
+Tank K3 hits tank U1
+Tank S3 hits tank J1
+Tank U1 hits tank T0
+Tank T0 hits tank K3
+Tank J1 hits tank V2
+Tank H3 hits tank J2
+Tank V2 crashes into tank J1
+Tank J1 crashes into tank V2
+Tank K3 crashes into tank U1
+Tank S1 hits tank U3
+Tank S3 hits tank V2
+Tank U1 hits tank K3
+Tank U3 hits tank V3
+Tank T0 hits tank K3
+Tank H1 hits tank S1
+Tank H0 hits tank S3
+Tank H2 hits tank S2
+Tank H3 hits tank T1
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+Tank T1 crashes into tank T2
+Tank T2 crashes into tank T1
+Tank U1 hits tank K3
+Tank U3 hits tank V3
+Tank T3 hits tank U1
+Tank T0 hits tank K3
+Tank T1 hits tank T2
+Tank J1 hits tank H0
+Tank J2 hits tank V1
+Tank V3 crashes into tank J1
+Tank J1 crashes into tank V3
+Tank U2 hits tank V1
+Tank V2 bug= 43, PC= C20D 
+Tank U0 hits tank J2
+Tank T2 hits tank H3
+Tank T3 hits tank U1
+Tank T0 hits tank U1
+Tank J0 hits tank T2
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File H0.sx loads 2009 bytes
+File J0.sx loads 2009 bytes
+File K0.sx loads 1515 bytes
+File S0.sx loads 1095 bytes
+File T0.sx loads 1187 bytes
+File U0.sx loads 1187 bytes
+File V0.sx loads 878 bytes
+File H1.sx loads 2009 bytes
+File J1.sx loads 2009 bytes
+File K1.sx loads 1515 bytes
+File S1.sx loads 1095 bytes
+File T1.sx loads 1187 bytes
+File U1.sx loads 1187 bytes
+File V1.sx loads 878 bytes
+File H2.sx loads 2009 bytes
+File J2.sx loads 2009 bytes
+File K2.sx loads 1515 bytes
+File S2.sx loads 1095 bytes
+File T2.sx loads 1187 bytes
+File U2.sx loads 1187 bytes
+File V2.sx loads 878 bytes
+File G3.sx loads 682 bytes
+File H3.sx loads 2009 bytes
+File J3.sx loads 2009 bytes
+File K3.sx loads 1515 bytes
+File S3.sx loads 1095 bytes
+File T3.sx loads 1187 bytes
+File U3.sx loads 1187 bytes
+File V3.sx loads 878 bytes
+Tank K0 bug= 25, PC= C5BF 
+Camera = manual
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+Tank H0 is now the player
+Tank J0 is now the player
+Tank K0 is now the player
+Tank S0 is now the player
+Tank T0 is now the player
+Tank U0 is now the player
+Tank V0 is now the player
+Tank H1 is now the player
+Tank J1 is now the player
+Tank K1 is now the player
+Tank S1 is now the player
+Tank T1 is now the player
+Tank U1 is now the player
+Tank V1 is now the player
+Tank H2 is now the player
+Tank J2 is now the player
+Tank K2 is now the player
+Tank S2 is now the player
+Tank T2 is now the player
+Tank U2 is now the player
+Tank V2 is now the player
+Tank G3 is now the player
+Tank K0 bug= 25, PC= C443 
+Tank S1 hits tank J2
+Tank V0 hits tank U3
+Tank V2 hits tank H2
+Tank T2 hits tank K2
+Tank V3 hits tank K3
+Tank U3 hits tank K2
+Tank T1 hits tank V1
+Tank U2 hits tank K1
+Tank H0 hits tank V3
+Tank J0 hits tank S2
+Tank J2 hits tank V3
+Tank H3 hits tank K0
+Tank U3 crashes into tank V0
+Tank V0 crashes into tank U3
+Tank H0 crashes into tank K3
+Tank K3 crashes into tank H0
+Tank V3 crashes into tank H0
+Tank H0 crashes into tank V3
+Tank H1 hits tank K3
+Tank K2 hits tank U3
+Tank T0 hits tank J1
+Tank T0 captures a lifepack 
+Tank S2 hits tank J0
+Tank S0 hits tank U2
+Tank T3 hits tank J0
+Tank V1 hits tank T1
+Tank U2 hits tank S0
+Tank G3 crashes into tank U2
+Tank U1 hits tank S1
+Tank H2 hits tank S3
+Tank H0 hits tank V3
+Tank J1 hits tank U0
+Tank T0 hits tank J1
+Tank V0 hits tank T2
+Tank S1 hits tank H2
+Tank S2 hits tank H3
+Tank T2 hits tank V2
+Tank S3 hits tank H2
+Tank T2 crashes into tank V0
+Tank U3 hits tank K2
+Tank T3 hits tank J0
+Tank U0 hits tank H1
+Tank U1 hits tank S1
+Tank H0 hits tank T3
+Tank J0 hits tank S3
+Tank J3 hits tank U3
+Tank T0 hits tank H1
+Tank V2 crashes into tank V0
+Tank V1 bug= 43, PC= C20D 
+Tank V0 crashes into tank V2
+Tank V2 hits tank T2
+Tank T2 hits tank U3
+Tank T3 hits tank S2
+Tank U3 hits tank K2
+Tank U1 hits tank S1
+Tank H1 hits tank J1
+Tank J2 hits tank S3
+Tank H3 hits tank J2
+Tank T0 hits tank K3
+Tank S2 hits tank H2
+Tank S1 hits tank U1
+Tank V0 hits tank J2
+Tank T3 hits tank H0
+Tank T2 hits tank U3
+Tank V3 hits tank H2
+Tank U0 hits tank T0
+Tank U1 hits tank S1
+Tank J2 hits tank S3
+Tank H2 hits tank V3
+Tank T0 hits tank K3
+Tank J0 crashes into tank J3
+Tank J3 crashes into tank J0
+Tank J2 crashes into tank V0
+Tank H1 captures a lifepack 
+Tank S0 hits tank T3
+Tank S3 hits tank U3
+Tank K0 hits tank G3
+Tank V2 hits tank H3
+Tank S1 hits tank U1
+Tank V3 hits tank H2
+Tank T2 hits tank U2
+Tank V0 hits tank S1
+Tank T3 hits tank H0
+Tank U3 hits tank S3
+Tank T1 hits tank V1
+Tank U1 hits tank S1
+Tank H2 hits tank V3
+Tank J0 hits tank V0
+Tank U2 hits tank T2
+Tank H0 hits tank S0
+Tank T0 hits tank U0
+Tank K0 hits tank G3
+Tank S3 hits tank U2
+Tank T3 hits tank H0
+Tank V0 hits tank S1
+Tank T2 hits tank H3
+Tank T1 hits tank V1
+Tank V2 hits tank H3
+Tank H0 hits tank T3
+Tank U1 hits tank V0
+Tank J2 hits tank U3
+Tank J1 hits tank S1
+Tank J2 captures a lifepack 
+Tank J3 hits tank S1
+Tank H1 hits tank U0
+Tank K0 crashes into tank G3
+Tank T0 hits tank U0
+Tank T2 captures a lifepack 
+Tank T1 crashes into tank V1
+Tank S1 hits tank V0
+Tank S3 hits tank J1
+Tank V1 hits tank T1
+Tank T3 hits tank H0
+Tank K0 crashes into tank G3
+Tank U3 hits tank J0
+Tank U2 hits tank S3
+Tank H3 hits tank T2
+Tank U1 hits tank V0
+Tank J2 hits tank U3
+Tank J3 hits tank S1
+Tank J0 hits tank S3
+Tank J1 hits tank U3
+Tank H2 hits tank S2
+Tank V0 crashes into tank J3
+Tank J3 crashes into tank V0
+Tank T0 hits tank H1
+Tank G3 bug= 25, PC= C1B7 
+Tank G3 bug= 25, PC= C193 
+Tank G3 bug= 25, PC= C193 
+Tank G3 bug= 25, PC= C193 
+Tank K0 crashes into tank G3
+Tank G3 bug= 25, PC= C193 
+Tank G3 bug= 25, PC= C193 
+Tank G3 bug= 25, PC= C193 
+Tank G3 bug= 25, PC= C193 
+Tank G3 bug= 25, PC= C193 
+Tank G3 watches from the side
+Tank S3 hits tank J1
+Tank S0 hits tank K0
+Tank V3 hits tank U1
+Tank V0 hits tank S1
+Tank U3 hits tank J0
+Tank U2 hits tank S3
+Tank H2 hits tank T1
+Tank J3 hits tank V0
+Tank J0 hits tank U3
+Tank H0 hits tank V3
+Tank J2 hits tank J0
+Tank V0 crashes into tank K2
+Tank K2 hits tank V0
+Tank K2 crashes into tank V0
+Tank S2 hits tank H2
+Tank T2 hits tank H3
+Tank T2 crashes into tank H3
+Tank S2 crashes into tank H2
+Tank U3 hits tank J0
+Tank U1 hits tank V3
+Tank H2 hits tank S2
+Tank U2 hits tank K2
+Tank J3 hits tank H1
+Tank H0 hits tank U3
+Tank J0 hits tank S0
+Tank T3 crashes into tank V2
+Tank V2 crashes into tank T3
+Tank U1 captures a lifepack 
+This run aborted by F11
+Game over, time exceeded
+Tank H0 has the highest score
+Battle = 16  Time = 0
+   	X   	Y   	Dir 	Tur 	Hlt 	3800 	3802 	3804 	3806 	Score
+T0 	02A 	3B2 	200 	172 	3CC 	0000 	0000 	0000 	0000 	245
+U1 	1C3 	1BD 	39A 	0B9 	3FF 	0000 	0000 	0000 	0000 	235
+T3 	38F 	269 	022 	0D5 	333 	0000 	0000 	0000 	0000 	211
+T2 	327 	061 	233 	264 	399 	0000 	0000 	0000 	0000 	201
+H0 	1DD 	22D 	222 	1AB 	2CD 	0000 	0000 	0000 	0000 	200
+U2 	06F 	128 	1AB 	3B9 	366 	0000 	0000 	0000 	0000 	196
+J2 	2DB 	24D 	055 	3E4 	3FF 	0000 	0000 	0000 	0000 	190
+J3 	0E6 	2C2 	09A 	1C7 	399 	0000 	0000 	0000 	0000 	180
+H2 	398 	2FB 	222 	2AB 	29A 	0000 	0000 	0000 	0000 	175
+J0 	29E 	132 	3EF 	38E 	267 	0000 	0000 	0000 	0000 	170
+U3 	24C 	204 	066 	3E4 	19B 	0000 	0000 	0000 	0000 	170
+V0 	072 	1FA 	080 	08E 	201 	0000 	0000 	0000 	0000 	160
+V2 	36B 	261 	19A 	28E 	366 	0000 	0000 	0000 	0000 	156
+S3 	109 	078 	13C 	272 	267 	0001 	0001 	0272 	0025 	150
+S2 	3B1 	351 	0E6 	1E4 	300 	0000 	0002 	01E4 	0026 	145
+S0 	29D 	108 	2D5 	272 	366 	0003 	0002 	0272 	0005 	135
+S1 	088 	345 	091 	28E 	1CE 	0000 	0002 	028E 	0026 	135
+V3 	1EB 	1B3 	300 	30E 	267 	0000 	0000 	0000 	0000 	131
+H1 	064 	275 	29A 	072 	399 	0000 	0000 	0000 	0000 	130
+T1 	2C8 	317 	289 	21C 	333 	0000 	0000 	0000 	0000 	130
+H3 	36A 	0B4 	100 	18E 	300 	0000 	0000 	0000 	0000 	126
+J1 	14B 	055 	311 	2AB 	300 	0000 	0000 	0000 	0000 	125
+V1 	34A 	3CE 	2EF 	38E 	300 	0100 	0000 	0000 	0000 	115
+U0 	210 	2E3 	389 	347 	333 	0000 	0000 	0000 	0000 	111
+K0 	3E1 	0BE 	2F7 	000 	234 	02EA 	0301 	0000 	0000 	107
+K2 	04A 	160 	300 	039 	2CD 	00EA 	0101 	0000 	0000 	104
+K1 	074 	03F 	1F7 	000 	3CC 	01EA 	0201 	0000 	0000 	91
+K3 	330 	3B6 	3E6 	039 	300 	03E9 	0400 	0000 	0000 	67
+G3 	    	    	    	    	dead	     	     	     	     	-15
+Tank K1 captures a lifepack 
+Tank T1 hits tank K1
+Tank S0 hits tank K0
+Tank V0 bug= 43, PC= C20D 
+Tank T0 hits tank T1
+Tank U2 hits tank K1
+Tank T2 hits tank K3
+Tank U0 hits tank T1
+Tank K3 crashes into tank T2
+Tank T2 crashes into tank K3
+Tank V1 hits tank H1
+Tank H0 hits tank H2
+Tank V2 hits tank S2
+Tank J2 hits tank S2
+Tank J0 hits tank H1
+Tank H1 hits tank J0
+Tank J1 hits tank U3
+Tank H3 hits tank H0
+Tank S2 crashes into tank J2
+Tank J2 crashes into tank S2
+Tank U0 captures a lifepack 
+Tank K3 crashes into tank T2
+Tank T2 crashes into tank K3
+Tank S2 hits tank V2
+Tank T0 hits tank U2
+Tank U2 hits tank T1
+Tank T1 hits tank K1
+Tank T3 hits tank U1
+Tank H2 crashes into tank H0
+Tank U3 hits tank J1
+Tank V3 hits tank K3
+Tank U0 hits tank T1
+Tank V1 hits tank T0
+Tank J2 hits tank V2
+Tank H1 hits tank T0
+Tank J1 hits tank U3
+Tank K2 hits tank K0
+Tank V2 hits tank H0
+Tank H1 crashes into tank T0
+Tank T0 crashes into tank H1
+Tank S3 hits tank J0
+Tank U2 hits tank T0
+Tank S1 hits tank S0
+Tank T0 hits tank H1
+Tank T1 hits tank K1
+Tank U1 hits tank J1
+Tank V3 hits tank H0
+Tank H1 captures a lifepack 
+Tank T2 hits tank K3
+Tank U3 hits tank J1
+Tank U0 hits tank T1
+Tank V1 hits tank U2
+Tank H2 hits tank V3
+Tank K2 hits tank K0
+Tank H2 captures a lifepack 
+Tank S1 hits tank S0
+Tank S0 hits tank S1
+Tank U2 hits tank T0
+Tank T0 hits tank V1
+Tank T3 hits tank S3
+Tank T1 hits tank K1
+Tank U1 hits tank J1
+Tank T2 hits tank K3
+Tank U3 hits tank J1
+Tank H0 hits tank T2
+Tank J2 hits tank H1
+Tank H1 hits tank J2
+Tank J3 hits tank H0
+Tank V2 hits tank H1
+Tank J1 hits tank T0
+Tank K2 hits tank K0
+Tank U1 captures a lifepack 
+Tank T3 hits tank S3
+Tank U2 hits tank T0
+Tank T1 hits tank K1
+Tank V3 hits tank H2
+Tank U1 hits tank U3
+Tank U0 hits tank K1
+Tank U3 hits tank S3
+Tank V3 crashes into tank H2
+Tank T2 hits tank K3
+Tank J1 hits tank T0
+Tank J2 hits tank V2
+Tank K2 hits tank K0
+Tank G3 bug= 25, PC= C193 
+Tank G3 bug= 25, PC= C193 
+Tank G3 bug= 25, PC= C193 
+Tank G3 bug= 25, PC= C193 
+Tank G3 bug= 25, PC= C193 
+Tank G3 bug= 25, PC= C193 
+Tank G3 bug= 25, PC= C193 
+Tank G3 bug= 25, PC= C193 
+Tank G3 bug= 25, PC= C193 
+Tank K1 hits tank T1
+Tank T1 hits tank K1
+Tank S3 hits tank T3
+Tank T0 hits tank V1
+Tank U1 hits tank U3
+Tank U2 hits tank V1
+Tank V3 hits tank H2
+Tank U0 hits tank V0
+Tank U3 hits tank S3
+Tank T2 hits tank J3
+Tank J0 hits tank H3
+Tank J3 hits tank H1
+Tank K2 hits tank K0
+Tank V2 bug= 43, PC= C20D 
+Tank V1 captures a lifepack 
+Tank K1 hits tank T1
+Tank S3 hits tank U3
+Tank T1 hits tank K1
+Tank U1 hits tank U3
+Tank T0 hits tank V1
+Tank T3 hits tank J2
+Tank U3 hits tank S3
+Tank T2 hits tank U2
+Tank V1 hits tank T0
+Tank H0 hits tank U2
+Tank J2 hits tank V2
+Tank V0 hits tank S1
+Tank K2 hits tank K0
+Tank V1 bug= 43, PC= C20D 
+Tank S0 hits tank K0
+Tank S2 hits tank V1
+Tank T0 hits tank V1
+Tank U1 hits tank U3
+Tank U2 hits tank T2
+Tank U0 hits tank S0
+Tank U3 hits tank S3
+Tank T2 hits tank U2
+Tank H1 hits tank V3
+Tank H0 hits tank U2
+Tank J3 hits tank T3
+Tank V2 hits tank J3
+Tank K2 hits tank K0
+Tank K2 crashes into tank K0
+Tank G3 bug= 25, PC= C1B7 
+Tank T3 captures a lifepack 
+Tank S2 hits tank V1
+Tank T1 hits tank K1
+Tank S0 hits tank K0
+Tank T0 hits tank U0
+Tank U1 hits tank U3
+Tank T3 hits tank J2
+Tank U0 hits tank S0
+Tank U3 hits tank S3
+Tank V1 hits tank S2
+Tank H1 hits tank J0
+Tank J1 hits tank S0
+Tank J3 hits tank J2
+Tank V2 hits tank J3
+Tank K2 hits tank U0
+Tank S0 hits tank J1
+Tank T1 hits tank V0
+Tank S2 hits tank U1
+Tank T0 hits tank K2
+Tank U1 hits tank U3
+Tank T3 hits tank J2
+Tank U3 hits tank U1
+Tank V2 crashes into tank J3
+Tank T2 hits tank U3
+Tank K3 crashes into tank G3
+Tank V1 hits tank S2
+Tank H2 hits tank S2
+Tank V0 hits tank V2
+Tank S3 hits tank U0
+Tank U2 hits tank K3
+Tank V0 bug= 43, PC= C20D 
+Tank U1 hits tank U3
+Tank H0 captures a lifepack 
+Tank T0 hits tank U0
+Tank T3 hits tank J2
+Tank V3 hits tank H1
+Tank U3 hits tank U1
+Tank U0 hits tank T0
+Tank J0 hits tank H1
+Tank H0 hits tank U1
+Tank J3 hits tank V2
+Tank V2 hits tank J3
+Tank S0 hits tank J2
+Tank S3 hits tank U0
+Tank T0 hits tank H0
+Tank T3 hits tank J1
+Tank T1 hits tank S0
+Tank U2 hits tank K3
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File H0.sx loads 2009 bytes
+File J0.sx loads 2009 bytes
+File K0.sx loads 1515 bytes
+File S0.sx loads 1095 bytes
+File T0.sx loads 1187 bytes
+File U0.sx loads 1187 bytes
+File V0.sx loads 878 bytes
+File H1.sx loads 2009 bytes
+File J1.sx loads 2009 bytes
+File K1.sx loads 1515 bytes
+File S1.sx loads 1095 bytes
+File T1.sx loads 1187 bytes
+File U1.sx loads 1187 bytes
+File V1.sx loads 878 bytes
+File H2.sx loads 2009 bytes
+File J2.sx loads 2009 bytes
+File K2.sx loads 1515 bytes
+File S2.sx loads 1095 bytes
+File T2.sx loads 1187 bytes
+File U2.sx loads 1187 bytes
+File V2.sx loads 878 bytes
+File G3.sx loads 595 bytes
+File H3.sx loads 2009 bytes
+File J3.sx loads 2009 bytes
+File K3.sx loads 1515 bytes
+File S3.sx loads 1095 bytes
+File T3.sx loads 1187 bytes
+File U3.sx loads 1187 bytes
+File V3.sx loads 878 bytes
+Camera = manual
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+Camera = manual
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+Tank H0 is now the player
+Tank J0 is now the player
+Tank K0 is now the player
+Tank S0 is now the player
+Tank T0 is now the player
+Tank U0 is now the player
+Tank V0 is now the player
+Tank H1 is now the player
+Tank J1 is now the player
+Tank K1 is now the player
+Tank S1 is now the player
+Tank T1 is now the player
+Tank U1 is now the player
+Tank V1 is now the player
+Tank H2 is now the player
+Tank J2 is now the player
+Tank K2 is now the player
+Tank S2 is now the player
+Tank T2 is now the player
+Tank U2 is now the player
+Tank V2 is now the player
+Tank G3 is now the player
+Tank T3 captures a lifepack 
+Tank T2 hits tank J0
+Tank T0 hits tank U0
+Tank U1 hits tank S0
+Tank U2 hits tank H1
+Tank T3 hits tank V3
+Tank H0 captures a lifepack 
+Tank H1 hits tank U2
+Tank H3 hits tank J2
+Tank J2 hits tank H3
+Tank U1 captures a lifepack 
+Tank V3 captures a lifepack 
+Tank K0 crashes into tank U0
+Tank V1 bug= 43, PC= C20D 
+Tank T2 crashes into tank J0
+Tank V3 crashes into tank T3
+Tank S1 hits tank U0
+Tank T0 hits tank S1
+Tank T3 hits tank V3
+Tank U2 hits tank H1
+Tank V3 bug= 43, PC= C20D 
+Tank U0 hits tank T0
+Tank T1 hits tank K2
+Tank U3 hits tank V0
+Tank H2 captures a lifepack 
+Tank H3 hits tank T2
+Tank T2 crashes into tank H3
+Tank J0 hits tank T2
+Tank H2 hits tank S2
+Tank S3 hits tank V2
+Tank U1 hits tank V0
+Tank V3 hits tank T3
+Tank T2 hits tank H3
+Tank T1 hits tank H1
+Tank U2 hits tank J2
+Tank U0 hits tank S1
+Tank U1 crashes into tank S0
+Tank T3 hits tank V3
+Tank U3 hits tank V0
+Tank H3 hits tank H2
+Tank H2 crashes into tank H3
+Tank H3 crashes into tank H2
+Tank H1 hits tank T1
+Tank J2 hits tank U2
+Tank H0 hits tank H3
+Tank J1 hits tank U1
+Tank S1 hits tank S3
+Tank S0 hits tank U1
+Tank U1 hits tank S0
+Tank T0 hits tank S1
+Tank T2 hits tank J0
+Tank T1 hits tank U2
+Tank U0 hits tank S3
+Tank V3 hits tank T3
+Tank K1 hits tank U1
+Tank U2 hits tank J2
+Tank U3 hits tank J1
+Tank J1 hits tank V0
+Tank J0 hits tank V1
+Tank G3 crashes into tank K1
+Tank H0 hits tank S2
+Tank K1 crashes into tank G3
+Tank J2 hits tank U2
+Tank K1 crashes into tank U1
+Tank S1 hits tank V2
+Tank T0 hits tank S3
+Tank S3 hits tank V2
+Tank K1 hits tank K2
+Tank V1 hits tank T1
+Tank T1 hits tank U2
+Tank K2 hits tank U1
+Tank U2 hits tank J2
+Tank U3 hits tank U0
+Tank T3 hits tank K0
+Tank H0 hits tank V3
+Tank J0 hits tank V1
+Tank H3 hits tank J2
+Tank K1 crashes into tank K2
+Tank J3 hits tank S1
+Tank S0 hits tank U0
+Tank U1 hits tank K2
+Tank T0 hits tank S3
+Tank T1 hits tank U2
+Tank V2 hits tank S3
+Tank V3 hits tank K0
+Tank U0 hits tank S0
+Tank U3 hits tank S0
+Tank J0 hits tank K3
+Tank J1 hits tank V0
+Tank K1 captures a lifepack 
+Tank V2 crashes into tank T0
+Tank J0 crashes into tank K3
+Tank K3 crashes into tank J0
+Tank H3 crashes into tank T1
+Tank T1 crashes into tank H3
+Tank K2 captures a lifepack 
+Tank S0 hits tank U3
+Tank H0 captures a lifepack 
+Tank U1 hits tank K2
+Tank V3 hits tank K0
+Tank T1 hits tank H3
+Tank U0 hits tank H1
+Tank U3 hits tank S0
+Tank U2 hits tank H3
+Tank V3 captures a lifepack 
+Tank T3 hits tank S0
+Tank J0 hits tank K3
+Tank H0 hits tank S1
+Tank U0 crashes into tank H1
+Tank H1 crashes into tank U0
+Tank V0 crashes into tank K1
+Tank U1 hits tank J1
+Tank T0 hits tank S3
+Tank U0 hits tank H1
+Tank K0 hits tank V3
+Tank U2 hits tank H3
+Tank U3 hits tank S0
+Tank T1 hits tank U2
+Tank K2 crashes into tank K1
+Tank T3 hits tank S3
+Tank J1 crashes into tank V0
+Tank V0 crashes into tank J1
+Tank H3 hits tank U2
+Tank H1 hits tank U0
+Tank J3 hits tank T0
+Tank V3 bug= 43, PC= C20D 
+Tank T2 hits tank T3
+Tank U1 hits tank V0
+Tank T1 hits tank J2
+Tank T3 hits tank T2
+Tank V3 hits tank J2
+Tank V0 hits tank U1
+Tank U0 hits tank U1
+Tank H1 hits tank J1
+Tank J1 hits tank H1
+Tank J2 hits tank T1
+Tank J3 hits tank T0
+Tank K1 hits tank V0
+Tank T3 crashes into tank T2
+Tank S3 hits tank S1
+Tank T0 hits tank S0
+Tank H1 captures a lifepack 
+Tank T2 hits tank T3
+Tank U1 hits tank V0
+Tank U0 hits tank T2
+Tank V0 hits tank U1
+Tank V2 hits tank U1
+Tank U3 hits tank S2
+Tank V1 hits tank T2
+Tank U2 hits tank H3
+Tank T3 hits tank U1
+Tank K2 hits tank K1
+Tank H3 hits tank S3
+Tank J1 hits tank K3
+Tank H0 hits tank J3
+Tank K1 hits tank V0
+Tank J3 captures a lifepack 
+Tank V2 hits tank T2
+Tank U1 hits tank K1
+Tank T2 hits tank T3
+Tank V0 hits tank U1
+Tank T1 hits tank V3
+Tank U2 hits tank S3
+Tank U3 hits tank S2
+Tank T3 hits tank U1
+Tank U0 hits tank T2
+Tank K2 hits tank K1
+Tank J0 hits tank H3
+Tank H3 hits tank J0
+Tank H0 hits tank S2
+Tank K1 hits tank V0
+Tank J0 crashes into tank H3
+Tank H2 captures a lifepack 
+Tank K3 captures a lifepack 
+Tank T2 crashes into tank V0
+Tank V0 crashes into tank T2
+Tank U1 hits tank T2
+Tank V2 hits tank T3
+Tank T0 hits tank S0
+Tank T2 hits tank V0
+Tank V3 hits tank S3
+Tank T1 hits tank V3
+Tank V0 hits tank T3
+Tank U3 hits tank S2
+Tank T3 hits tank U1
+Tank U0 hits tank T3
+Tank K2 hits tank K1
+Tank J0 hits tank S3
+Tank H0 hits tank T3
+Tank K1 hits tank V0
+Tank J0 crashes into tank S3
+Tank H0 crashes into tank U1
+Tank U1 crashes into tank H0
+Tank K0 crashes into tank J2
+Tank S0 hits tank U2
+Tank U1 hits tank H0
+Tank T0 hits tank J3
+Tank V0 hits tank G3
+Tank T2 hits tank K1
+Tank U2 hits tank S0
+Tank U3 hits tank S2
+Tank U0 hits tank H3
+Tank T1 hits tank K0
+Tank T3 hits tank V0
+Tank K2 hits tank K1
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File H0.sx loads 2009 bytes
+File J0.sx loads 2009 bytes
+File K0.sx loads 1515 bytes
+File S0.sx loads 1095 bytes
+File T0.sx loads 1187 bytes
+File U0.sx loads 1187 bytes
+File V0.sx loads 878 bytes
+File H1.sx loads 2009 bytes
+File J1.sx loads 2009 bytes
+File K1.sx loads 1515 bytes
+File S1.sx loads 1095 bytes
+File T1.sx loads 1187 bytes
+File U1.sx loads 1187 bytes
+File V1.sx loads 878 bytes
+File H2.sx loads 2009 bytes
+File J2.sx loads 2009 bytes
+File K2.sx loads 1515 bytes
+File S2.sx loads 1095 bytes
+File T2.sx loads 1187 bytes
+File U2.sx loads 1187 bytes
+File V2.sx loads 878 bytes
+File G3.sx loads 593 bytes
+File H3.sx loads 2009 bytes
+File J3.sx loads 2009 bytes
+File K3.sx loads 1515 bytes
+File S3.sx loads 1095 bytes
+File T3.sx loads 1187 bytes
+File U3.sx loads 1187 bytes
+File V3.sx loads 878 bytes
+Tank V1 captures a lifepack 
+Camera = manual
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+Camera = manual
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+Tank H0 is now the player
+Tank J0 is now the player
+Tank K0 is now the player
+Tank S0 is now the player
+Tank T0 is now the player
+Tank U0 is now the player
+Tank V0 is now the player
+Tank H1 is now the player
+Tank J1 is now the player
+Tank K1 is now the player
+Tank S1 is now the player
+Tank T1 is now the player
+Tank U1 is now the player
+Tank V1 is now the player
+Tank H2 is now the player
+Tank J2 is now the player
+Tank K2 is now the player
+Tank S2 is now the player
+Tank T2 is now the player
+Tank U2 is now the player
+Tank V2 is now the player
+Tank G3 is now the player
+Tank V0 bug= 43, PC= C20D 
+Tank K3 captures a lifepack 
+Tank K2 bug= 25, PC= C595 
+Tank K2 bug= 25, PC= C443 
+Tank K3 bug= 25, PC= C5BF 
+Tank T0 hits tank H1
+Tank T3 hits tank U2
+Tank S2 hits tank K3
+Tank T2 hits tank J0
+Tank U1 hits tank T2
+Tank V2 hits tank K1
+Tank V3 hits tank K0
+Tank U2 hits tank J2
+Tank U0 hits tank V3
+Tank V0 hits tank H3
+Tank J1 hits tank U3
+Tank J0 hits tank T2
+Tank H2 hits tank U3
+Tank H1 crashes into tank T0
+Tank T0 crashes into tank H1
+Tank T0 hits tank H1
+Tank T3 hits tank J2
+Tank T2 hits tank J0
+Tank V3 hits tank V1
+Tank U1 hits tank K3
+Tank T1 hits tank S2
+Tank V1 hits tank K0
+Tank U2 hits tank J2
+Tank U3 hits tank H2
+Tank U0 captures a lifepack 
+Tank J3 hits tank T3
+Tank H1 hits tank T0
+Tank T3 crashes into tank J3
+Tank J3 crashes into tank T3
+Tank V3 bug= 43, PC= C20D 
+Tank K0 crashes into tank V3
+Tank V3 crashes into tank K0
+Tank K2 hits tank S1
+Tank H3 captures a lifepack 
+Tank V1 bug= 43, PC= C20D 
+Tank V3 hits tank K0
+Tank T3 hits tank J3
+Tank T2 hits tank K1
+Tank U3 hits tank H2
+Tank V0 hits tank S1
+Tank H2 hits tank U3
+Tank J2 hits tank T3
+Tank K1 hits tank J0
+Tank S1 crashes into tank V0
+Tank V0 crashes into tank S1
+Tank S1 hits tank V0
+Tank T2 hits tank K1
+Tank T3 hits tank J3
+Tank U3 hits tank H2
+Tank U1 hits tank S0
+Tank T0 hits tank H1
+Tank V2 captures a lifepack 
+Tank J0 hits tank K1
+Tank J3 hits tank S3
+Tank H3 hits tank H0
+Tank K1 hits tank J0
+Tank V2 crashes into tank V3
+Tank V3 crashes into tank V2
+Tank T0 hits tank K3
+Tank S2 hits tank T1
+Tank V0 hits tank H3
+Tank U1 hits tank S0
+Tank T1 hits tank S2
+Tank T3 hits tank J3
+Tank V0 crashes into tank H3
+Tank H3 crashes into tank V0
+Tank V1 hits tank K0
+Tank U3 hits tank H2
+Tank H0 hits tank H1
+Tank H3 hits tank V0
+Tank S3 hits tank U2
+Tank S1 hits tank K2
+Tank S2 hits tank T2
+Tank S0 hits tank U1
+Tank U1 hits tank S0
+Tank T2 hits tank J0
+Tank T0 hits tank K3
+Tank T3 hits tank J3
+Tank T1 hits tank S2
+Tank V3 hits tank V2
+Tank U3 hits tank J3
+Tank V0 hits tank H3
+Tank H2 hits tank U0
+Tank H1 hits tank T3
+Tank H0 hits tank T3
+Tank U0 hits tank H2
+Tank J0 hits tank T1
+Tank J2 hits tank T3
+Tank J1 hits tank T2
+Tank H3 hits tank V0
+Tank V3 bug= 43, PC= C20D 
+Tank U2 hits tank S3
+Tank S2 captures a lifepack 
+Tank H2 crashes into tank U0
+Tank K1 bug= 43, PC= C443 
+Tank V2 bug= 43, PC= C20D 
+Tank S0 hits tank U1
+Tank T2 hits tank J0
+Tank U3 hits tank S1
+Tank S2 hits tank J0
+Tank V0 hits tank T3
+Tank V2 hits tank V1
+Tank T1 hits tank T2
+Tank J0 hits tank T2
+Tank V3 crashes into tank K0
+Tank U0 hits tank H2
+Tank V3 crashes into tank K0
+Tank V3 crashes into tank K0
+Tank V3 crashes into tank K0
+Tank K0 crashes into tank V3
+Tank V3 crashes into tank K0
+Tank U2 hits tank K2
+Tank K2 hits tank U2
+Tank T2 captures a lifepack 
+Tank K2 crashes into tank U2
+Tank U2 crashes into tank K2
+Tank J0 crashes into tank J2
+Tank J2 crashes into tank J0
+Tank U1 crashes into tank U0
+Tank S3 hits tank H2
+Tank U1 hits tank U0
+Tank S1 hits tank K2
+Tank V2 hits tank T1
+Tank T2 hits tank J0
+Tank T1 hits tank V2
+Tank T0 hits tank G3
+Tank U3 hits tank S1
+Tank G3 hits tank T0
+Tank J1 hits tank T2
+Tank V2 crashes into tank T1
+Tank J3 hits tank V1
+Tank T1 crashes into tank V2
+Tank J2 hits tank J0
+Tank H1 hits tank H3
+Tank U0 hits tank S0
+Tank T3 hits tank V0
+Tank U2 hits tank U3
+Tank J1 captures a lifepack 
+Tank K2 hits tank S1
+Tank V3 bug= 43, PC= C20D 
+Tank T2 hits tank J1
+Tank S1 hits tank K2
+Tank S2 hits tank H0
+Tank V2 hits tank T1
+Tank T0 hits tank G3
+Tank V1 hits tank J1
+Tank T1 hits tank V2
+Tank U3 hits tank K2
+Tank V0 hits tank J1
+Tank J1 crashes into tank T2
+Tank H1 hits tank H3
+Tank U0 hits tank H2
+Tank T3 hits tank J2
+Tank U2 hits tank U3
+Tank J2 crashes into tank T3
+Tank K3 captures a lifepack 
+Tank S3 hits tank S2
+Tank S1 hits tank H3
+Tank S2 hits tank S3
+Tank V1 hits tank J1
+Tank U1 hits tank H2
+Tank T0 hits tank K1
+Tank V3 hits tank K0
+Tank V0 hits tank U1
+Tank J1 hits tank V1
+Tank J0 hits tank G3
+Tank H3 hits tank S1
+Tank H0 hits tank U0
+Tank K1 crashes into tank G3
+Tank U0 hits tank H2
+Tank T3 hits tank J2
+Tank S1 hits tank K2
+Tank S2 hits tank H3
+Tank U1 hits tank H2
+Tank T2 hits tank U1
+Tank V0 hits tank T2
+Tank H2 hits tank U0
+Tank H0 hits tank U0
+Tank U0 hits tank H2
+Tank T3 hits tank J2
+Tank U2 hits tank S3
+Tank T2 hits tank U1
+Tank U3 hits tank S2
+Tank T0 hits tank T1
+Tank T1 hits tank J1
+Tank J0 hits tank T0
+Tank H3 hits tank U3
+Tank U0 hits tank H2
+Tank H0 hits tank U0
+Tank H2 hits tank H0
+Tank U2 hits tank S3
+Tank V2 hits tank S0
+Tank T1 hits tank J1
+Tank U3 hits tank S2
+Tank V0 hits tank V3
+Tank K2 crashes into tank K3
+Tank K3 crashes into tank K2
+Tank H2 hits tank U0
+Tank J2 hits tank T0
+Tank J3 hits tank U0
+Tank U0 hits tank H2
+Tank H0 hits tank T0
+Tank T3 hits tank V1
+Tank U3 crashes into tank T2
+Tank V2 bug= 43, PC= C20D 
+Tank H0 crashes into tank T0
+Tank T0 crashes into tank H0
+Tank S3 hits tank H3
+Tank S2 hits tank U3
+Tank U1 hits tank S2
+Tank T1 hits tank J0
+Tank V0 hits tank V3
+Tank V3 hits tank U0
+Tank G3 hits tank T0
+Tank U0 hits tank H2
+Tank H3 hits tank S3
+Tank T3 hits tank V1
+Tank V1 bug= 43, PC= C20D 
+Tank K1 crashes into tank G3
+Tank S1 hits tank V1
+Tank U1 hits tank S2
+Tank T0 hits tank U0
+Tank V0 hits tank S0
+Tank J1 crashes into tank H2
+Tank H2 crashes into tank J1
+Tank T1 hits tank J0
+Tank K1 hits tank J2
+Tank H2 hits tank J1
+Tank U0 hits tank J1
+Tank T3 hits tank U1
+Tank U2 hits tank S3
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File H0.sx loads 2009 bytes
+File J0.sx loads 2009 bytes
+File K0.sx loads 1515 bytes
+File S0.sx loads 1095 bytes
+File T0.sx loads 1187 bytes
+File U0.sx loads 1187 bytes
+File V0.sx loads 878 bytes
+File H1.sx loads 2009 bytes
+File J1.sx loads 2009 bytes
+File K1.sx loads 1515 bytes
+File S1.sx loads 1095 bytes
+File T1.sx loads 1187 bytes
+File U1.sx loads 1187 bytes
+File V1.sx loads 878 bytes
+File H2.sx loads 2009 bytes
+File J2.sx loads 2009 bytes
+File K2.sx loads 1515 bytes
+File S2.sx loads 1095 bytes
+File T2.sx loads 1187 bytes
+File U2.sx loads 1187 bytes
+File V2.sx loads 878 bytes
+File G3.sx loads 593 bytes
+File H3.sx loads 2009 bytes
+File J3.sx loads 2009 bytes
+File K3.sx loads 1515 bytes
+File S3.sx loads 1095 bytes
+File T3.sx loads 1187 bytes
+File U3.sx loads 1187 bytes
+File V3.sx loads 878 bytes
+Tank H0 is now the player
+Tank J0 is now the player
+Tank K0 is now the player
+Tank S0 is now the player
+Tank T0 is now the player
+Tank U0 is now the player
+Tank V0 is now the player
+Tank H1 is now the player
+Tank J1 is now the player
+Tank K1 is now the player
+Tank S1 is now the player
+Tank T1 is now the player
+Tank U1 is now the player
+Tank V1 is now the player
+Tank H2 is now the player
+Tank J2 is now the player
+Tank K2 is now the player
+Tank S2 is now the player
+Tank T2 is now the player
+Tank U2 is now the player
+Tank V2 is now the player
+Tank G3 is now the player
+Tank H3 is now the player
+Tank J3 is now the player
+Tank K3 is now the player
+Tank S3 is now the player
+Tank T3 is now the player
+Tank U3 is now the player
+Tank V3 is now the player
+Tank H0 is now the player
+Tank J0 is now the player
+Tank K0 is now the player
+Tank S0 is now the player
+Tank T0 is now the player
+Tank U0 is now the player
+Tank V0 is now the player
+Tank H1 is now the player
+Tank J1 is now the player
+Tank K1 is now the player
+Tank S1 is now the player
+Tank T1 is now the player
+Tank U1 is now the player
+Tank V1 is now the player
+Tank H2 is now the player
+Tank J2 is now the player
+Tank K2 is now the player
+Tank S2 is now the player
+Tank T2 is now the player
+Tank U2 is now the player
+Tank V2 is now the player
+Tank G3 is now the player
+Tank H3 is now the player
+Tank J3 is now the player
+Tank K3 is now the player
+Tank S3 is now the player
+Tank T3 is now the player
+Tank U3 is now the player
+Tank V3 is now the player
+Tank H0 is now the player
+Tank J0 is now the player
+Tank K0 is now the player
+Tank S0 is now the player
+Tank T0 is now the player
+Tank U0 is now the player
+Tank V0 is now the player
+Tank H1 is now the player
+Tank J1 is now the player
+Tank K1 is now the player
+Tank S1 is now the player
+Tank T1 is now the player
+Tank U1 is now the player
+Tank V1 is now the player
+Tank H2 is now the player
+Tank J2 is now the player
+Tank K2 is now the player
+Tank S2 is now the player
+Tank T2 is now the player
+Tank U2 is now the player
+Tank V2 is now the player
+Tank G3 is now the player
+Tank J1 captures a lifepack 
+Tank U2 crashes into tank V2
+Tank S2 hits tank H3
+Tank T0 hits tank H2
+Tank T1 hits tank K1
+Tank U0 hits tank G3
+Tank V3 hits tank J1
+Tank V2 crashes into tank U2
+Tank T3 hits tank S3
+Tank T2 hits tank T1
+Tank U1 hits tank U3
+Tank J0 hits tank V0
+Tank H2 hits tank K0
+Tank H3 hits tank S2
+Tank J1 hits tank S0
+Tank K1 hits tank J3
+Tank T0 hits tank H2
+Tank U0 hits tank J2
+Tank T1 hits tank K1
+Tank T2 hits tank T1
+Tank V2 hits tank J2
+Tank H0 captures a lifepack 
+Tank J0 hits tank V0
+Tank J1 hits tank S0
+Tank J0 crashes into tank V0
+Tank J3 crashes into tank K1
+Tank K1 crashes into tank J3
+Tank T1 hits tank V0
+Tank T0 hits tank H2
+Tank V1 hits tank S2
+Tank T2 hits tank T1
+Tank T3 hits tank S2
+Tank V2 hits tank U0
+Tank U1 hits tank U0
+Tank H2 hits tank T0
+Tank H1 hits tank K1
+Tank J1 hits tank V3
+Tank V0 hits tank S0
+Tank U0 hits tank J2
+Tank V3 hits tank S3
+Tank T1 hits tank K1
+Tank T2 hits tank T1
+Tank T3 hits tank S3
+Tank U3 hits tank V2
+Tank J3 hits tank J0
+Tank V0 hits tank S1
+Tank S0 hits tank J0
+Tank V3 hits tank J1
+Tank U0 hits tank J2
+Tank T1 hits tank T2
+Tank V1 hits tank H0
+Tank T3 hits tank J1
+Tank T2 hits tank T1
+Tank J2 hits tank U3
+Tank J0 hits tank S0
+Tank J1 hits tank S3
+Tank U3 hits tank V2
+Tank H2 hits tank J1
+Tank V0 hits tank H1
+Tank J3 hits tank H3
+Tank K0 hits tank T3
+Tank K0 crashes into tank T3
+Tank T3 crashes into tank K0
+Tank U0 crashes into tank U3
+Tank U3 crashes into tank U0
+Tank S0 hits tank J3
+Tank S2 hits tank H0
+Tank U0 hits tank U3
+Tank T1 hits tank S0
+Tank S3 hits tank H2
+Tank V3 hits tank T3
+Tank T3 hits tank K0
+Tank T2 hits tank J3
+Tank S3 crashes into tank V3
+Tank J0 hits tank S0
+Tank H3 hits tank J0
+Tank U3 hits tank U0
+Tank H0 hits tank S2
+Tank J2 hits tank V2
+Tank V3 crashes into tank K0
+Tank H1 hits tank S1
+Tank J1 hits tank T3
+Tank U1 hits tank T2
+Tank K1 captures a lifepack 
+Tank V1 hits tank K3
+Tank U2 hits tank S2
+Tank T1 hits tank J0
+Tank V3 hits tank S3
+Tank U0 hits tank U3
+Tank H1 hits tank J2
+Tank H3 hits tank S0
+Tank J3 hits tank J0
+Tank H2 hits tank U1
+Tank U3 hits tank S2
+Tank K3 crashes into tank V1
+Tank T0 hits tank J0
+Tank S0 hits tank H3
+Tank U3 captures a lifepack 
+Tank U2 hits tank S2
+Tank T1 hits tank J0
+Tank V2 hits tank J2
+Tank V1 hits tank G3
+Tank T3 hits tank K0
+Tank V3 hits tank T2
+Tank U0 hits tank S2
+Tank T2 hits tank U1
+Tank U3 hits tank S2
+Tank H3 hits tank S0
+Tank J3 hits tank T0
+Tank T0 hits tank J0
+Tank U1 hits tank T2
+Tank V3 crashes into tank T2
+Tank V2 bug= 43, PC= C20D 
+Tank V0 bug= 43, PC= C20D 
+Tank U2 hits tank K1
+Tank S3 hits tank T1
+Tank S0 hits tank H3
+Tank S2 hits tank U3
+Tank S1 hits tank J2
+Tank V2 hits tank J2
+Tank T2 hits tank U1
+Tank T3 hits tank K0
+Tank H3 hits tank S0
+Tank V0 hits tank H1
+Tank J2 hits tank V2
+Tank U3 hits tank S2
+Tank J3 hits tank T1
+Tank J1 hits tank H2
+Tank T0 hits tank J0
+Tank U1 hits tank T2
+Tank U2 hits tank K1
+Tank T1 hits tank S3
+Tank V3 hits tank U1
+Tank T3 hits tank V3
+Tank V2 hits tank J2
+Tank T2 hits tank U1
+Tank S1 crashes into tank S2
+Tank V1 bug= 43, PC= C20D 
+Tank U3 hits tank J0
+Tank H1 hits tank V0
+Tank H0 hits tank V0
+Tank J0 hits tank U3
+Tank V0 hits tank H1
+Tank T0 hits tank J0
+Tank U1 hits tank T2
+Tank V2 bug= 43, PC= C20D 
+Tank U0 hits tank V1
+Tank S1 hits tank S2
+Tank U2 hits tank J0
+Tank T1 hits tank S3
+Tank V3 hits tank U1
+Tank T3 hits tank J3
+Tank T2 hits tank U1
+Tank U3 hits tank T0
+Tank H0 hits tank H1
+Tank H3 hits tank J2
+Tank V0 hits tank H0
+Tank H2 captures a lifepack 
+Tank T0 hits tank U3
+Tank U0 crashes into tank V1
+Tank U2 hits tank T0
+Tank U0 hits tank K3
+Tank V1 hits tank K3
+Tank T1 hits tank T3
+Tank V2 hits tank H3
+Tank T3 hits tank J3
+Tank T2 hits tank U1
+Tank H1 hits tank J0
+Tank J1 hits tank T2
+Tank H2 hits tank G3
+Tank U3 hits tank T0
+Tank J0 hits tank V0
+Tank T0 hits tank U3
+Tank U1 hits tank V3
+Tank S1 crashes into tank V2
+Tank U0 hits tank K3
+Tank S1 hits tank V2
+Tank U2 hits tank T0
+Tank T1 hits tank T3
+Tank V1 hits tank U0
+Tank V2 hits tank H3
+Tank T3 hits tank U3
+Tank T2 hits tank U1
+Tank J3 hits tank U2
+Tank J1 hits tank J3
+Tank U3 hits tank S0
+Tank H0 hits tank T0
+Tank H2 hits tank K1
+Tank V1 bug= 43, PC= C20D 
+Tank G3 hits tank H2
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File H0.sx loads 2009 bytes
+File J0.sx loads 2009 bytes
+File K0.sx loads 1515 bytes
+File S0.sx loads 1095 bytes
+File T0.sx loads 1187 bytes
+File U0.sx loads 1187 bytes
+File V0.sx loads 878 bytes
+File H1.sx loads 2009 bytes
+File J1.sx loads 2009 bytes
+File K1.sx loads 1515 bytes
+File S1.sx loads 1095 bytes
+File T1.sx loads 1187 bytes
+File U1.sx loads 1187 bytes
+File V1.sx loads 878 bytes
+File H2.sx loads 2009 bytes
+File J2.sx loads 2009 bytes
+File K2.sx loads 1515 bytes
+File S2.sx loads 1095 bytes
+File T2.sx loads 1187 bytes
+File U2.sx loads 1187 bytes
+File V2.sx loads 878 bytes
+File G3.sx loads 591 bytes
+File H3.sx loads 2009 bytes
+File J3.sx loads 2009 bytes
+File K3.sx loads 1515 bytes
+File S3.sx loads 1095 bytes
+File T3.sx loads 1187 bytes
+File U3.sx loads 1187 bytes
+File V3.sx loads 878 bytes
+Camera = manual
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+Tank H0 is now the player
+Tank J0 is now the player
+Tank K0 is now the player
+Tank S0 is now the player
+Tank T0 is now the player
+Tank U0 is now the player
+Tank V0 is now the player
+Tank H1 is now the player
+Tank J1 is now the player
+Tank K1 is now the player
+Tank S1 is now the player
+Tank T1 is now the player
+Tank U1 is now the player
+Tank V1 is now the player
+Tank H2 is now the player
+Tank J2 is now the player
+Tank K2 is now the player
+Tank S2 is now the player
+Tank T2 is now the player
+Tank U2 is now the player
+Tank V2 is now the player
+Tank G3 is now the player
+Tank V3 bug= 43, PC= C20D 
+Tank U3 hits tank T3
+Tank V1 bug= 43, PC= C20D 
+Tank U2 hits tank J2
+Tank V1 hits tank H0
+Tank V0 crashes into tank U1
+Tank U1 crashes into tank V0
+Tank T1 hits tank H1
+Tank J0 hits tank S3
+Tank H1 hits tank K2
+Tank T2 hits tank T3
+Tank J2 hits tank T2
+Tank H2 hits tank K2
+Tank S3 hits tank S0
+Tank U2 hits tank H2
+Tank U3 hits tank T3
+Tank S1 crashes into tank J1
+Tank J1 crashes into tank S1
+Tank V0 hits tank U1
+Tank T1 hits tank J3
+Tank T2 hits tank J2
+Tank J3 hits tank V1
+Tank H2 hits tank U2
+Tank S1 hits tank J2
+Tank U3 hits tank H1
+Tank U2 hits tank U3
+Tank T1 hits tank V1
+Tank U0 hits tank V3
+Tank T3 hits tank T2
+Tank J1 hits tank J2
+Tank J2 hits tank J1
+Tank H2 hits tank U3
+Tank J3 hits tank V1
+Tank T2 hits tank T3
+Tank J2 crashes into tank J1
+Tank J1 crashes into tank J2
+Tank U1 hits tank V2
+Tank S3 captures a lifepack 
+Tank K2 hits tank H1
+Tank T0 hits tank V3
+Tank U2 hits tank U3
+Tank S0 hits tank H0
+Tank V3 hits tank T0
+Tank U3 hits tank H1
+Tank U0 hits tank V3
+Tank T1 hits tank V1
+Tank T3 hits tank T2
+Tank J2 hits tank T3
+Tank H2 hits tank H1
+Tank U3 crashes into tank T1
+Tank T2 hits tank T3
+Tank J3 hits tank H3
+Tank H0 hits tank S0
+Tank H3 hits tank V1
+Tank U1 hits tank T2
+Tank U2 crashes into tank U3
+Tank G3 hits tank S2
+Tank V3 bug= 43, PC= C20D 
+Tank V0 bug= 43, PC= C20D 
+Tank T0 crashes into tank V3
+Tank K2 hits tank H2
+Tank T0 hits tank V3
+Tank V1 crashes into tank U2
+Tank V3 crashes into tank T0
+Tank V3 crashes into tank T0
+Tank U3 hits tank T1
+Tank V3 hits tank T0
+Tank V1 hits tank T1
+Tank T1 hits tank V1
+Tank U0 hits tank T0
+Tank T3 hits tank T2
+Tank J2 hits tank H1
+Tank J0 hits tank J3
+Tank U1 hits tank T2
+Tank T0 crashes into tank V3
+Tank H1 crashes into tank J2
+Tank J2 crashes into tank H1
+Tank H0 captures a lifepack 
+Tank T0 hits tank V3
+Tank U3 hits tank T1
+Tank U2 hits tank U3
+Tank T1 hits tank V1
+Tank U0 hits tank V3
+Tank T3 hits tank U1
+Tank V2 crashes into tank T1
+Tank T1 crashes into tank V2
+Tank T3 crashes into tank U1
+Tank U1 crashes into tank T3
+Tank T2 hits tank U1
+Tank H3 hits tank S0
+Tank H0 hits tank U0
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File H0.sx loads 2009 bytes
+File J0.sx loads 2009 bytes
+File K0.sx loads 1515 bytes
+File S0.sx loads 1095 bytes
+File T0.sx loads 1187 bytes
+File U0.sx loads 1187 bytes
+File V0.sx loads 878 bytes
+File H1.sx loads 2009 bytes
+File J1.sx loads 2009 bytes
+File K1.sx loads 1515 bytes
+File S1.sx loads 1095 bytes
+File T1.sx loads 1187 bytes
+File U1.sx loads 1187 bytes
+File V1.sx loads 878 bytes
+File H2.sx loads 2009 bytes
+File J2.sx loads 2009 bytes
+File K2.sx loads 1515 bytes
+File S2.sx loads 1095 bytes
+File T2.sx loads 1187 bytes
+File U2.sx loads 1187 bytes
+File V2.sx loads 878 bytes
+File G3.sx loads 593 bytes
+File H3.sx loads 2009 bytes
+File J3.sx loads 2009 bytes
+File K3.sx loads 1515 bytes
+File S3.sx loads 1095 bytes
+File T3.sx loads 1187 bytes
+File U3.sx loads 1187 bytes
+File V3.sx loads 878 bytes
+Tank H0 captures a lifepack 
+Tank K3 captures a lifepack 
+Tank H0 is now the player
+Tank J0 is now the player
+Tank K0 is now the player
+Tank S0 is now the player
+Tank T0 is now the player
+Tank U0 is now the player
+Tank V0 is now the player
+Tank H1 is now the player
+Tank J1 is now the player
+Tank K1 is now the player
+Tank S1 is now the player
+Tank T1 is now the player
+Tank U1 is now the player
+Tank V1 is now the player
+Tank H2 is now the player
+Tank J2 is now the player
+Tank K2 is now the player
+Tank S2 is now the player
+Tank T2 is now the player
+Tank U2 is now the player
+Tank V2 is now the player
+Tank G3 is now the player
+Tank T0 hits tank J2
+Tank S2 hits tank V3
+Tank T2 hits tank S0
+Tank T3 hits tank H0
+Tank V3 hits tank H3
+Tank U2 hits tank J1
+Tank T1 hits tank S3
+Tank V1 hits tank V2
+Tank U1 hits tank S3
+Tank V2 hits tank V1
+Tank H2 crashes into tank T1
+Tank T1 crashes into tank H2
+Tank U3 hits tank H1
+Tank H2 hits tank T1
+Tank J2 hits tank T0
+Tank H1 hits tank T1
+Tank V3 bug= 43, PC= C20D 
+Tank V2 captures a lifepack 
+Tank S0 hits tank T2
+Tank T2 hits tank S0
+Tank T0 hits tank J2
+Tank T3 hits tank H0
+Tank V1 hits tank T2
+Tank U2 hits tank K3
+Tank U3 hits tank G3
+Tank U1 hits tank S3
+Tank H1 hits tank U1
+Tank H3 hits tank T3
+Tank H2 hits tank U0
+Tank J0 hits tank S1
+Tank J3 hits tank T1
+Tank U1 crashes into tank H1
+Tank H1 crashes into tank U1
+Tank T0 hits tank J0
+Tank S0 hits tank T2
+Tank T2 hits tank S0
+Tank T3 hits tank H3
+Tank T1 hits tank S0
+Tank U2 hits tank K3
+Tank U1 hits tank H1
+Tank V3 hits tank K1
+Tank U3 hits tank G3
+Tank J0 hits tank T0
+Tank H1 hits tank U1
+Tank H3 hits tank S2
+Tank V3 crashes into tank T3
+Tank J1 hits tank U2
+Tank J3 hits tank V0
+Tank U0 hits tank H2
+Tank T1 crashes into tank T2
+Tank T3 hits tank V3
+Tank T1 hits tank T2
+Tank V1 hits tank H3
+Tank V1 captures a lifepack 
+Tank V3 hits tank K1
+Tank J2 hits tank T2
+Tank T2 crashes into tank J2
+Tank J2 crashes into tank T2
+Tank H1 hits tank T1
+Tank H3 hits tank V3
+Tank U0 hits tank H2
+Tank U0 captures a lifepack 
+Tank G3 hits tank U3
+Tank T0 hits tank K0
+Tank T3 hits tank K1
+Tank V1 hits tank H0
+Tank U1 hits tank S0
+Tank U3 hits tank G3
+Tank U2 crashes into tank K2
+Tank J1 hits tank U1
+Tank H0 hits tank S1
+Tank H3 hits tank V1
+Tank H2 hits tank U1
+Tank H1 hits tank S3
+Tank J2 captures a lifepack 
+Tank U0 hits tank J1
+Tank V0 bug= 43, PC= C20D 
+Tank S2 hits tank V0
+Tank T3 hits tank K1
+Tank V1 hits tank H0
+Tank U2 hits tank J3
+Tank U1 hits tank S0
+Tank U3 hits tank G3
+Tank J3 crashes into tank V2
+Tank V2 crashes into tank J3
+Tank H0 hits tank V3
+Tank H1 hits tank S3
+Tank H2 hits tank S0
+Tank J2 hits tank V3
+Tank J0 hits tank H1
+Tank K0 captures a lifepack 
+Tank T3 hits tank K1
+Tank T2 hits tank U1
+Tank V0 hits tank S2
+Tank U2 hits tank K2
+Tank V2 hits tank U2
+Tank J1 crashes into tank T1
+Tank T1 crashes into tank J1
+Tank T1 hits tank U1
+Tank U1 hits tank U2
+Tank J1 hits tank T1
+Tank S0 captures a lifepack 
+Tank J3 hits tank K2
+Tank H0 hits tank V3
+Tank U0 hits tank T1
+Tank T3 crashes into tank V0
+Tank T3 hits tank V0
+Tank V2 hits tank J3
+Tank T2 hits tank U1
+Tank U2 hits tank H2
+Tank V3 hits tank H0
+Tank T1 hits tank U0
+Tank U1 hits tank S0
+Tank U3 hits tank G3
+Tank J3 hits tank V2
+Tank H0 hits tank V3
+Tank J2 hits tank V1
+Tank U0 hits tank T1
+Tank K3 hits tank S2
+Tank T0 hits tank H0
+Tank V1 bug= 43, PC= C20D 
+Tank S2 hits tank T3
+Tank T3 hits tank J2
+Tank S0 hits tank T2
+Tank T2 hits tank U1
+Tank U2 hits tank H2
+Tank T1 hits tank U0
+Tank U3 hits tank G3
+Tank J2 crashes into tank T3
+Tank J2 hits tank T3
+Tank H0 hits tank T0
+Tank H1 hits tank H0
+Tank J0 hits tank H3
+Tank H3 hits tank J0
+Tank U0 hits tank T1
+Tank T0 hits tank H0
+Tank K2 hits tank V1
+Tank S3 captures a lifepack 
+Tank T2 hits tank U1
+Tank U1 hits tank T2
+Tank V2 hits tank U0
+Tank T1 hits tank U0
+Tank V0 hits tank K2
+Tank T1 crashes into tank V2
+Tank H0 hits tank T0
+Tank H2 hits tank U1
+Tank H1 hits tank S3
+Tank U0 hits tank T1
+Tank J1 hits tank J0
+Tank J3 hits tank U0
+Tank K2 hits tank S2
+Tank S3 crashes into tank H1
+Tank H1 crashes into tank S3
+Tank S2 hits tank K2
+Tank S0 hits tank V1
+Tank V1 hits tank S0
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File H0.sx loads 2009 bytes
+File J0.sx loads 2009 bytes
+File K0.sx loads 1515 bytes
+File S0.sx loads 1095 bytes
+File T0.sx loads 1187 bytes
+File U0.sx loads 1187 bytes
+File V0.sx loads 878 bytes
+File H1.sx loads 2009 bytes
+File J1.sx loads 2009 bytes
+File K1.sx loads 1515 bytes
+File S1.sx loads 1095 bytes
+File T1.sx loads 1187 bytes
+File U1.sx loads 1187 bytes
+File V1.sx loads 878 bytes
+File H2.sx loads 2009 bytes
+File J2.sx loads 2009 bytes
+File K2.sx loads 1515 bytes
+File S2.sx loads 1095 bytes
+File T2.sx loads 1187 bytes
+File U2.sx loads 1187 bytes
+File V2.sx loads 878 bytes
+File G3.sx loads 612 bytes
+File H3.sx loads 2009 bytes
+File J3.sx loads 2009 bytes
+File K3.sx loads 1515 bytes
+File S3.sx loads 1095 bytes
+File T3.sx loads 1187 bytes
+File U3.sx loads 1187 bytes
+File V3.sx loads 878 bytes
+Tank H3 captures a lifepack 
+Camera = manual
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+Tank H0 is now the player
+Tank J0 is now the player
+Tank K0 is now the player
+Tank S0 is now the player
+Tank T0 is now the player
+Tank U0 is now the player
+Tank V0 is now the player
+Tank H1 is now the player
+Tank J1 is now the player
+Tank K1 is now the player
+Tank S1 is now the player
+Tank T1 is now the player
+Tank U1 is now the player
+Tank V1 is now the player
+Tank H2 is now the player
+Tank J2 is now the player
+Tank K2 is now the player
+Tank S2 is now the player
+Tank T2 is now the player
+Tank U2 is now the player
+Tank V2 is now the player
+Tank G3 is now the player
+Tank H3 is now the player
+Tank J3 is now the player
+Tank K3 is now the player
+Tank S3 is now the player
+Tank T3 is now the player
+Tank U3 is now the player
+Tank V3 is now the player
+Tank H0 is now the player
+Tank J0 is now the player
+Tank K0 is now the player
+Tank S0 is now the player
+Tank T0 is now the player
+Tank U0 is now the player
+Tank V0 is now the player
+Tank H1 is now the player
+Tank J1 is now the player
+Tank K1 is now the player
+Tank S1 is now the player
+Tank T1 is now the player
+Tank U1 is now the player
+Tank V1 is now the player
+Tank H2 is now the player
+Tank J2 is now the player
+Tank K2 is now the player
+Tank S2 is now the player
+Tank T2 is now the player
+Tank U2 is now the player
+Tank V2 is now the player
+Tank G3 is now the player
+Tank J1 crashes into tank H0
+Tank H0 crashes into tank J1
+Tank K1 bug= 25, PC= C5BF 
+Tank K1 bug= 25, PC= C443 
+Tank U2 hits tank U3
+Tank S0 hits tank T0
+Tank S1 hits tank U1
+Tank T2 hits tank U3
+Tank S3 hits tank S0
+Tank U1 hits tank K2
+Tank T1 hits tank S2
+Tank V3 bug= 43, PC= C20D 
+Tank T0 hits tank V2
+Tank H0 hits tank V0
+Tank H3 hits tank V3
+Tank H0 crashes into tank V0
+Tank T3 hits tank K3
+Tank U3 crashes into tank T2
+Tank T2 crashes into tank U3
+Tank U1 crashes into tank K2
+Tank K2 crashes into tank U1
+Tank U1 hits tank K2
+Tank T2 hits tank K1
+Tank U2 hits tank K1
+Tank T1 hits tank S2
+Tank V2 hits tank T0
+Tank V0 hits tank T0
+Tank T0 hits tank V2
+Tank V1 hits tank V3
+Tank U3 hits tank T2
+Tank J3 hits tank S2
+Tank H0 hits tank J3
+Tank J1 hits tank T1
+Tank H1 hits tank J3
+Tank T0 captures a lifepack 
+Tank S0 hits tank T1
+Tank S1 hits tank K3
+Tank S2 hits tank J3
+Tank T2 hits tank K1
+Tank U2 hits tank K1
+Tank V2 hits tank V0
+Tank T0 hits tank V2
+Tank V1 hits tank H1
+Tank U1 crashes into tank K2
+Tank V3 hits tank H3
+Tank J1 crashes into tank T1
+Tank U3 hits tank U2
+Tank H1 hits tank V0
+Tank J3 hits tank V2
+Tank J0 hits tank V3
+Tank J2 hits tank V3
+Tank H0 hits tank S2
+Tank T3 hits tank S1
+Tank V0 crashes into tank T0
+Tank S0 captures a lifepack 
+Tank K0 hits tank T1
+Tank S0 hits tank K0
+Tank S1 hits tank T3
+Tank S2 hits tank H1
+Tank U2 hits tank K1
+Tank V2 hits tank H1
+Tank T2 hits tank K1
+Tank V3 hits tank J2
+Tank V1 hits tank S2
+Tank T1 hits tank J1
+Tank J0 crashes into tank J2
+Tank J2 crashes into tank J0
+Tank K3 bug= 25, PC= C5BF 
+Tank U3 hits tank S0
+Tank H1 hits tank V2
+Tank J2 hits tank J0
+Tank G3 captures a lifepack 
+Tank T1 crashes into tank K0
+Tank K0 crashes into tank T1
+Tank T3 hits tank S1
+Tank K2 hits tank U1
+Tank T2 captures a lifepack 
+Tank S3 hits tank T3
+Tank V1 hits tank H0
+Tank V0 hits tank H1
+Tank U1 hits tank K2
+Tank T0 hits tank V2
+Tank U3 hits tank S0
+Tank U0 hits tank T3
+Tank H2 hits tank K3
+Tank H1 hits tank V1
+Tank H3 hits tank T3
+Tank U0 crashes into tank U1
+Tank S1 crashes into tank U1
+Tank S0 hits tank K1
+Tank T2 hits tank G3
+Tank U0 hits tank U1
+Tank T1 hits tank K0
+Tank V1 hits tank H0
+Tank V0 hits tank V2
+Tank U1 hits tank K2
+Tank U3 hits tank K0
+Tank J2 hits tank T0
+Tank H3 hits tank U2
+Tank H1 hits tank V1
+Tank T3 hits tank H2
+Tank K0 crashes into tank U3
+Tank V1 bug= 43, PC= C20D 
+Tank K0 hits tank T1
+Tank U0 hits tank U1
+Tank T2 hits tank G3
+Tank T1 captures a lifepack 
+Tank U2 hits tank J3
+Tank U1 hits tank K2
+Tank T1 hits tank U3
+Tank T0 hits tank J2
+Tank U3 hits tank T1
+Tank H2 hits tank S1
+Tank J1 hits tank T1
+Tank J0 hits tank S2
+Tank J2 hits tank T0
+Tank J3 hits tank G3
+Tank T3 hits tank S1
+Tank V0 bug= 43, PC= C20D 
+Tank H0 crashes into tank V2
+Tank V2 crashes into tank H0
+Tank S3 hits tank V3
+Tank S1 hits tank H2
+Tank S2 hits tank J0
+Tank S0 hits tank J3
+Tank U1 hits tank U0
+Tank V0 hits tank H1
+Tank U0 hits tank K2
+Tank H2 hits tank S1
+Tank J3 hits tank H3
+Tank J1 hits tank K0
+Tank T3 hits tank S1
+Tank V3 hits tank S3
+Tank U3 crashes into tank S0
+Tank S0 crashes into tank U3
+Tank U1 hits tank T2
+Tank U2 hits tank T3
+Tank T2 hits tank K3
+Tank T0 hits tank J0
+Tank T1 hits tank U3
+Tank U3 hits tank S0
+Tank U0 hits tank K2
+Tank V1 bug= 43, PC= C20D 
+Tank J0 hits tank T0
+Tank H1 hits tank V2
+Tank H0 hits tank V2
+Tank S0 hits tank T1
+Tank V0 hits tank J2
+Tank V0 crashes into tank J2
+Tank J2 crashes into tank V0
+Tank T2 hits tank K2
+Tank U1 hits tank T2
+Tank U2 hits tank T3
+Tank U0 hits tank K2
+Tank H1 hits tank V2
+Tank H0 hits tank H1
+Tank H3 hits tank G3
+Tank J1 hits tank J2
+Tank T3 hits tank S2
+Tank K2 hits tank T2
+Tank J1 captures a lifepack 

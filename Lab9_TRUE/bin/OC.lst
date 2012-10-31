@@ -1,0 +1,83 @@
+
+Freescale HC12-Assembler 
+(c) Copyright Freescale 1987-2009
+
+ Abs. Rel.   Loc    Obj. code   Source line
+ ---- ----   ------ ---------   -----------
+    1    1                      ; filename ******** OC.asm ************** 
+    2    2                      ; Lab 7 Output compare interrupt used to establish 10 Hz sampling
+    3    3                      ;    develop these programs
+    4    4                      
+    5    5                        xdef       ADCMail
+    6    6                        xdef       ADCStatus
+    7    7                        absentry   OC0_Init
+    8    8                        absentry   Timer_Wait10ms
+    9    9                        xref       ADC_Init
+   10   10                        xref       ADC_In2
+   11   11                      RAM:          section  
+   12   12   000000             ADCMail       ds.w  1    ; 10-bit data from ADC
+   13   13   000002             ADCStatus     ds.b  1    ; true when new data available
+   14   14                      
+   15   15          0000 0044   TCNT     equ $0044
+   16   16          0000 0046   TSCR1    equ $0046  ; make bit7=1 to enable TCNT
+   17   17          0000 004D   TSCR2    equ $004D  ; specifies rate
+   18   18          0000 004E   TFLG1    equ $004E  ; Main Timer Interrupt Flag 1
+   19   19          0000 004C   TIE      equ $004C  ; Timer Interrupt Enable Register
+   20   20          0000 0040   TIOS     equ $0040  ; Timer Input Capture/Output Compare Select
+   21   21          0000 0050   TC0      equ $0050  ; Timer Input Capture/Output Compare Register 0
+   22   22          0000 0258   PTP      equ $0258  ; Port P I/O Register
+   23   23          0000 025A   DDRP     equ $025A  ; Port P Data Direction Register
+   24   24                      
+   25   25                      EEPROM:  section  
+   26   26                      
+   27   27                      
+   28   28                      
+   29   29                      
+   30   30                      ;***************OC0_Init*****************
+   31   31                      ; Set timer to LoadMode=5.333us, RunMode=5.333us
+   32   32                      ; turn on output compare interrupts
+   33   33                      ; Assumes PLL will be active, E clock is 24 MHz
+   34   34                      ; Bottom three bits of TSCR2 (PR2,PR1,PR0) determine TCNT period
+   35   35                      ;    divide  LoadMode and Run Mode with PLL (24MHz)
+   36   36                      ;000   1     42ns  TOF  2.73ms 
+   37   37                      ;001   2     84ns  TOF  5.46ms  
+   38   38                      ;010   4    167ns  TOF  10.9ms        
+   39   39                      ;011   8    333ns  TOF  21.8ms   
+   40   40                      ;100  16    667ns  TOF  43.7ms   
+   41   41                      ;101  32   1.33us  TOF  87.4ms  
+   42   42                      ;110  64   2.67us  TOF 174.8ms  
+   43   43                      ;111 128   5.33us  TOF 349.5ms   */ 
+   44   44                      ; inputs: none
+   45   45                      ; outputs: none
+   46   46                      ; errors: assumes 24MHz E clock
+   47   47                      OC0_Init
+   48   48                      
+   49   49   000000 3D                   rts
+   50   50                      
+   51   51                      
+   52   52                      ;************ Timer_Wait10ms***************
+   53   53                      ; time delay
+   54   54                      ; inputs: RegD is the number of 10ms to wait
+   55   55                      ; outputs: none
+   56   56                      ; errors: RegY=0 will wait 655.36 sec
+   57   57                      Timer_Wait10ms
+   58   58                      
+   59   59   000001 3D                   rts
+   60   60                      ;interrupts every 100 ms
+   61   61                      TC0handler 
+   62   62                      
+   63   63                      
+   64   64   000002 0B                   rti
+
+Freescale HC12-Assembler 
+(c) Copyright Freescale 1987-2009
+
+ Abs. Rel.   Loc    Obj. code   Source line
+ ---- ----   ------ ---------   -----------
+   65   65                            
+   66   66                               org  $FFEE
+   67   67  a00FFEE xxxx        TC0vec   fdb  TC0handler ;output compare 0 interrupt vector
+   68   68                      
+   69   69                      
+   70   70                      EEPROM:  section  
+   71   71                      

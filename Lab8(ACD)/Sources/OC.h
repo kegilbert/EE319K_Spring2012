@@ -1,0 +1,1 @@
+void OC0_Init(void);

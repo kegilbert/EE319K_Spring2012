@@ -1,0 +1,25 @@
+*** EVALUATION ***
+ANSI-C/cC++ Compiler for HC12 V-5.0.41 Build 10203, Jul 23 2010
+
+    1:  //*************** Turret File ****************
+    2:  void Turret_move(/*parameters*/) {
+*** EVALUATION ***
+
+Function: Turret_move
+Source  : \\psf\Home\Desktop\TRobots1_85\Lab10\Sources\Turret.c
+Options : -Cc -D__ONLY_INIT_SP -D__NO_FLOAT__ -D_HCS12_SERIALMON -Env"GENPATH=\\psf\Home\Desktop\TRobots1_85\Lab10;\\psf\Home\Desktop\TRobots1_85\Lab10\bin;\\psf\Home\Desktop\TRobots1_85\Lab10\prm;\\psf\Home\Desktop\TRobots1_85\Lab10\cmd;\\psf\Home\Desktop\TRobots1_85\Lab10\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -EnvTEXTPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\TRobots1_85\Lab10\Trobot_9S12DP512_Data\HCS12_Serial_Monitor\ObjectCode\Turret.c.o
+
+    3:    /*rotate turret x amount*/
+    4:  }
+  0000 3d           [5]     RTS   
+    5:  
+    6:  void Turret_Fire(unsigned char distance) {
+*** EVALUATION ***
+
+Function: Turret_Fire
+Source  : \\psf\Home\Desktop\TRobots1_85\Lab10\Sources\Turret.c
+Options : -Cc -D__ONLY_INIT_SP -D__NO_FLOAT__ -D_HCS12_SERIALMON -Env"GENPATH=\\psf\Home\Desktop\TRobots1_85\Lab10;\\psf\Home\Desktop\TRobots1_85\Lab10\bin;\\psf\Home\Desktop\TRobots1_85\Lab10\prm;\\psf\Home\Desktop\TRobots1_85\Lab10\cmd;\\psf\Home\Desktop\TRobots1_85\Lab10\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -EnvTEXTPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\TRobots1_85\Lab10\Trobot_9S12DP512_Data\HCS12_Serial_Monitor\ObjectCode\Turret.c.o
+
+    7:    /*write distance to SCI to fire*/ 
+    8:  }
+  0000 3d           [5]     RTS   

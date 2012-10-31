@@ -1,0 +1,820 @@
+*** EVALUATION ***
+ANSI-C/cC++ Compiler for HC12 V-5.0.41 Build 10203, Jul 23 2010
+
+    1:  #include <hidef.h>      /* common defines and macros */
+    2:  #include "derivative.h"      /* derivative-specific definitions */
+    3:  #include "sci1T.h"
+    4:  #include "SCI1R.h"
+    5:  #include "PLL.h"
+    6:  #include "ISR.h"
+    7:  #include "ISRR.h"
+    8:  #include "ADC.h"
+    9:  #include "LCD.h"
+   10:  
+   11:  extern Buffer;
+   12:  extern ADCMail;
+   13:  extern ADCStatus;
+   14:  extern ErrorCount;
+   15:  extern frames;
+   16:  unsigned char InData;
+   17:  
+   18:  unsigned short Convert(unsigned short data); 
+   19:  
+   20:  void mainTRANSMITTER(void) {
+*** EVALUATION ***
+
+Function: mainTRANSMITTER
+Source  : \\psf\Home\Desktop\Lab9_TRUE\Sources\main.c
+Options : -Cc -CPUHCS12 -D_HCS12_SERIALMON -D__NO_FLOAT__ -Env"GENPATH=\\psf\Home\Desktop\Lab9_TRUE;\\psf\Home\Desktop\Lab9_TRUE\bin;\\psf\Home\Desktop\Lab9_TRUE\prm;\\psf\Home\Desktop\Lab9_TRUE\cmd;\\psf\Home\Desktop\Lab9_TRUE\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;\\psf\Home\Desktop\EE319K\Lab8(ACD)\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\Lab9_TRUE\bin -EnvTEXTPATH=\\psf\Home\Desktop\Lab9_TRUE\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\Lab9_TRUE\Lab8_Data\Standard\ObjectCode\main.c.o -WmsgSd1106
+
+   21:    asm sei           // Disable interrupts
+  0000 1410         [1]     SEI   
+   22:    PLL_Init();
+  0002 160000       [4]     JSR   PLL_Init
+   23:    ADC_Init();
+  0005 160000       [4]     JSR   ADC_Init
+   24:    sci1_Init();
+  0008 160000       [4]     JSR   sci1_Init
+   25:    DDRP |= 0x80;     // PP7 output
+  000b 1c000080     [4]     BSET  _DDRP,#128
+   26:    OC0_Init();       // Intializes timer as well
+  000f 160000       [4]     JSR   OC0_Init
+   27:    asm cli           // Enable interrupts
+  0012 10ef         [1]     CLI   
+   28:    
+   29:    for(;;) { /* Do Nothing */}
+  0014 20fe         [3]     BRA   *+0 ;abs = 0014
+   30:  }
+   31:  
+   32:  void main(void) {
+*** EVALUATION ***
+
+Function: main
+Source  : \\psf\Home\Desktop\Lab9_TRUE\Sources\main.c
+Options : -Cc -CPUHCS12 -D_HCS12_SERIALMON -D__NO_FLOAT__ -Env"GENPATH=\\psf\Home\Desktop\Lab9_TRUE;\\psf\Home\Desktop\Lab9_TRUE\bin;\\psf\Home\Desktop\Lab9_TRUE\prm;\\psf\Home\Desktop\Lab9_TRUE\cmd;\\psf\Home\Desktop\Lab9_TRUE\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;\\psf\Home\Desktop\EE319K\Lab8(ACD)\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\Lab9_TRUE\bin -EnvTEXTPATH=\\psf\Home\Desktop\Lab9_TRUE\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\Lab9_TRUE\Lab8_Data\Standard\ObjectCode\main.c.o -WmsgSd1106
+
+   33:    InData = 0;
+  0000 790000       [3]     CLR   InData
+   34:    asm sei           // Disable interrupts
+  0003 1410         [1]     SEI   
+   35:    PLL_Init();
+  0005 160000       [4]     JSR   PLL_Init
+   36:    LCD_Open();
+  0008 160000       [4]     JSR   LCD_Open
+   37:    LCD_Clear();
+  000b 160000       [4]     JSR   LCD_Clear
+   38:    SCI1R_Init();
+  000e 160000       [4]     JSR   SCI1R_Init
+   39:    DDRP |= 0x80;     // PP7 output
+  0011 1c000080     [4]     BSET  _DDRP,#128
+   40:    OC1_InitR();       // Intializes timer as well, receiver uses interrupt channel 1
+  0015 160000       [4]     JSR   OC1_InitR
+   41:    asm cli           // Enable interrupts  
+  0018 10ef         [1]     CLI   
+   42:     for(;;) {
+   43:       InData = SCI1_InData();  // InData has ADC value
+  001a 160000       [4]     JSR   SCI1_InData
+  001d 7b0000       [3]     STAB  InData
+   44:       LCD_OutFix(Convert(InData));      // Displays data in fixed point format
+  0020 87           [1]     CLRA  
+  0021 160000       [4]     JSR   Convert
+  0024 160000       [4]     JSR   LCD_OutFix
+  0027 20f1         [3]     BRA   *-13 ;abs = 001a
+   45:     }
+   46:  }
+   47:  
+   48:  //*********  Convert *********
+   49:  // converts 8-bit ADC to fixed-point position in cm
+   50:  // Input: 8-bit ADC 0 to 255
+   51:  // Output: position in 0.01 cm
+   52:  // needs calibration
+   53:  unsigned short Convert(unsigned short data){
+*** EVALUATION ***
+
+Function: Convert
+Source  : \\psf\Home\Desktop\Lab9_TRUE\Sources\main.c
+Options : -Cc -CPUHCS12 -D_HCS12_SERIALMON -D__NO_FLOAT__ -Env"GENPATH=\\psf\Home\Desktop\Lab9_TRUE;\\psf\Home\Desktop\Lab9_TRUE\bin;\\psf\Home\Desktop\Lab9_TRUE\prm;\\psf\Home\Desktop\Lab9_TRUE\cmd;\\psf\Home\Desktop\Lab9_TRUE\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;\\psf\Home\Desktop\EE319K\Lab8(ACD)\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\Lab9_TRUE\bin -EnvTEXTPATH=\\psf\Home\Desktop\Lab9_TRUE\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\Lab9_TRUE\Lab8_Data\Standard\ObjectCode\main.c.o -WmsgSd1106
+
+  0000 1bf2fdfe     [2]     LEAS  -514,SP
+  0004 3b           [2]     PSHD  
+   54:    unsigned short position;
+   55:    unsigned short cmData[257] = {
+   56:  106,
+  0005 c66a         [1]     LDAB  #106
+  0007 87           [1]     CLRA  
+  0008 6c82         [2]     STD   2,SP
+   57:  106,
+  000a 6c84         [2]     STD   4,SP
+   58:  107,
+  000c 52           [1]     INCB  
+  000d 6c86         [2]     STD   6,SP
+   59:  108,
+  000f 52           [1]     INCB  
+  0010 6c88         [2]     STD   8,SP
+   60:  108,
+  0012 6c8a         [2]     STD   10,SP
+   61:  109,
+  0014 52           [1]     INCB  
+  0015 6c8c         [2]     STD   12,SP
+   62:  110,
+  0017 52           [1]     INCB  
+  0018 6c8e         [2]     STD   14,SP
+   63:  111,
+  001a 52           [1]     INCB  
+  001b 6cf010       [3]     STD   16,SP
+   64:  111,
+  001e 6cf012       [3]     STD   18,SP
+   65:  112,
+  0021 52           [1]     INCB  
+  0022 6cf014       [3]     STD   20,SP
+   66:  113,
+  0025 52           [1]     INCB  
+  0026 6cf016       [3]     STD   22,SP
+   67:  114,
+  0029 52           [1]     INCB  
+  002a 6cf018       [3]     STD   24,SP
+   68:  114,
+  002d 6cf01a       [3]     STD   26,SP
+   69:  115,
+  0030 52           [1]     INCB  
+  0031 6cf01c       [3]     STD   28,SP
+   70:  116,
+  0034 52           [1]     INCB  
+  0035 6cf01e       [3]     STD   30,SP
+   71:  117,
+  0038 52           [1]     INCB  
+  0039 6cf020       [3]     STD   32,SP
+   72:  117,
+  003c 6cf022       [3]     STD   34,SP
+   73:  118,
+  003f 52           [1]     INCB  
+  0040 6cf024       [3]     STD   36,SP
+   74:  119,
+  0043 52           [1]     INCB  
+  0044 6cf026       [3]     STD   38,SP
+   75:  120,
+  0047 52           [1]     INCB  
+  0048 6cf028       [3]     STD   40,SP
+   76:  120,
+  004b 6cf02a       [3]     STD   42,SP
+   77:  121,
+  004e 52           [1]     INCB  
+  004f 6cf02c       [3]     STD   44,SP
+   78:  122,
+  0052 52           [1]     INCB  
+  0053 6cf02e       [3]     STD   46,SP
+   79:  123,
+  0056 52           [1]     INCB  
+  0057 6cf030       [3]     STD   48,SP
+   80:  123,
+  005a 6cf032       [3]     STD   50,SP
+   81:  124,
+  005d 52           [1]     INCB  
+  005e 6cf034       [3]     STD   52,SP
+   82:  125,
+  0061 52           [1]     INCB  
+  0062 6cf036       [3]     STD   54,SP
+   83:  125,
+  0065 6cf038       [3]     STD   56,SP
+   84:  126,
+  0068 52           [1]     INCB  
+  0069 6cf03a       [3]     STD   58,SP
+   85:  127,
+  006c 52           [1]     INCB  
+  006d 6cf03c       [3]     STD   60,SP
+   86:  128,
+  0070 52           [1]     INCB  
+  0071 6cf03e       [3]     STD   62,SP
+   87:  128,
+  0074 6cf040       [3]     STD   64,SP
+   88:  129,
+  0077 52           [1]     INCB  
+  0078 6cf042       [3]     STD   66,SP
+   89:  130,
+  007b 52           [1]     INCB  
+  007c 6cf044       [3]     STD   68,SP
+   90:  131,
+  007f 52           [1]     INCB  
+  0080 6cf046       [3]     STD   70,SP
+   91:  131,
+  0083 6cf048       [3]     STD   72,SP
+   92:  132,
+  0086 52           [1]     INCB  
+  0087 6cf04a       [3]     STD   74,SP
+   93:  133,
+  008a 52           [1]     INCB  
+  008b 6cf04c       [3]     STD   76,SP
+   94:  134,
+  008e 52           [1]     INCB  
+  008f 6cf04e       [3]     STD   78,SP
+   95:  134,
+  0092 6cf050       [3]     STD   80,SP
+   96:  135,
+  0095 52           [1]     INCB  
+  0096 6cf052       [3]     STD   82,SP
+   97:  136,
+  0099 52           [1]     INCB  
+  009a 6cf054       [3]     STD   84,SP
+   98:  137,
+  009d 52           [1]     INCB  
+  009e 6cf056       [3]     STD   86,SP
+   99:  137,
+  00a1 6cf058       [3]     STD   88,SP
+  100:  138,
+  00a4 52           [1]     INCB  
+  00a5 6cf05a       [3]     STD   90,SP
+  101:  139,
+  00a8 52           [1]     INCB  
+  00a9 6cf05c       [3]     STD   92,SP
+  102:  140,
+  00ac 52           [1]     INCB  
+  00ad 6cf05e       [3]     STD   94,SP
+  103:  140,
+  00b0 6cf060       [3]     STD   96,SP
+  104:  141,
+  00b3 52           [1]     INCB  
+  00b4 6cf062       [3]     STD   98,SP
+  105:  142,
+  00b7 52           [1]     INCB  
+  00b8 6cf064       [3]     STD   100,SP
+  106:  143,
+  00bb 52           [1]     INCB  
+  00bc 6cf066       [3]     STD   102,SP
+  107:  143,
+  00bf 6cf068       [3]     STD   104,SP
+  108:  144,
+  00c2 52           [1]     INCB  
+  00c3 6cf06a       [3]     STD   106,SP
+  109:  145,
+  00c6 52           [1]     INCB  
+  00c7 6cf06c       [3]     STD   108,SP
+  110:  145,
+  00ca 6cf06e       [3]     STD   110,SP
+  111:  146,
+  00cd 52           [1]     INCB  
+  00ce 6cf070       [3]     STD   112,SP
+  112:  147,
+  00d1 52           [1]     INCB  
+  00d2 6cf072       [3]     STD   114,SP
+  113:  148,
+  00d5 52           [1]     INCB  
+  00d6 6cf074       [3]     STD   116,SP
+  114:  148,
+  00d9 6cf076       [3]     STD   118,SP
+  115:  149,
+  00dc 52           [1]     INCB  
+  00dd 6cf078       [3]     STD   120,SP
+  116:  150,
+  00e0 52           [1]     INCB  
+  00e1 6cf07a       [3]     STD   122,SP
+  117:  151,
+  00e4 52           [1]     INCB  
+  00e5 6cf07c       [3]     STD   124,SP
+  118:  151,
+  00e8 6cf07e       [3]     STD   126,SP
+  119:  152,
+  00eb 52           [1]     INCB  
+  00ec 6cf080       [3]     STD   128,SP
+  120:  153,
+  00ef 52           [1]     INCB  
+  00f0 6cf082       [3]     STD   130,SP
+  121:  154,
+  00f3 52           [1]     INCB  
+  00f4 6cf084       [3]     STD   132,SP
+  122:  154,
+  00f7 6cf086       [3]     STD   134,SP
+  123:  155,
+  00fa 52           [1]     INCB  
+  00fb 6cf088       [3]     STD   136,SP
+  124:  156,
+  00fe 52           [1]     INCB  
+  00ff 6cf08a       [3]     STD   138,SP
+  125:  157,
+  0102 52           [1]     INCB  
+  0103 6cf08c       [3]     STD   140,SP
+  126:  157,
+  0106 6cf08e       [3]     STD   142,SP
+  127:  158,
+  0109 52           [1]     INCB  
+  010a 6cf090       [3]     STD   144,SP
+  128:  159,
+  010d 52           [1]     INCB  
+  010e 6cf092       [3]     STD   146,SP
+  129:  160,
+  0111 52           [1]     INCB  
+  0112 6cf094       [3]     STD   148,SP
+  130:  160,
+  0115 6cf096       [3]     STD   150,SP
+  131:  161,
+  0118 52           [1]     INCB  
+  0119 6cf098       [3]     STD   152,SP
+  132:  162,
+  011c 52           [1]     INCB  
+  011d 6cf09a       [3]     STD   154,SP
+  133:  162,
+  0120 6cf09c       [3]     STD   156,SP
+  134:  163,
+  0123 52           [1]     INCB  
+  0124 6cf09e       [3]     STD   158,SP
+  135:  164,
+  0127 52           [1]     INCB  
+  0128 6cf0a0       [3]     STD   160,SP
+  136:  165,
+  012b 52           [1]     INCB  
+  012c 6cf0a2       [3]     STD   162,SP
+  137:  165,
+  012f 6cf0a4       [3]     STD   164,SP
+  138:  166,
+  0132 52           [1]     INCB  
+  0133 6cf0a6       [3]     STD   166,SP
+  139:  167,
+  0136 52           [1]     INCB  
+  0137 6cf0a8       [3]     STD   168,SP
+  140:  168,
+  013a 52           [1]     INCB  
+  013b 6cf0aa       [3]     STD   170,SP
+  141:  168,
+  013e 6cf0ac       [3]     STD   172,SP
+  142:  169,
+  0141 52           [1]     INCB  
+  0142 6cf0ae       [3]     STD   174,SP
+  143:  170,
+  0145 52           [1]     INCB  
+  0146 6cf0b0       [3]     STD   176,SP
+  144:  171,
+  0149 52           [1]     INCB  
+  014a 6cf0b2       [3]     STD   178,SP
+  145:  171,
+  014d 6cf0b4       [3]     STD   180,SP
+  146:  172,
+  0150 52           [1]     INCB  
+  0151 6cf0b6       [3]     STD   182,SP
+  147:  173,
+  0154 52           [1]     INCB  
+  0155 6cf0b8       [3]     STD   184,SP
+  148:  174,
+  0158 52           [1]     INCB  
+  0159 6cf0ba       [3]     STD   186,SP
+  149:  174,
+  015c 6cf0bc       [3]     STD   188,SP
+  150:  175,
+  015f 52           [1]     INCB  
+  0160 6cf0be       [3]     STD   190,SP
+  151:  176,
+  0163 52           [1]     INCB  
+  0164 6cf0c0       [3]     STD   192,SP
+  152:  177,
+  0167 52           [1]     INCB  
+  0168 6cf0c2       [3]     STD   194,SP
+  153:  177,
+  016b 6cf0c4       [3]     STD   196,SP
+  154:  178,
+  016e 52           [1]     INCB  
+  016f 6cf0c6       [3]     STD   198,SP
+  155:  179,
+  0172 52           [1]     INCB  
+  0173 6cf0c8       [3]     STD   200,SP
+  156:  180,
+  0176 52           [1]     INCB  
+  0177 6cf0ca       [3]     STD   202,SP
+  157:  180,
+  017a 6cf0cc       [3]     STD   204,SP
+  158:  181,
+  017d 52           [1]     INCB  
+  017e 6cf0ce       [3]     STD   206,SP
+  159:  182,
+  0181 52           [1]     INCB  
+  0182 6cf0d0       [3]     STD   208,SP
+  160:  182,
+  0185 6cf0d2       [3]     STD   210,SP
+  161:  183,
+  0188 52           [1]     INCB  
+  0189 6cf0d4       [3]     STD   212,SP
+  162:  184,
+  018c 52           [1]     INCB  
+  018d 6cf0d6       [3]     STD   214,SP
+  163:  185,
+  0190 52           [1]     INCB  
+  0191 6cf0d8       [3]     STD   216,SP
+  164:  185,
+  0194 6cf0da       [3]     STD   218,SP
+  165:  186,
+  0197 52           [1]     INCB  
+  0198 6cf0dc       [3]     STD   220,SP
+  166:  187,
+  019b 52           [1]     INCB  
+  019c 6cf0de       [3]     STD   222,SP
+  167:  188,
+  019f 52           [1]     INCB  
+  01a0 6cf0e0       [3]     STD   224,SP
+  168:  188,
+  01a3 6cf0e2       [3]     STD   226,SP
+  169:  189,
+  01a6 52           [1]     INCB  
+  01a7 6cf0e4       [3]     STD   228,SP
+  170:  190,
+  01aa 52           [1]     INCB  
+  01ab 6cf0e6       [3]     STD   230,SP
+  171:  191,
+  01ae 52           [1]     INCB  
+  01af 6cf0e8       [3]     STD   232,SP
+  172:  191,
+  01b2 6cf0ea       [3]     STD   234,SP
+  173:  192,
+  01b5 52           [1]     INCB  
+  01b6 6cf0ec       [3]     STD   236,SP
+  174:  193,
+  01b9 52           [1]     INCB  
+  01ba 6cf0ee       [3]     STD   238,SP
+  175:  194,
+  01bd 52           [1]     INCB  
+  01be 6cf0f0       [3]     STD   240,SP
+  176:  194,
+  01c1 6cf0f2       [3]     STD   242,SP
+  177:  195,
+  01c4 52           [1]     INCB  
+  01c5 6cf0f4       [3]     STD   244,SP
+  178:  196,
+  01c8 52           [1]     INCB  
+  01c9 6cf0f6       [3]     STD   246,SP
+  179:  197,
+  01cc 52           [1]     INCB  
+  01cd 6cf0f8       [3]     STD   248,SP
+  180:  197,
+  01d0 6cf0fa       [3]     STD   250,SP
+  181:  198,
+  01d3 52           [1]     INCB  
+  01d4 6cf0fc       [3]     STD   252,SP
+  182:  199,
+  01d7 52           [1]     INCB  
+  01d8 6cf0fe       [3]     STD   254,SP
+  183:  199,
+  01db 6cf20100     [3]     STD   256,SP
+  184:  200,
+  01df 52           [1]     INCB  
+  01e0 6cf20102     [3]     STD   258,SP
+  185:  201,
+  01e4 52           [1]     INCB  
+  01e5 6cf20104     [3]     STD   260,SP
+  186:  202,
+  01e9 52           [1]     INCB  
+  01ea 6cf20106     [3]     STD   262,SP
+  187:  202,
+  01ee 6cf20108     [3]     STD   264,SP
+  188:  203,
+  01f2 52           [1]     INCB  
+  01f3 6cf2010a     [3]     STD   266,SP
+  189:  204,
+  01f7 52           [1]     INCB  
+  01f8 6cf2010c     [3]     STD   268,SP
+  190:  205,
+  01fc 52           [1]     INCB  
+  01fd 6cf2010e     [3]     STD   270,SP
+  191:  205,
+  0201 6cf20110     [3]     STD   272,SP
+  192:  206,
+  0205 52           [1]     INCB  
+  0206 6cf20112     [3]     STD   274,SP
+  193:  207,
+  020a 52           [1]     INCB  
+  020b 6cf20114     [3]     STD   276,SP
+  194:  208,
+  020f 52           [1]     INCB  
+  0210 6cf20116     [3]     STD   278,SP
+  195:  208,
+  0214 6cf20118     [3]     STD   280,SP
+  196:  209,
+  0218 52           [1]     INCB  
+  0219 6cf2011a     [3]     STD   282,SP
+  197:  210,
+  021d 52           [1]     INCB  
+  021e 6cf2011c     [3]     STD   284,SP
+  198:  211,
+  0222 52           [1]     INCB  
+  0223 6cf2011e     [3]     STD   286,SP
+  199:  211,
+  0227 6cf20120     [3]     STD   288,SP
+  200:  212,
+  022b 52           [1]     INCB  
+  022c 6cf20122     [3]     STD   290,SP
+  201:  213,
+  0230 52           [1]     INCB  
+  0231 6cf20124     [3]     STD   292,SP
+  202:  214,
+  0235 52           [1]     INCB  
+  0236 6cf20126     [3]     STD   294,SP
+  203:  214,
+  023a 6cf20128     [3]     STD   296,SP
+  204:  215,
+  023e 52           [1]     INCB  
+  023f 6cf2012a     [3]     STD   298,SP
+  205:  216,
+  0243 52           [1]     INCB  
+  0244 6cf2012c     [3]     STD   300,SP
+  206:  217,
+  0248 52           [1]     INCB  
+  0249 6cf2012e     [3]     STD   302,SP
+  207:  217,
+  024d 6cf20130     [3]     STD   304,SP
+  208:  218,
+  0251 52           [1]     INCB  
+  0252 6cf20132     [3]     STD   306,SP
+  209:  219,
+  0256 52           [1]     INCB  
+  0257 6cf20134     [3]     STD   308,SP
+  210:  219,
+  025b 6cf20136     [3]     STD   310,SP
+  211:  220,
+  025f 52           [1]     INCB  
+  0260 6cf20138     [3]     STD   312,SP
+  212:  221,
+  0264 52           [1]     INCB  
+  0265 6cf2013a     [3]     STD   314,SP
+  213:  222,
+  0269 52           [1]     INCB  
+  026a 6cf2013c     [3]     STD   316,SP
+  214:  222,
+  026e 6cf2013e     [3]     STD   318,SP
+  215:  223,
+  0272 52           [1]     INCB  
+  0273 6cf20140     [3]     STD   320,SP
+  216:  224,
+  0277 52           [1]     INCB  
+  0278 6cf20142     [3]     STD   322,SP
+  217:  225,
+  027c 52           [1]     INCB  
+  027d 6cf20144     [3]     STD   324,SP
+  218:  225,
+  0281 6cf20146     [3]     STD   326,SP
+  219:  226,
+  0285 52           [1]     INCB  
+  0286 6cf20148     [3]     STD   328,SP
+  220:  227,
+  028a 52           [1]     INCB  
+  028b 6cf2014a     [3]     STD   330,SP
+  221:  228,
+  028f 52           [1]     INCB  
+  0290 6cf2014c     [3]     STD   332,SP
+  222:  228,
+  0294 6cf2014e     [3]     STD   334,SP
+  223:  229,
+  0298 52           [1]     INCB  
+  0299 6cf20150     [3]     STD   336,SP
+  224:  230,
+  029d 52           [1]     INCB  
+  029e 6cf20152     [3]     STD   338,SP
+  225:  231,
+  02a2 52           [1]     INCB  
+  02a3 6cf20154     [3]     STD   340,SP
+  226:  231,
+  02a7 6cf20156     [3]     STD   342,SP
+  227:  232,
+  02ab 52           [1]     INCB  
+  02ac 6cf20158     [3]     STD   344,SP
+  228:  233,
+  02b0 52           [1]     INCB  
+  02b1 6cf2015a     [3]     STD   346,SP
+  229:  234,
+  02b5 52           [1]     INCB  
+  02b6 6cf2015c     [3]     STD   348,SP
+  230:  234,
+  02ba 6cf2015e     [3]     STD   350,SP
+  231:  235,
+  02be 52           [1]     INCB  
+  02bf 6cf20160     [3]     STD   352,SP
+  232:  236,
+  02c3 52           [1]     INCB  
+  02c4 6cf20162     [3]     STD   354,SP
+  233:  236,
+  02c8 6cf20164     [3]     STD   356,SP
+  234:  237,
+  02cc 52           [1]     INCB  
+  02cd 6cf20166     [3]     STD   358,SP
+  235:  238,
+  02d1 52           [1]     INCB  
+  02d2 6cf20168     [3]     STD   360,SP
+  236:  239,
+  02d6 52           [1]     INCB  
+  02d7 6cf2016a     [3]     STD   362,SP
+  237:  239,
+  02db 6cf2016c     [3]     STD   364,SP
+  238:  240,
+  02df 52           [1]     INCB  
+  02e0 6cf2016e     [3]     STD   366,SP
+  239:  241,
+  02e4 52           [1]     INCB  
+  02e5 6cf20170     [3]     STD   368,SP
+  240:  242,
+  02e9 52           [1]     INCB  
+  02ea 6cf20172     [3]     STD   370,SP
+  241:  242,
+  02ee 6cf20174     [3]     STD   372,SP
+  242:  243,
+  02f2 52           [1]     INCB  
+  02f3 6cf20176     [3]     STD   374,SP
+  243:  244,
+  02f7 52           [1]     INCB  
+  02f8 6cf20178     [3]     STD   376,SP
+  244:  245,
+  02fc 52           [1]     INCB  
+  02fd 6cf2017a     [3]     STD   378,SP
+  245:  245,
+  0301 6cf2017c     [3]     STD   380,SP
+  246:  246,
+  0305 52           [1]     INCB  
+  0306 6cf2017e     [3]     STD   382,SP
+  247:  247,
+  030a 52           [1]     INCB  
+  030b 6cf20180     [3]     STD   384,SP
+  248:  248,
+  030f 52           [1]     INCB  
+  0310 6cf20182     [3]     STD   386,SP
+  249:  248,
+  0314 6cf20184     [3]     STD   388,SP
+  250:  249,
+  0318 52           [1]     INCB  
+  0319 6cf20186     [3]     STD   390,SP
+  251:  250,
+  031d 52           [1]     INCB  
+  031e 6cf20188     [3]     STD   392,SP
+  252:  251,
+  0322 52           [1]     INCB  
+  0323 6cf2018a     [3]     STD   394,SP
+  253:  251,
+  0327 6cf2018c     [3]     STD   396,SP
+  254:  252,
+  032b 52           [1]     INCB  
+  032c 6cf2018e     [3]     STD   398,SP
+  255:  253,
+  0330 52           [1]     INCB  
+  0331 6cf20190     [3]     STD   400,SP
+  256:  254,
+  0335 57           [1]     ASRB  
+  0336 6cf20192     [3]     STD   402,SP
+  257:  254,
+  033a 6cf20194     [3]     STD   404,SP
+  258:  255,
+  033e 57           [1]     ASRB  
+  033f 6cf20196     [3]     STD   406,SP
+  259:  256,
+  0343 c7           [1]     CLRB  
+  0344 42           [1]     INCA  
+  0345 6cf20198     [3]     STD   408,SP
+  260:  256,
+  0349 6cf2019a     [3]     STD   410,SP
+  261:  257,
+  034d 52           [1]     INCB  
+  034e 6cf2019c     [3]     STD   412,SP
+  262:  258,
+  0352 58           [1]     LSLB  
+  0353 6cf2019e     [3]     STD   414,SP
+  263:  259,
+  0357 52           [1]     INCB  
+  0358 6cf201a0     [3]     STD   416,SP
+  264:  259,
+  035c 6cf201a2     [3]     STD   418,SP
+  265:  260,
+  0360 52           [1]     INCB  
+  0361 6cf201a4     [3]     STD   420,SP
+  266:  261,
+  0365 52           [1]     INCB  
+  0366 6cf201a6     [3]     STD   422,SP
+  267:  262,
+  036a 52           [1]     INCB  
+  036b 6cf201a8     [3]     STD   424,SP
+  268:  262,
+  036f 6cf201aa     [3]     STD   426,SP
+  269:  263,
+  0373 52           [1]     INCB  
+  0374 6cf201ac     [3]     STD   428,SP
+  270:  264,
+  0378 52           [1]     INCB  
+  0379 6cf201ae     [3]     STD   430,SP
+  271:  265,
+  037d 52           [1]     INCB  
+  037e 6cf201b0     [3]     STD   432,SP
+  272:  265,
+  0382 6cf201b2     [3]     STD   434,SP
+  273:  266,
+  0386 52           [1]     INCB  
+  0387 6cf201b4     [3]     STD   436,SP
+  274:  267,
+  038b 52           [1]     INCB  
+  038c 6cf201b6     [3]     STD   438,SP
+  275:  268,
+  0390 52           [1]     INCB  
+  0391 6cf201b8     [3]     STD   440,SP
+  276:  268,
+  0395 6cf201ba     [3]     STD   442,SP
+  277:  269,
+  0399 52           [1]     INCB  
+  039a 6cf201bc     [3]     STD   444,SP
+  278:  270,
+  039e 52           [1]     INCB  
+  039f 6cf201be     [3]     STD   446,SP
+  279:  271,
+  03a3 52           [1]     INCB  
+  03a4 6cf201c0     [3]     STD   448,SP
+  280:  271,
+  03a8 6cf201c2     [3]     STD   450,SP
+  281:  272,
+  03ac 52           [1]     INCB  
+  03ad 6cf201c4     [3]     STD   452,SP
+  282:  273,
+  03b1 52           [1]     INCB  
+  03b2 6cf201c6     [3]     STD   454,SP
+  283:  273,
+  03b6 6cf201c8     [3]     STD   456,SP
+  284:  274,
+  03ba 52           [1]     INCB  
+  03bb 6cf201ca     [3]     STD   458,SP
+  285:  275,
+  03bf 52           [1]     INCB  
+  03c0 6cf201cc     [3]     STD   460,SP
+  286:  276,
+  03c4 52           [1]     INCB  
+  03c5 6cf201ce     [3]     STD   462,SP
+  287:  276,
+  03c9 6cf201d0     [3]     STD   464,SP
+  288:  277,
+  03cd 52           [1]     INCB  
+  03ce 6cf201d2     [3]     STD   466,SP
+  289:  278,
+  03d2 52           [1]     INCB  
+  03d3 6cf201d4     [3]     STD   468,SP
+  290:  279,
+  03d7 52           [1]     INCB  
+  03d8 6cf201d6     [3]     STD   470,SP
+  291:  279,
+  03dc 6cf201d8     [3]     STD   472,SP
+  292:  280,
+  03e0 52           [1]     INCB  
+  03e1 6cf201da     [3]     STD   474,SP
+  293:  281,
+  03e5 52           [1]     INCB  
+  03e6 6cf201dc     [3]     STD   476,SP
+  294:  282,
+  03ea 52           [1]     INCB  
+  03eb 6cf201de     [3]     STD   478,SP
+  295:  282,
+  03ef 6cf201e0     [3]     STD   480,SP
+  296:  283,
+  03f3 52           [1]     INCB  
+  03f4 6cf201e2     [3]     STD   482,SP
+  297:  284,
+  03f8 52           [1]     INCB  
+  03f9 6cf201e4     [3]     STD   484,SP
+  298:  285,
+  03fd 52           [1]     INCB  
+  03fe 6cf201e6     [3]     STD   486,SP
+  299:  285,
+  0402 6cf201e8     [3]     STD   488,SP
+  300:  286,
+  0406 52           [1]     INCB  
+  0407 6cf201ea     [3]     STD   490,SP
+  301:  287,
+  040b 52           [1]     INCB  
+  040c 6cf201ec     [3]     STD   492,SP
+  302:  288,
+  0410 52           [1]     INCB  
+  0411 6cf201ee     [3]     STD   494,SP
+  303:  288,
+  0415 6cf201f0     [3]     STD   496,SP
+  304:  289,
+  0419 52           [1]     INCB  
+  041a 6cf201f2     [3]     STD   498,SP
+  305:  290,
+  041e 52           [1]     INCB  
+  041f 6cf201f4     [3]     STD   500,SP
+  306:  291,
+  0423 52           [1]     INCB  
+  0424 6cf201f6     [3]     STD   502,SP
+  307:  291,
+  0428 6cf201f8     [3]     STD   504,SP
+  308:  292,
+  042c 52           [1]     INCB  
+  042d 6cf201fa     [3]     STD   506,SP
+  309:  293,
+  0431 52           [1]     INCB  
+  0432 6cf201fc     [3]     STD   508,SP
+  310:  293,
+  0436 6cf201fe     [3]     STD   510,SP
+  311:  294,
+  043a 52           [1]     INCB  
+  043b 6cf20200     [3]     STD   512,SP
+  312:  295,
+  043f 52           [1]     INCB  
+  0440 6cf20202     [3]     STD   514,SP
+  313:    };
+  314:         
+  315:    position = cmData[data];
+  0444 ec80         [3]     LDD   0,SP
+  0446 59           [1]     LSLD  
+  0447 1a82         [2]     LEAX  2,SP
+  0449 1ae6         [2]     LEAX  D,X
+  044b ec00         [3]     LDD   0,X
+  316:    return position;
+  317:  }
+  044d 1bf20204     [2]     LEAS  516,SP
+  0451 3d           [5]     RTS   
+  318:  

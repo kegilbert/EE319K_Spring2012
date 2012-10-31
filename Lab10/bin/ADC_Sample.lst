@@ -1,0 +1,124 @@
+*** EVALUATION ***
+ANSI-C/cC++ Compiler for HC12 V-5.0.41 Build 10203, Jul 23 2010
+
+    1:  /***************** Scan File *********************/
+    2:  #include "ADC_Sample.h"
+    3:  #include <mc9s12dp512.h>
+    4:  
+    5:  void ADC_Init(void) {
+*** EVALUATION ***
+
+Function: ADC_Init
+Source  : \\psf\Home\Desktop\TRobots1_85\Lab10\Sources\ADC_Sample.c
+Options : -Cc -D__ONLY_INIT_SP -D__NO_FLOAT__ -D_HCS12_SERIALMON -Env"GENPATH=\\psf\Home\Desktop\TRobots1_85\Lab10;\\psf\Home\Desktop\TRobots1_85\Lab10\bin;\\psf\Home\Desktop\TRobots1_85\Lab10\prm;\\psf\Home\Desktop\TRobots1_85\Lab10\cmd;\\psf\Home\Desktop\TRobots1_85\Lab10\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -EnvTEXTPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\TRobots1_85\Lab10\Trobot_9S12DP512_Data\HCS12_Serial_Monitor\ObjectCode\ADC_Sample.c.o -WmsgSd1106
+
+    6:    DDRP &= 0x00;    // PTP = all input, direction of scanner in relation to tank (0 = tank heading)
+  0000 790000       [3]     CLR   _DDRP
+    7:    DDRM &= 0xCF;    // 1 = output, 0 = input, PM4-PM5 = output (Resolution)
+  0003 1d000030     [4]     BCLR  _DDRM,#48
+    8:    ATD0CTL2 |= 0x80;  //ASPU, A/D Enabled
+  0007 4c0080       [4]     BSET  _ATD0CTL23,#128
+    9:    
+   10:    ATD0CTL3 |= 0x08;  //Convesion sequence of 1, write to bits below to alter
+  000a 4c0008       [4]     BSET  _ATD0CTL23:1,#8
+   11:    
+   12:  /* Bits 6,5,4,3 S8C, S4C, S2C, S1C - Conversion Sequence Length
+   13:  ;  These bits control the number of conversions per sequence. 
+   14:  ;  on reset, S4C is set to 1 (sequence length is 4). 
+   15:  ;  S8C S4C S2C S1C number of conversions/sequence
+   16:  ;   0   0   0   0   8
+   17:  ;   0   0   0   1   1
+   18:  ;   0   0   1   0   2
+   19:  ;   0   0   1   1   3
+   20:  ;   0   1   0   0   4
+   21:  ;   0   1   0   1   5
+   22:  ;   0   1   1   0   6
+   23:  ;   0   1   1   1   7
+   24:  ;   1   X   X   X   8   */
+   25:  
+   26:    ATD0CTL4 |= 0x05;  //10bit ADC reading (bit7=0), prescalers 0 and 3 armed
+  000d 4c0005       [4]     BSET  _ATD0CTL45,#5
+   27:  }
+  0010 3d           [5]     RTS   
+   28:  
+   29:  int scan_F(unsigned char Resolution,unsigned char ScanHead) {  //channel 5 data
+*** EVALUATION ***
+
+Function: scan_F
+Source  : \\psf\Home\Desktop\TRobots1_85\Lab10\Sources\ADC_Sample.c
+Options : -Cc -D__ONLY_INIT_SP -D__NO_FLOAT__ -D_HCS12_SERIALMON -Env"GENPATH=\\psf\Home\Desktop\TRobots1_85\Lab10;\\psf\Home\Desktop\TRobots1_85\Lab10\bin;\\psf\Home\Desktop\TRobots1_85\Lab10\prm;\\psf\Home\Desktop\TRobots1_85\Lab10\cmd;\\psf\Home\Desktop\TRobots1_85\Lab10\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -EnvTEXTPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\TRobots1_85\Lab10\Trobot_9S12DP512_Data\HCS12_Serial_Monitor\ObjectCode\ADC_Sample.c.o -WmsgSd1106
+
+  0000 37           [2]     PSHB  
+   30:    PTM |= Resolution;    //Friendly
+  0001 f60000       [3]     LDAB  _PTM
+  0004 ea83         [3]     ORAB  3,SP
+  0006 7b0000       [3]     STAB  _PTM
+   31:    PTP |= ScanHead;      //Scanner direction (0 = tank heading)
+  0009 f60000       [3]     LDAB  _PTP
+  000c ea80         [3]     ORAB  0,SP
+  000e 7b0000       [3]     STAB  _PTP
+   32:    //Sample ADC5
+   33:    ATD0CTL5 |= 0x85;      //Begin conversion of channel 5
+  0011 4c0085       [4]     BSET  _ATD0CTL45:1,#133
+   34:    while((ATD0STAT0&0x80)==0){/*wait*/}
+  0014 4f0080fc     [4]     BRCLR _ATD0STAT0,#128,*+0 ;abs = 0014
+   35:    return ATD0DR0; 
+  0018 dc00         [3]     LDD   _ATD0DR0
+   36:  }
+  001a 1b81         [2]     LEAS  1,SP
+  001c 3d           [5]     RTS   
+   37:  
+   38:  int scan_L(unsigned char Resolution,unsigned char ScanHead) {  //channel 4 data
+*** EVALUATION ***
+
+Function: scan_L
+Source  : \\psf\Home\Desktop\TRobots1_85\Lab10\Sources\ADC_Sample.c
+Options : -Cc -D__ONLY_INIT_SP -D__NO_FLOAT__ -D_HCS12_SERIALMON -Env"GENPATH=\\psf\Home\Desktop\TRobots1_85\Lab10;\\psf\Home\Desktop\TRobots1_85\Lab10\bin;\\psf\Home\Desktop\TRobots1_85\Lab10\prm;\\psf\Home\Desktop\TRobots1_85\Lab10\cmd;\\psf\Home\Desktop\TRobots1_85\Lab10\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -EnvTEXTPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\TRobots1_85\Lab10\Trobot_9S12DP512_Data\HCS12_Serial_Monitor\ObjectCode\ADC_Sample.c.o -WmsgSd1106
+
+  0000 37           [2]     PSHB  
+   39:     PTM |= Resolution;   //Friendly
+  0001 f60000       [3]     LDAB  _PTM
+  0004 ea83         [3]     ORAB  3,SP
+  0006 7b0000       [3]     STAB  _PTM
+   40:     PTP |= ScanHead;      //Scanner direction (0 = tank heading)
+  0009 f60000       [3]     LDAB  _PTP
+  000c ea80         [3]     ORAB  0,SP
+  000e 7b0000       [3]     STAB  _PTP
+   41:    //Sample ADC4
+   42:    ATD0CTL5 |= 0x84;      //Begin conversion of channel 4
+  0011 4c0084       [4]     BSET  _ATD0CTL45:1,#132
+   43:    while((ATD0STAT0&0x80)==0){/*wait*/}
+  0014 4f0080fc     [4]     BRCLR _ATD0STAT0,#128,*+0 ;abs = 0014
+   44:    return ATD0DR0;  
+  0018 dc00         [3]     LDD   _ATD0DR0
+   45:  }
+  001a 1b81         [2]     LEAS  1,SP
+  001c 3d           [5]     RTS   
+   46:  
+   47:  int scan_R(unsigned char Resolution,unsigned char ScanHead) {  //channel 6 data
+*** EVALUATION ***
+
+Function: scan_R
+Source  : \\psf\Home\Desktop\TRobots1_85\Lab10\Sources\ADC_Sample.c
+Options : -Cc -D__ONLY_INIT_SP -D__NO_FLOAT__ -D_HCS12_SERIALMON -Env"GENPATH=\\psf\Home\Desktop\TRobots1_85\Lab10;\\psf\Home\Desktop\TRobots1_85\Lab10\bin;\\psf\Home\Desktop\TRobots1_85\Lab10\prm;\\psf\Home\Desktop\TRobots1_85\Lab10\cmd;\\psf\Home\Desktop\TRobots1_85\Lab10\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -EnvTEXTPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\TRobots1_85\Lab10\Trobot_9S12DP512_Data\HCS12_Serial_Monitor\ObjectCode\ADC_Sample.c.o -WmsgSd1106
+
+  0000 37           [2]     PSHB  
+   48:    PTM |= Resolution;    //Friendly
+  0001 f60000       [3]     LDAB  _PTM
+  0004 ea83         [3]     ORAB  3,SP
+  0006 7b0000       [3]     STAB  _PTM
+   49:    PTP |= ScanHead;      //Scanner direction (0 = tank heading)
+  0009 f60000       [3]     LDAB  _PTP
+  000c ea80         [3]     ORAB  0,SP
+  000e 7b0000       [3]     STAB  _PTP
+   50:    //Sample ADC56
+   51:    ATD0CTL5 |= 0x86;      //Begin conversion of channel 6
+  0011 4c0086       [4]     BSET  _ATD0CTL45:1,#134
+   52:    while((ATD0STAT0&0x80)==0){/*wait*/}
+  0014 4f0080fc     [4]     BRCLR _ATD0STAT0,#128,*+0 ;abs = 0014
+   53:    return ATD0DR0;
+  0018 dc00         [3]     LDD   _ATD0DR0
+   54:  }
+  001a 1b81         [2]     LEAS  1,SP
+  001c 3d           [5]     RTS   
+   55:  

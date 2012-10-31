@@ -1,0 +1,45 @@
+*** EVALUATION ***
+ANSI-C/cC++ Compiler for HC12 V-5.0.41 Build 10203, Jul 23 2010
+
+    1:  /*************************DAC.c***************************
+    2:  * The implementation file for the 4-bit DAC
+    3:  * The two routines are provided here                                    *
+    4:  *********************************************************/
+    5:  #include <hidef.h>      /* common defines and macros */
+    6:  #include "derivative.h"      /* derivative-specific definitions */
+    7:  
+    8:  //********* DAC_Init ****************
+    9:  // Initialize the DAC
+   10:  // The four bits for the DAC are on pins PT3-PT0
+   11:  // Inputs: none
+   12:  // Outputs: none
+   13:  // Errors:  
+   14:  void DAC_Init(void){
+*** EVALUATION ***
+
+Function: DAC_Init
+Source  : C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\Sources\DAC.c
+Options : -Cc -CPUHCS12 -D__ONLY_INIT_SP -D__NO_FLOAT__ -Env"GENPATH=C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7;C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\bin;C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\prm;C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\cmd;C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"OBJPATH=C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\bin" -Env"TEXTPATH=C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\bin" -Lasm=%n.lst -Ms -ObjN="C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\Lab7_Data\Standard\ObjectCode\DAC.c.o" -WmsgSd1106
+
+   15:      DDRT |= 0x0F; //Friendly way to make pins PT3-PT0 be outputs
+  0000 1c00000f     [4]     BSET  _DDRT,#15
+   16:  }
+  0004 3d           [5]     RTS   
+   17:  
+   18:  
+   19:  //********* DAC_Out ****************
+   20:  // Write a sample value out to the DAC
+   21:  // Inputs: the 4-bit value to write out
+   22:  // Outputs: none
+   23:  // Errors:  
+   24:  void DAC_Out(unsigned char sample){  
+*** EVALUATION ***
+
+Function: DAC_Out
+Source  : C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\Sources\DAC.c
+Options : -Cc -CPUHCS12 -D__ONLY_INIT_SP -D__NO_FLOAT__ -Env"GENPATH=C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7;C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\bin;C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\prm;C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\cmd;C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"OBJPATH=C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\bin" -Env"TEXTPATH=C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\bin" -Lasm=%n.lst -Ms -ObjN="C:\Users\Ramesh Yerraballi\Documents\EE319K\F11\Lab7\Lab7_Data\Standard\ObjectCode\DAC.c.o" -WmsgSd1106
+
+   25:    PTT = sample; // unfriendly
+  0000 7b0000       [3]     STAB  _PTT
+   26:  }
+  0003 3d           [5]     RTS   

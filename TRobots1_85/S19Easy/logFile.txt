@@ -1,0 +1,6781 @@
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 157 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 captures a lifepack 
+Tank C0 is now the player
+Camera = manual
+Tank G3 is now the player
+Tank Z3 is now the player
+Tank C0 is now the player
+Tank G3 is now the player
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+Camera = manual
+Camera = panoramic spin
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 257 bytes
+File Z3.sx loads 157 bytes
+Camera = manual
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+Tank Z3 captures a lifepack 
+Tank C0 is now the player
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 282 bytes
+File Z3.sx loads 157 bytes
+Tank C0 is now the player
+Tank G3 is now the player
+Tank Z3 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 232 bytes
+File Z3.sx loads 157 bytes
+Tank C0 is now the player
+Tank G3 is now the player
+Tank Z3 captures a lifepack 
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 267 bytes
+File Z3.sx loads 157 bytes
+Tank C0 is now the player
+Tank G3 is now the player
+Tank Z3 captures a lifepack 
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 279 bytes
+File Z3.sx loads 157 bytes
+Tank C0 is now the player
+Tank G3 is now the player
+Tank Z3 captures a lifepack 
+Tank G3 crashes into tank C0
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 279 bytes
+File Z3.sx loads 157 bytes
+Tank C0 is now the player
+Tank G3 is now the player
+Tank Z3 captures a lifepack 
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 279 bytes
+File Z3.sx loads 157 bytes
+Tank C0 is now the player
+Tank G3 is now the player
+Tank Z3 captures a lifepack 
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 282 bytes
+File Z3.sx loads 157 bytes
+Tank C0 is now the player
+Tank G3 is now the player
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+Tank Z3 captures a lifepack 
+Game over, time exceeded
+Tank A0 has the highest score
+Battle = 16  Time = 0
+   	X   	Y   	Dir 	Tur 	Hlt 	3800 	3802 	3804 	3806 	Score
+C0 	080 	100 	200 	100 	3FF 	0000 	0000 	0000 	0000 	100
+Z3 	1BC 	1DD 	089 	000 	3FF 	0004 	0A6A 	010A 	0000 	100
+G3 	    	    	    	    	dead	     	     	     	     	-105
+Tank Z3 captures a lifepack 
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+Game over, time exceeded
+Tank C0 has the highest score
+Battle = 15  Time = 0
+   	X   	Y   	Dir 	Tur 	Hlt 	3800 	3802 	3804 	3806 	Score
+C0 	080 	100 	200 	100 	3FF 	0000 	0000 	0000 	0000 	200
+Z3 	1BC 	1DD 	089 	000 	3FF 	0004 	0A6A 	010A 	0000 	200
+G3 	    	    	    	    	dead	     	     	     	     	-210
+Tank Z3 captures a lifepack 
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 121 bytes
+File Z3.sx loads 157 bytes
+Tank C0 is now the player
+Tank G3 is now the player
+Tank Z3 captures a lifepack 
+Camera = manual
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 193 bytes
+File Z3.sx loads 157 bytes
+Tank C0 is now the player
+Tank G3 is now the player
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+Tank Z3 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 193 bytes
+File Z3.sx loads 157 bytes
+Tank C0 is now the player
+Tank G3 is now the player
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+Tank Z3 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 320 bytes
+File Z3.sx loads 157 bytes
+Tank C0 is now the player
+Tank G3 is now the player
+Tank Z3 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 318 bytes
+File Z3.sx loads 157 bytes
+Tank C0 is now the player
+Tank G3 is now the player
+Tank Z3 captures a lifepack 
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 318 bytes
+File Z3.sx loads 157 bytes
+Tank C0 is now the player
+Tank G3 is now the player
+Tank G3 bug= 25, PC= C03E 
+Tank G3 bug= 25, PC= C03E 
+Tank Z3 captures a lifepack 
+Tank G3 bug= 25, PC= C03E 
+Tank Z3 is now the player
+Tank G3 bug= 25, PC= C03E 
+Tank C0 is now the player
+Tank G3 is now the player
+Tank G3 bug= 25, PC= C03E 
+Tank G3 bug= 25, PC= C03E 
+Tank G3 bug= 25, PC= C03E 
+Tank G3 bug= 25, PC= C03E 
+Tank G3 bug= 25, PC= C03E 
+Tank G3 bug= 25, PC= C03E 
+Tank G3 bug= 25, PC= C03E 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 187 bytes
+File Z3.sx loads 157 bytes
+Tank C0 is now the player
+Tank G3 is now the player
+Tank Z3 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 187 bytes
+File Z3.sx loads 157 bytes
+Tank C0 is now the player
+Tank G3 is now the player
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 192 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 watches from the side
+Tank C0 is now the player
+Tank Z3 is now the player
+Tank C0 is now the player
+Tank Z3 is now the player
+Tank C0 is now the player
+Tank Z3 is now the player
+Tank C0 is now the player
+Tank Z3 is now the player
+Tank C0 is now the player
+Tank Z3 is now the player
+Tank Z3 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 192 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 192 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 192 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 bug= 25, PC= C0B3 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 193 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C0B4 
+Tank G3 bug= 25, PC= C0B4 
+Tank G3 bug= 25, PC= C0B4 
+Tank G3 bug= 25, PC= C0B4 
+Tank G3 bug= 25, PC= C0B4 
+Tank G3 bug= 25, PC= C0B4 
+Tank G3 bug= 25, PC= C0B4 
+Tank G3 bug= 25, PC= C0B4 
+Tank G3 bug= 25, PC= C0B4 
+Tank G3 bug= 25, PC= C0B4 
+Tank G3 bug= 25, PC= C0B4 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 203 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 257 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+Game over, Tank C0 remains
+Tank A0 has the highest score
+Battle = 16  Time = 182.539
+   	X   	Y   	Dir 	Tur 	Hlt 	3800 	3802 	3804 	3806 	Score
+C0 	172 	06B 	177 	200 	3FF 	0000 	0000 	0000 	0000 	100
+G3 	    	    	    	    	dead	     	     	     	     	-105
+Z3 	    	    	    	    	dead	     	     	     	     	-105
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 263 bytes
+File Z3.sx loads 157 bytes
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 266 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 313 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 watches from the side
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Game over, Tank C0 remains
+Tank A0 has the highest score
+Battle = 16  Time = 190.742
+   	X   	Y   	Dir 	Tur 	Hlt 	3800 	3802 	3804 	3806 	Score
+C0 	315 	2FE 	1DE 	200 	3FF 	0000 	0000 	0000 	0000 	100
+G3 	    	    	    	    	dead	     	     	     	     	0
+Z3 	    	    	    	    	dead	     	     	     	     	-105
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 bug= 25, PC= C109 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 318 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 318 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 318 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 318 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 318 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 318 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 318 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 watches from the side
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Game over, Tank C0 remains
+Tank A0 has the highest score
+Battle = 16  Time = 182.578
+   	X   	Y   	Dir 	Tur 	Hlt 	3800 	3802 	3804 	3806 	Score
+C0 	33A 	24A 	200 	055 	3FF 	0000 	0000 	0000 	0000 	100
+G3 	    	    	    	    	dead	     	     	     	     	0
+Z3 	    	    	    	    	dead	     	     	     	     	-105
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 318 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 318 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 watches from the side
+Game over, Tank C0 remains
+Tank A0 has the highest score
+Battle = 16  Time = 196.875
+   	X   	Y   	Dir 	Tur 	Hlt 	3800 	3802 	3804 	3806 	Score
+C0 	185 	123 	155 	1E4 	3FF 	0000 	0000 	0000 	0000 	100
+G3 	    	    	    	    	dead	     	     	     	     	0
+Z3 	    	    	    	    	dead	     	     	     	     	-105
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 318 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 318 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 318 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 318 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 watches from the side
+Tank Z3 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 318 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 318 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 318 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 293 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 295 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 312 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 308 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 316 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 320 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 320 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 crashes into tank C0
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 320 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 303 bytes
+File Z3.sx loads 157 bytes
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 352 bytes
+File Z3.sx loads 157 bytes
+Tank G3 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 352 bytes
+File Z3.sx loads 157 bytes
+Tank G3 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 352 bytes
+File Z3.sx loads 157 bytes
+Tank G3 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 348 bytes
+File Z3.sx loads 157 bytes
+Tank G3 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 348 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 366 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 366 bytes
+File Z3.sx loads 157 bytes
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 366 bytes
+File Z3.sx loads 157 bytes
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 366 bytes
+File Z3.sx loads 157 bytes
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 366 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 366 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 366 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 366 bytes
+File Z3.sx loads 157 bytes
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 366 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 305 bytes
+File Z3.sx loads 157 bytes
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 305 bytes
+File Z3.sx loads 157 bytes
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 305 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 305 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 351 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 351 bytes
+File Z3.sx loads 157 bytes
+Camera = manual
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+Camera = manual
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 477 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 477 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 477 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 401 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 401 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C17D 
+Tank G3 bug= 25, PC= C17D 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 396 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 captures a lifepack 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 396 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 crashes into tank G3
+Tank Z3 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 459 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C191 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 482 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C1A8 
+Tank G3 hits tank Z3
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 561 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 566 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 566 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 475 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C117 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 539 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 559 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 586 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 581 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 608 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C17F 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 604 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C17B 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 608 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C17B 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 604 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C17B 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 624 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 604 bytes
+File Z3.sx loads 157 bytes
+Tank C0 captures a lifepack 
+Tank G3 bug= 25, PC= C17B 
+Tank Z3 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 604 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 26, PC= C0AC 
+Tank G3 bug= 26, PC= C0AC 
+Tank G3 bug= 26, PC= C0AC 
+Tank G3 bug= 26, PC= C0AC 
+Tank G3 bug= 26, PC= C0AC 
+Tank G3 bug= 26, PC= C0AC 
+Tank G3 bug= 26, PC= C0AC 
+Tank G3 bug= 26, PC= C0AC 
+Tank G3 bug= 26, PC= C0AC 
+Tank G3 bug= 26, PC= C0AC 
+Tank G3 bug= 26, PC= C0AC 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 601 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C178 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 621 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 621 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 crashes into tank C0
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 601 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C178 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 618 bytes
+File Z3.sx loads 157 bytes
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 611 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C182 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 621 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 26, PC= C0B3 
+Tank G3 bug= 26, PC= C0B3 
+Tank G3 bug= 25, PC= C182 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 631 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 26, PC= C0BD 
+Tank G3 bug= 26, PC= C0BD 
+Tank G3 bug= 26, PC= C0BD 
+Tank G3 bug= 25, PC= C18C 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 626 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C187 
+Tank G3 bug= 26, PC= C0B8 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 630 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 captures a lifepack 
+Tank G3 bug= 25, PC= C18B 
+Tank G3 bug= 26, PC= C0BC 
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 630 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C18B 
+Tank G3 bug= 26, PC= C0BC 
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 626 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 captures a lifepack 
+Tank G3 bug= 25, PC= C187 
+Tank G3 bug= 26, PC= C0B8 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 641 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C18B 
+Tank G3 bug= 26, PC= C0BC 
+Tank G3 crashes into tank Z3
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 632 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C182 
+Tank G3 bug= 26, PC= C0B3 
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File C0.sx loads 50 bytes
+File G3.sx loads 632 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C182 
+Tank G3 bug= 26, PC= C0B3 
+Tank Z3 captures a lifepack 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 641 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank G3 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank G3 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 631 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank G3 bug= 25, PC= C187 
+Tank G3 bug= 26, PC= C0B8 
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 621 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank G3 bug= 25, PC= C187 
+Tank G3 bug= 26, PC= C0B8 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 621 bytes
+File Z3.sx loads 157 bytes
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 bug= 25, PC= C18B 
+Tank G3 bug= 25, PC= C187 
+Tank G3 bug= 26, PC= C0B8 
+Camera = manual
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank Z3 crashes into tank A0
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Camera = panoramic spin
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Camera = 1st person
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Camera = orbit player
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 621 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank G3 bug= 25, PC= C187 
+Tank G3 bug= 26, PC= C0B8 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 621 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank G3 bug= 25, PC= C187 
+Tank G3 bug= 26, PC= C0B8 
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 621 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank G3 bug= 25, PC= C187 
+Tank G3 bug= 26, PC= C0B8 
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 623 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank G3 bug= 25, PC= C187 
+Tank G3 bug= 26, PC= C0B8 
+Tank A0 hits tank C0
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+This run aborted by F11
+Game over, time exceeded
+Tank A0 has the highest score
+Battle = 16  Time = 0
+   	X   	Y   	Dir 	Tur 	Lft 	Ctr 	Rgt 	Hlt 	3800 	3802 	3804 	3806 	Score
+Z3 	2B0 	18C 	0AB 	2C7 	3FF 	3FF 	3FF 	3FF 	0001 	01A3 	0029 	0000 	100
+C0 	2DE 	333 	089 	08E 	3FF 	3FF 	3FF 	3CC 	0000 	0000 	0000 	0000 	95
+A0 	0F7 	3F6 	1A2 	172 	3FF 	3FF 	3FF 	036 	0009 	0401 	AE03 	0303 	32
+G3 	017 	1E5 	209 	139 	3FF 	3FF 	3FF 	036 	000A 	0201 	AE03 	0303 	24
+Tank A0 bug= 25, PC= C18B 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 623 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank G3 bug= 25, PC= C187 
+Tank G3 bug= 26, PC= C0B8 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 458 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 465 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 458 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 captures a lifepack 
+Tank A0 captures a lifepack 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 458 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 458 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 458 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 458 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 399 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank Z3 captures a lifepack 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 399 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank Z3 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 399 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 crashes into tank G3
+Tank Z3 captures a lifepack 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Game over, time exceeded
+Tank A0 has the highest score
+Battle = 16  Time = 0
+   	X   	Y   	Dir 	Tur 	Lft 	Ctr 	Rgt 	Hlt 	PC   	3800 	3802 	3804 	3806 	Score
+C0 	109 	06A 	2EF 	0C7 	3FF 	3FF 	3FF 	3FF 	C02E 	0000 	0000 	0000 	0000 	100
+G3 	064 	1FB 	200 	100 	3FF 	3FF 	3FF 	3FF 	C183 	0000 	0001 	AE00 	0000 	100
+Z3 	1E7 	1DD 	2AB 	0E4 	3FF 	3FF 	3FF 	3FF 	C016 	0004 	0A6A 	010A 	0000 	95
+A0 	3F6 	0F0 	009 	055 	3FF 	3FF 	3FF 	036 	C268 	000A 	0001 	AE03 	0303 	22
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 captures a lifepack 
+Game over, time exceeded
+Tank A0 has the highest score
+Battle = 15  Time = 0
+   	X   	Y   	Dir 	Tur 	Lft 	Ctr 	Rgt 	Hlt 	PC   	3800 	3802 	3804 	3806 	Score
+C0 	3B9 	37D 	266 	2E4 	3FF 	3FF 	3FF 	3FF 	C02E 	0000 	0000 	0000 	0000 	200
+G3 	064 	1FB 	200 	100 	3FF 	3FF 	3FF 	3FF 	C183 	0000 	0001 	AE00 	0000 	200
+A0 	3A5 	24E 	380 	0C7 	3FF 	3FF 	3FF 	3FF 	C268 	000A 	0201 	AE03 	0303 	119
+Z3 	    	    	    	    	    	    	    	dead	     	     	     	     	     	-10
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank A0 bug= 25, PC= C18B 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 is now the player
+Camera = manual
+Game over, time exceeded
+Tank C0 has the highest score
+Battle = 14  Time = 0
+   	X   	Y   	Dir 	Tur 	Lft 	Ctr 	Rgt 	Hlt 	PC   	3800 	3802 	3804 	3806 	Score
+C0 	0A8 	263 	000 	38E 	3FF 	3FF 	3FF 	3FF 	C02E 	0000 	0000 	0000 	0000 	300
+G3 	064 	1FB 	200 	100 	3FF 	3FF 	3FF 	3FF 	C183 	0000 	0001 	AE00 	0000 	300
+A0 	007 	2E6 	1E6 	055 	3FF 	3FF 	3FF 	036 	C268 	0006 	0201 	AE03 	0303 	131
+Z3 	    	    	    	    	    	    	    	dead	     	     	     	     	     	-115
+Tank A0 captures a lifepack 
+Tank A0 bug= 25, PC= C18B 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 436 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 452 bytes
+File Z3.sx loads 157 bytes
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 watches from the side
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 478 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 481 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 399 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 481 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 481 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 480 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 481 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 509 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 crashes into tank C0
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 444 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 458 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 captures a lifepack 
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 458 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank Z3 captures a lifepack 
+Tank G3 bug= 25, PC= C11A 
+Tank G3 bug= 25, PC= C0DA 
+Tank G3 bug= 25, PC= C11A 
+Tank G3 bug= 25, PC= C0DA 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank G3 bug= 25, PC= C0DA 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 523 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 523 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank G3 crashes into tank A0
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 527 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 458 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank G3 bug= 25, PC= C11A 
+Tank G3 bug= 25, PC= C11A 
+Tank G3 bug= 25, PC= C0DA 
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 517 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank G3 bug= 25, PC= C112 
+Tank G3 bug= 25, PC= C152 
+Tank G3 bug= 25, PC= C112 
+Tank G3 bug= 25, PC= C152 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank G3 bug= 25, PC= C112 
+Tank G3 bug= 25, PC= C152 
+Tank G3 bug= 25, PC= C112 
+Tank G3 bug= 25, PC= C152 
+Tank G3 bug= 25, PC= C112 
+Tank G3 bug= 25, PC= C152 
+Tank G3 bug= 25, PC= C112 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 518 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank G3 bug= 25, PC= C103 
+Tank G3 bug= 25, PC= C143 
+Tank G3 bug= 25, PC= C103 
+Tank G3 bug= 25, PC= C143 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank G3 bug= 25, PC= C103 
+Tank G3 bug= 25, PC= C143 
+Tank G3 bug= 25, PC= C103 
+Tank G3 bug= 25, PC= C143 
+Tank G3 bug= 25, PC= C103 
+Tank G3 bug= 25, PC= C143 
+Tank G3 bug= 25, PC= C103 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 497 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank G3 bug= 25, PC= C0F2 
+Tank G3 bug= 25, PC= C132 
+Tank G3 bug= 25, PC= C0F2 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank G3 bug= 25, PC= C132 
+Tank G3 bug= 25, PC= C0F2 
+Tank G3 bug= 25, PC= C132 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 478 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank G3 bug= 25, PC= C12B 
+Tank G3 bug= 25, PC= C12B 
+Tank G3 bug= 25, PC= C0EB 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 527 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank G3 bug= 43, PC= C0EF 
+Tank G3 bug= 25, PC= C0D9 
+Tank G3 bug= 43, PC= C0EF 
+Tank G3 bug= 25, PC= C15C 
+Tank G3 bug= 43, PC= C0D9 
+Tank G3 bug= 43, PC= C0EF 
+Tank G3 bug= 25, PC= C0D9 
+Tank G3 bug= 43, PC= C0EF 
+Tank G3 bug= 25, PC= C15C 
+Tank G3 bug= 43, PC= C0D9 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 527 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank G3 bug= 25, PC= C0EF 
+Tank G3 bug= 25, PC= C0D9 
+Tank G3 bug= 25, PC= C11C 
+Tank G3 bug= 43, PC= C0EF 
+Tank G3 bug= 25, PC= C15C 
+Tank G3 bug= 43, PC= C0D9 
+Tank G3 bug= 25, PC= C0EF 
+Tank G3 bug= 25, PC= C0D9 
+Tank G3 bug= 25, PC= C11C 
+Tank G3 bug= 43, PC= C0EF 
+Tank G3 bug= 25, PC= C15C 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 484 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 captures a lifepack 
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 484 bytes
+File Z3.sx loads 157 bytes
+Tank A0 captures a lifepack 
+Tank Z3 captures a lifepack 
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 466 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C0D6 
+Tank G3 bug= 25, PC= C0D6 
+Tank G3 bug= 25, PC= C0D6 
+Tank G3 bug= 25, PC= C0D6 
+Tank G3 bug= 25, PC= C0D6 
+Tank G3 bug= 25, PC= C0D6 
+Tank G3 bug= 25, PC= C0D6 
+Tank G3 bug= 25, PC= C0D6 
+Tank G3 bug= 25, PC= C0D6 
+Tank G3 bug= 25, PC= C0D6 
+Tank G3 bug= 25, PC= C0D6 
+Tank G3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 447 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 447 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 444 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 621 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 444 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 bug= 25, PC= C0CA 
+Tank G3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 556 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 27, PC= C06E 
+Tank G3 bug= 25, PC= C154 
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank G3 bug= 27, PC= C06E 
+Tank G3 bug= 27, PC= C06E 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 486 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C128 
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 463 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 519 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 519 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 628 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 653 bytes
+File Z3.sx loads 157 bytes
+Tank A0 captures a lifepack 
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 653 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 653 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 653 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 651 bytes
+File Z3.sx loads 157 bytes
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 watches from the side
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 651 bytes
+File Z3.sx loads 157 bytes
+Tank C0 captures a lifepack 
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 651 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 651 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 651 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 captures a lifepack 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 555 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 555 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank Z3 captures a lifepack 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 569 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Camera = 1st person
+Camera = orbit player
+Camera = manual
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 569 bytes
+File Z3.sx loads 157 bytes
+Camera = 1st person
+Camera = orbit player
+Camera = manual
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 569 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 569 bytes
+File Z3.sx loads 157 bytes
+Tank A0 captures a lifepack 
+Tank G3 bug= 25, PC= C124 
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Camera = 1st person
+Camera = orbit player
+Camera = manual
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 569 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C124 
+Tank A0 bug= 25, PC= C18B 
+Camera = 1st person
+Camera = orbit player
+Camera = manual
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 555 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 551 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 559 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 565 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank A0 bug= 25, PC= C18B 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 571 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 crashes into tank G3
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 565 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 570 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 570 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 564 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 564 bytes
+File Z3.sx loads 157 bytes
+Tank C0 captures a lifepack 
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 564 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 564 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 555 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 561 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 559 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 captures a lifepack 
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 508 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Camera = 1st person
+Camera = orbit player
+Camera = manual
+Camera = panoramic spin
+Camera = 1st person
+Camera = orbit player
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 516 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 572 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 572 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 572 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 572 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 crashes into tank C0
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 572 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 572 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 bug= 43, PC= C150 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 560 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 574 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 43, PC= C152 
+Tank G3 bug= 43, PC= C152 
+Tank G3 bug= 43, PC= C152 
+Tank G3 bug= 43, PC= C152 
+Tank G3 bug= 43, PC= C152 
+Tank G3 bug= 43, PC= C152 
+Tank G3 bug= 43, PC= C152 
+Tank G3 bug= 43, PC= C152 
+Tank G3 bug= 43, PC= C152 
+Tank G3 bug= 43, PC= C152 
+Tank G3 bug= 43, PC= C152 
+Tank G3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 421 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 469 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 469 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Camera = 1st person
+Camera = orbit player
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 508 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 500 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 500 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 499 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 479 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Camera = 1st person
+Camera = orbit player
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 478 bytes
+File Z3.sx loads 157 bytes
+Tank A0 captures a lifepack 
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 478 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Camera = 1st person
+Camera = orbit player
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 480 bytes
+File Z3.sx loads 157 bytes
+Tank A0 captures a lifepack 
+Tank A0 bug= 25, PC= C18B 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 478 bytes
+File Z3.sx loads 157 bytes
+Tank A0 captures a lifepack 
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Camera = 1st person
+Camera = orbit player
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 496 bytes
+File Z3.sx loads 157 bytes
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 496 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Camera = 1st person
+Camera = orbit player
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 500 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C10F 
+Tank G3 bug= 25, PC= C10F 
+Tank G3 bug= 25, PC= C10F 
+Tank G3 bug= 25, PC= C10F 
+Tank G3 bug= 25, PC= C10F 
+Tank G3 bug= 25, PC= C10F 
+Tank G3 bug= 25, PC= C10F 
+Tank G3 bug= 25, PC= C10F 
+Tank G3 bug= 25, PC= C10F 
+Tank G3 bug= 25, PC= C10F 
+Tank G3 bug= 25, PC= C10F 
+Tank G3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 483 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C102 
+Tank G3 bug= 25, PC= C102 
+Tank G3 bug= 25, PC= C102 
+Tank G3 bug= 25, PC= C102 
+Tank G3 bug= 25, PC= C102 
+Tank G3 bug= 25, PC= C102 
+Tank G3 bug= 25, PC= C102 
+Tank G3 bug= 25, PC= C102 
+Tank G3 bug= 25, PC= C102 
+Tank G3 bug= 25, PC= C102 
+Tank G3 bug= 25, PC= C102 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 485 bytes
+File Z3.sx loads 157 bytes
+Camera = 1st person
+Camera = orbit player
+Tank A0 bug= 25, PC= C18B 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 485 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C104 
+Tank G3 bug= 25, PC= C104 
+Tank G3 bug= 25, PC= C104 
+Tank G3 bug= 25, PC= C104 
+Tank G3 bug= 25, PC= C104 
+Tank G3 bug= 25, PC= C104 
+Tank G3 bug= 25, PC= C104 
+Tank G3 bug= 25, PC= C104 
+Tank G3 bug= 25, PC= C104 
+Tank G3 bug= 25, PC= C104 
+Tank G3 bug= 25, PC= C104 
+Tank G3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 468 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Camera = 1st person
+Camera = orbit player
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 468 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 468 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 watches from the side
+Camera = 1st person
+Camera = orbit player
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 467 bytes
+File Z3.sx loads 157 bytes
+Tank C0 captures a lifepack 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 423 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 467 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 bug= 25, PC= C0F3 
+Tank G3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 425 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 446 bytes
+File Z3.sx loads 157 bytes
+Camera = 1st person
+Camera = orbit player
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 runs into the wall
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 563 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 watches from the side
+Tank A0 bug= 26, PC= C0BC 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 561 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 bug= 25, PC= C10E 
+Tank G3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 539 bytes
+File Z3.sx loads 157 bytes
+Tank A0 captures a lifepack 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank A0 bug= 25, PC= C18B 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank A0 bug= 26, PC= C0BC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 watches from the side
+Tank Z3 captures a lifepack 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 539 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 538 bytes
+File Z3.sx loads 157 bytes
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 bug= 25, PC= C0FC 
+Tank G3 watches from the side
+Tank A0 bug= 25, PC= C18B 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 493 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank G3 bug= 10, PC= 0400 
+Tank G3 bug= 10, PC= 0400 
+Tank G3 bug= 10, PC= 0400 
+Tank G3 bug= 10, PC= 0400 
+Tank G3 bug= 10, PC= 0400 
+Tank G3 bug= 10, PC= 0400 
+Tank G3 bug= 10, PC= 0400 
+Tank G3 bug= 10, PC= 0400 
+Tank G3 bug= 10, PC= 0400 
+Tank G3 bug= 10, PC= 0400 
+Tank G3 bug= 10, PC= 0400 
+Tank G3 watches from the side
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 494 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank G3 bug= 25, PC= C139 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank G3 bug= 25, PC= C15D 
+Tank G3 bug= 25, PC= C100 
+Tank G3 bug= 25, PC= C139 
+Tank G3 bug= 25, PC= C15D 
+Tank G3 bug= 25, PC= C100 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 494 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank G3 bug= 25, PC= C139 
+Tank G3 bug= 25, PC= C15D 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 494 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank G3 bug= 25, PC= C139 
+Tank G3 bug= 25, PC= C15D 
+Tank G3 bug= 25, PC= C100 
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank G3 bug= 25, PC= C139 
+Tank G3 bug= 25, PC= C15D 
+Tank G3 bug= 25, PC= C100 
+Tank G3 bug= 25, PC= C139 
+Tank G3 bug= 25, PC= C15D 
+Tank G3 bug= 25, PC= C100 
+This run aborted by F11
+Game over, time exceeded
+Tank A0 has the highest score
+Battle = 16  Time = 0
+   	X   	Y   	Dir 	Tur 	Lft 	Ctr 	Rgt 	Hlt 	3800 	3802 	3804 	3806 	Score
+C0 	2AB 	256 	066 	2AB 	3FF 	3FF 	3FF 	3FF 	0000 	0000 	0000 	0000 	100
+G3 	366 	1E0 	200 	000 	3FF 	3FF 	3FF 	069 	03E8 	0001 	FF01 	AE03 	100
+Z3 	0EF 	2D9 	1AB 	38E 	3FF 	3FF 	3FF 	3FF 	0000 	03DE 	0062 	0000 	100
+A0 	104 	3F6 	11A 	355 	3FF 	3FF 	3FF 	036 	0009 	0601 	AE03 	0303 	12
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 441 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Camera = 1st person
+Camera = orbit player
+Tank A0 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 443 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Camera = 1st person
+Camera = orbit player
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 489 bytes
+File Z3.sx loads 157 bytes
+Camera = 1st person
+Camera = orbit player
+Tank A0 bug= 25, PC= C18B 
+Tank Z3 crashes into tank A0
+Tank A0 crashes into tank G3
+Tank A0 captures a lifepack 
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 498 bytes
+File Z3.sx loads 157 bytes
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Camera = 1st person
+Camera = orbit player
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+******TRobots v1.84 by Jonathan Valvano******
+Life pack at (68 , 871 )
+Life pack at (925 , 566 )
+Life pack at (718 , 150 )
+Life pack at (428 , 427 )
+File A0.sx loads 641 bytes
+File C0.sx loads 50 bytes
+File G3.sx loads 566 bytes
+File Z3.sx loads 157 bytes
+Camera = 1st person
+Camera = orbit player
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 runs into the wall
+Tank Z3 watches from the side
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+This run aborted by F11
+Game over, time exceeded
+Tank A0 has the highest score
+Battle = 16  Time = 0
+   	X   	Y   	Dir 	Tur 	Lft 	Ctr 	Rgt 	Hlt 	3800 	3802 	3804 	3806 	Score
+C0 	0C9 	0ED 	244 	000 	3FF 	3FF 	3FF 	3FF 	0000 	0000 	0000 	0000 	100
+G3 	032 	1E0 	200 	200 	3FF 	3FF 	3FF 	3FF 	03FF 	03FF 	03FF 	AE00 	100
+A0 	156 	3F6 	0D5 	1E4 	3FF 	3FF 	3FF 	036 	000A 	0601 	AE03 	0303 	22
+Z3 	    	    	    	    	    	    	    	dead	     	     	     	     	-105
+Tank A0 bug= 25, PC= C18B 
+Tank A0 bug= 26, PC= C0BC 
+Camera = manual
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall
+Tank A0 runs into the wall

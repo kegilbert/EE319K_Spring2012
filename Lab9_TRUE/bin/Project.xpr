@@ -1,0 +1,4 @@
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "DATA"
+Data:2 < ADDXPR ONLY_ADD_IF_NEW "Fifo"
+Data:2 < ADDXPR ONLY_ADD_IF_NEW "adcValue"
+Data:2 < ADDXPR ONLY_ADD_IF_NEW "ErrorCounter"

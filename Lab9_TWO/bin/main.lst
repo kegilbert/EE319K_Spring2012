@@ -1,0 +1,59 @@
+*** EVALUATION ***
+ANSI-C/cC++ Compiler for HC12 V-5.0.41 Build 10203, Jul 23 2010
+
+    1:  #include <hidef.h>      /* common defines and macros */
+    2:  #include "derivative.h"      /* derivative-specific definitions */
+    3:  #include "sci1.h"
+    4:  #include "PLL.h"
+    5:  #include "ISR.h"
+    6:  #include "ADC.h"
+    7:  
+    8:  extern Buffer;
+    9:  
+   10:  void main(void) {
+*** EVALUATION ***
+
+Function: main
+Source  : \\psf\Home\Desktop\EE319K\Lab9_TWO\Sources\main.c
+Options : -Cc -CPUHCS12 -D__NO_FLOAT__ -D_HCS12_SERIALMON -Env"GENPATH=\\psf\Home\Desktop\EE319K\Lab9_TWO;\\psf\Home\Desktop\EE319K\Lab9_TWO\bin;\\psf\Home\Desktop\EE319K\Lab9_TWO\prm;\\psf\Home\Desktop\EE319K\Lab9_TWO\cmd;\\psf\Home\Desktop\EE319K\Lab9_TWO\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\EE319K\Lab9_TWO\bin -EnvTEXTPATH=\\psf\Home\Desktop\EE319K\Lab9_TWO\bin -Lasm=%n.lst -Mb -ObjN=\\psf\Home\Desktop\EE319K\Lab9_TWO\Lab9_TWO_Data\Standard\ObjectCode\main.c.o -WmsgSd1106
+
+   11:    asm sei           // Disable interrupts
+  0000 1410         [1]     SEI   
+   12:    PLL_Init();
+  0002 4a000000     [7]     CALL  PLL_Init,PAGE(PLL_Init)
+   13:    ADC_Init();
+  0006 4a000000     [7]     CALL  ADC_Init,PAGE(ADC_Init)
+   14:    sci1_Init();
+  000a 4a000000     [7]     CALL  sci1_Init,PAGE(sci1_Init)
+   15:    DDRP |= 0x80;     // PP7 output
+  000e 1c000080     [4]     BSET  _DDRP,#128
+   16:    OC0_Init();       // Intializes timer as well
+  0012 4a000000     [7]     CALL  OC0_Init,PAGE(OC0_Init)
+   17:    asm cli           // Enable interrupts
+  0016 10ef         [1]     CLI   
+   18:    
+   19:    for(;;) { /* Do Nothing */}
+  0018 20fe         [3]     BRA   *+0 ;abs = 0018
+   20:  }
+   21:  
+   22:  void mainRECEIVER(void) {
+*** EVALUATION ***
+
+Function: mainRECEIVER
+Source  : \\psf\Home\Desktop\EE319K\Lab9_TWO\Sources\main.c
+Options : -Cc -CPUHCS12 -D__NO_FLOAT__ -D_HCS12_SERIALMON -Env"GENPATH=\\psf\Home\Desktop\EE319K\Lab9_TWO;\\psf\Home\Desktop\EE319K\Lab9_TWO\bin;\\psf\Home\Desktop\EE319K\Lab9_TWO\prm;\\psf\Home\Desktop\EE319K\Lab9_TWO\cmd;\\psf\Home\Desktop\EE319K\Lab9_TWO\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\EE319K\Lab9_TWO\bin -EnvTEXTPATH=\\psf\Home\Desktop\EE319K\Lab9_TWO\bin -Lasm=%n.lst -Mb -ObjN=\\psf\Home\Desktop\EE319K\Lab9_TWO\Lab9_TWO_Data\Standard\ObjectCode\main.c.o -WmsgSd1106
+
+   23:    
+   24:  }
+  0000 0a           [7]     RTC   
+   25:  
+   26:  void mainFIFOtest(void){
+*** EVALUATION ***
+
+Function: mainFIFOtest
+Source  : \\psf\Home\Desktop\EE319K\Lab9_TWO\Sources\main.c
+Options : -Cc -CPUHCS12 -D__NO_FLOAT__ -D_HCS12_SERIALMON -Env"GENPATH=\\psf\Home\Desktop\EE319K\Lab9_TWO;\\psf\Home\Desktop\EE319K\Lab9_TWO\bin;\\psf\Home\Desktop\EE319K\Lab9_TWO\prm;\\psf\Home\Desktop\EE319K\Lab9_TWO\cmd;\\psf\Home\Desktop\EE319K\Lab9_TWO\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\EE319K\Lab9_TWO\bin -EnvTEXTPATH=\\psf\Home\Desktop\EE319K\Lab9_TWO\bin -Lasm=%n.lst -Mb -ObjN=\\psf\Home\Desktop\EE319K\Lab9_TWO\Lab9_TWO_Data\Standard\ObjectCode\main.c.o -WmsgSd1106
+
+   27:     
+   28:  }
+  0000 0a           [7]     RTC   

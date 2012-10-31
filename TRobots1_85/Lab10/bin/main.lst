@@ -1,0 +1,223 @@
+*** EVALUATION ***
+ANSI-C/cC++ Compiler for HC12 V-5.0.41 Build 10203, Jul 23 2010
+
+    1:  // filename ******** Main.C ************** 
+    2:  // This example illustrates the running Trobots in C, Version 1.85 
+    3:  // 9S12DP512 EE319K Spring 2012         
+    4:  // ****ERASE THIS LINE AND PUT YOUR NAMES HERE*****
+    5:  // 10 points will be deducted if you do not follow submission instructions       
+    6:  // 
+    7:  
+    8:  // Configure this project for your tank (do this once)
+    9:  // 1) Open the Edit->HCS12SerialMonitorSettings, 
+   10:  // 2) click "Linker for HC12"
+   11:  // 3) Place your team name in the "Application Filename" field 
+   12:  //    If you are A0, change "z3.abs" to "a0.abs"  
+   13:  //  The rest of the instructions assume you are team z3
+   14:  
+   15:  // To run this program in TExaS
+   16:  // 0) Start TExaS and open the Texas.uc file in bin folder 
+   17:  // 1) In Metrowerks, Execute Project->Make to compile C code
+   18:  //   This creates a bunch of files in the bin directory
+   19:  //       an object code     z3.sx
+   20:  //       listing files      main.lst start12.lst plus your files
+   21:  //       map file           z3.map
+   22:  // 2) Within TExaS import these files, execute Action->OpenS19
+   23:  //    select z3.sx in the bin folder
+   24:  //  (Subsequent times you can execute Action->OpenS19Again)
+   25:  // 3) Debug using usual TExaS debugging features   
+   26:  
+   27:  // To run this program in TRobots simulator
+   28:  // 1) Execute Project->Make to compile C code
+   29:  //   This creates a bunch of files in the bin directory
+   30:  //       an object code     z3.sx
+   31:  //       listing files      main.lst start12.lst plus your files
+   32:  //       map file           z3.map
+   33:  // 2) move z3.sx to the S19 folder of TRobots
+   34:  // 3) Run TRobots   
+   35:  
+   36:  #include <hidef.h>           /* common defines and macros */
+   37:  #include <mc9s12dp512.h>     /* derivative information */
+   38:  
+   39:  #pragma LINK_INFO DERIVATIVE "mc9s12dp512"
+   40:  
+   41:  //****DO NOT PUT ANY RAM DEFINITIONS HERE ******
+   42:  // these first 8 bytes are observable in TRobots
+   43:  unsigned char volatile Mem3800[8];  // this will be at address $3800
+   44:  #define WatchByte0 *(unsigned char volatile *)(0x3800)
+   45:  #define WatchByte1 *(unsigned char volatile *)(0x3801)
+   46:  #define WatchByte2 *(unsigned char volatile *)(0x3802)
+   47:  #define WatchByte3 *(unsigned char volatile *)(0x3803)
+   48:  #define WatchByte4 *(unsigned char volatile *)(0x3804)
+   49:  #define WatchByte5 *(unsigned char volatile *)(0x3805)
+   50:  #define WatchByte6 *(unsigned char volatile *)(0x3806)
+   51:  #define WatchByte7 *(unsigned char volatile *)(0x3807)
+   52:  // these macros can be used to observe 16-bit values
+   53:  #define WatchWord0	*(unsigned short volatile *)(0x3800)
+   54:  #define WatchWord1	*(unsigned short volatile *)(0x3802)
+   55:  #define WatchWord2	*(unsigned short volatile *)(0x3804)
+   56:  #define WatchWord3	*(unsigned short volatile *)(0x3806)
+   57:  
+   58:  //****PUT YOUR RAM VARIABLES and INCLUDES BELOW HERE*************
+   59:  
+   60:  // *********** Function header files **********
+   61:  
+   62:  #include "ADC_Sample.h"
+   63:  #include "Movement.h"
+   64:  
+   65:  //************ User_Defines *************
+   66:      //define resolution parameters for scan function calls
+   67:  #define res120  0x30    //%b00110000
+   68:  #define res30 0x20      //%b00100000
+   69:  #define res10 0x10      //%b00010000
+   70:  #define res5  0x00      //%b00000000
+   71:   
+   72:  //---------Wait------------------
+   73:  // fixed time delay
+   74:  // inputs: time to wait in 40ns cycles
+   75:  // outputs: none
+   76:  void Wait(unsigned short delay){ 
+*** EVALUATION ***
+
+Function: Wait
+Source  : \\psf\Home\Desktop\TRobots1_85\Lab10\Sources\main.c
+Options : -Cc -D__ONLY_INIT_SP -D__NO_FLOAT__ -D_HCS12_SERIALMON -Env"GENPATH=\\psf\Home\Desktop\TRobots1_85\Lab10;\\psf\Home\Desktop\TRobots1_85\Lab10\bin;\\psf\Home\Desktop\TRobots1_85\Lab10\prm;\\psf\Home\Desktop\TRobots1_85\Lab10\cmd;\\psf\Home\Desktop\TRobots1_85\Lab10\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -EnvTEXTPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\TRobots1_85\Lab10\Trobot_9S12DP512_Data\HCS12_Serial_Monitor\ObjectCode\main.c.o -WmsgSd1106
+
+  0000 6cac         [2]     STD   4,-SP
+   77:  unsigned short startTime;
+   78:    startTime = TCNT;
+  0002 dc00         [3]     LDD   _TCNT
+  0004 6c82         [2]     STD   2,SP
+   79:    while((TCNT-startTime) <= delay){} 
+  0006 dc00         [3]     LDD   _TCNT
+  0008 a382         [3]     SUBD  2,SP
+  000a ac80         [3]     CPD   0,SP
+  000c 23f8         [3/1]   BLS   *-6 ;abs = 0006
+   80:  }
+  000e 1b84         [2]     LEAS  4,SP
+  0010 3d           [5]     RTS   
+   81:    
+   82:  /*void mainGAME(void) { 
+   83:    Mem3800[0] = 0; // leave this so the compiler will not remove it
+   84:    WatchWord1 = 0;
+   85:    WatchWord2 = 0; 
+   86:    TSCR1 = 0x80;     // Enable TCNT, 25MHz E clock
+   87:    TSCR2 = 0x00;     // divide by 1 TCNT prescale, TOI disarm
+   88:    PACTL = 0;        // timer prescale used for TCNT
+   89:    DDRT = 0xFF;      // PT7-4 are left track, PT3-0 are right track
+   90:    PTT = 0x55;       // activate two track stepper coils
+   91:    DDRM |= 0x80;     // PP7 is gearbox
+   92:    PTP &= ~0x80;     // slow speed
+   93:    ADC_Init();     
+   94:    EnableInterrupts; 
+   95:    for(;;) {       */
+   96:      //forwardOC0,leftOC1,right0C2
+   97:      //Scan surroundings   --    int scan_L120/scan_R120/scan_F120, return 0 or 1
+   98:      //Ceck state of robot (health,etc)   --    if(status() == danger) {/*healthpack*/}, #define danger = 2
+   99:          //    --    int status(void);
+  100:      //If health ok, and enemy deteched, pursue.  If no enemy, drive
+  101:      //parameters for scan: res120,res30,res10,res5 (resolutions); scanner heading (0-255) 
+  102:  //    if((scan_L(res120,0) == scan_R(res120,0) == scan_F(res120,0)) && scan_F(res120,0)==1023) {  //Res. defines above
+  103:        /* Move */  
+  104:  //    }   
+  105:  //****** enemy deteced, check side scanners ******    
+  106:  //    if(scan_L(res30,0) != 1023) {
+  107:  //       motor_left(400);
+  108:  //       while(scan_F(res30,0) == 1023) {/*Do Nothing*/} 
+  109:  //       TIE &= 0xFD;   //clear channel 1, stop motor interrupts
+  110:  /*    } else {
+  111:        if(scan_R(res30,0) != 1023) {
+  112:          while(scan_F(res30,0) == 1023) {
+  113:            motor_right(); 
+  114:          }
+  115:        }
+  116:      }      */
+  117:  //****** enemy in front, pursue until in range, narrow scan ******
+  118:  /*  while(scan_F(res30,0) >= 512)     //robot within 128m
+  119:      //50% movement boost?
+  120:      motor_forward();   
+  121:    }   */
+  122:  //****** narrow heading *******
+  123:  //    if(scan_L(res10,0) != 1023) {
+  124:  //       while(scan_F(res10,0) == 1023) {
+  125:  //          motor_left(/*speed,-127,128?*/);
+  126:  /*       }
+  127:      } else {
+  128:        if(scan_R(res10,0) != 1023) {
+  129:          while(scan_F(res10,0) == 1023) {
+  130:            motor_right(); 
+  131:          }
+  132:        }
+  133:      }  
+  134:  }  
+  135:          */
+  136:  void motor_Init(void);
+  137:  void interrupt 8 TC0Handler(void);
+  138:  
+  139:  void main(void) {
+*** EVALUATION ***
+
+Function: main
+Source  : \\psf\Home\Desktop\TRobots1_85\Lab10\Sources\main.c
+Options : -Cc -D__ONLY_INIT_SP -D__NO_FLOAT__ -D_HCS12_SERIALMON -Env"GENPATH=\\psf\Home\Desktop\TRobots1_85\Lab10;\\psf\Home\Desktop\TRobots1_85\Lab10\bin;\\psf\Home\Desktop\TRobots1_85\Lab10\prm;\\psf\Home\Desktop\TRobots1_85\Lab10\cmd;\\psf\Home\Desktop\TRobots1_85\Lab10\Sources;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\lib;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\src;C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -Env"LIBPATH=C:\Program Files\Freescale\CWS12v5.1\lib\HC12c\include" -EnvOBJPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -EnvTEXTPATH=\\psf\Home\Desktop\TRobots1_85\Lab10\bin -Lasm=%n.lst -Ms -ObjN=\\psf\Home\Desktop\TRobots1_85\Lab10\Trobot_9S12DP512_Data\HCS12_Serial_Monitor\ObjectCode\main.c.o -WmsgSd1106
+
+  140:    Mem3800[0] = 0; // leave this so the compiler will not remove it
+  0000 790000       [3]     CLR   Mem3800
+  141:    WatchWord1 = 0;
+  0003 c7           [1]     CLRB  
+  0004 87           [1]     CLRA  
+  0005 7c3802       [3]     STD   14338
+  142:    WatchWord2 = 0; 
+  0008 7c3804       [3]     STD   14340
+  143:    TSCR1 = 0x80;     // Enable TCNT, 25MHz E clock
+  000b c680         [1]     LDAB  #128
+  000d 5b00         [2]     STAB  _TSCR1
+  144:    TSCR2 = 0x00;     // divide by 1 TCNT prescale, TOI disarm
+  000f 5a00         [2]     STAA  _TSCR2
+  145:    PACTL = 0;        // timer prescale used for TCNT
+  0011 5a00         [2]     STAA  _PACTL
+  146:    DDRT = 0xFF;      // PT7-4 are left track, PT3-0 are right track
+  0013 43           [1]     DECA  
+  0014 7a0000       [3]     STAA  _DDRT
+  147:    PTT = 0x55;       // activate two track stepper coils
+  0017 c655         [1]     LDAB  #85
+  0019 7b0000       [3]     STAB  _PTT
+  148:    DDRM |= 0x80;     // PP7 is gearbox
+  001c 1c000080     [4]     BSET  _DDRM,#128
+  149:    PTP &= ~0x80;     // slow speed
+  0020 1d000080     [4]     BCLR  _PTP,#128
+  150:    ADC_Init(); 
+  0024 160000       [4]     JSR   ADC_Init
+  151:    motor_Init();    
+  0027 160000       [4]     JSR   motor_Init
+  152:    EnableInterrupts; 
+  002a 10ef         [1]     CLI   
+  153:    WatchWord1 = 999;
+  002c cc03e7       [2]     LDD   #999
+  002f 7c3802       [3]     STD   14338
+  154:    //for(;;) {
+  155:   //   motor_straight(450);
+  156:   //   Wait(64000);
+  157:   //   TIE &= 0xFE;
+  158:      motor_straight(-450);
+  0032 ccfe3e       [2]     LDD   #65086
+  0035 160000       [4]     JSR   motor_straight
+  159:      Wait(64000);    TIE &= 0xFE;
+  0038 86fa         [1]     LDAA  #250
+  003a c7           [1]     CLRB  
+  003b 0700         [4]     BSR   Wait
+  003d 4d0001       [4]     BCLR  _TIE,#1
+  160:      WatchWord1 = scan_F(res120,0);    //if(scan_F(res120,0) != 1023){
+  0040 c630         [1]     LDAB  #48
+  0042 37           [2]     PSHB  
+  0043 c7           [1]     CLRB  
+  0044 160000       [4]     JSR   scan_F
+  0047 1b81         [2]     LEAS  1,SP
+  0049 7c3802       [3]     STD   14338
+  161:      //  TIE &=0xFE;
+  162:        for(;;){}
+  004c 20fe         [3]     BRA   *+0 ;abs = 004c
+  163:     // }
+  164:   // }
+  165:  }
+  166:  
